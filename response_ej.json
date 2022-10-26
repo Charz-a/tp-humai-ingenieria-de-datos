@@ -1,0 +1,436 @@
+{
+    'status': 200,
+    'totalPagina': 30,
+    'producto': {
+        'precio_unitario_bulto_min_sin_iva': None,
+        'precio_bulto_min_con_iva': None,
+        'precio_unitario_bulto_max_sin_iva': None,
+        'marca': 'CARREFOUR',
+        'precio_bulto_max_sin_iva': None,
+        'id': '7791720024751',
+        'precio_bulto_min_sin_iva': None,
+        'precioMax': 322.0,
+        'precio_unitario_bulto_max_con_iva': None,
+        'precioMin': 322.0,
+        'nombre': 'Yerba Mate con Palo Sabor Naranja sin TACC Carrefour 500 Gr',
+        'precio_unitario_bulto_min_con_iva': None,
+        'precio_bulto_max_con_iva': None,
+        'presentacion': '500.0 gr',
+        'cantSucursalesDisponible': 9
+    },
+    'maxLimitPermitido': 50,
+    'sucursalesConProducto': 9,
+    'total': 438,
+    'sucursales': [{
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '2003',
+        'id': '7670',
+        'banderaId': '1'
+    }, {
+        'banderaId': 3,
+        'unidad_venta': '',
+        'lat': '-31.420240',
+        'lng': '-64.189650',
+        'sucursalNombre': 'SAN JUAN 217',
+        'id': '785',
+        'sucursalTipo': 'Autoservicio',
+        'provincia': 'AR-X',
+        'preciosProducto': {
+            'promo1': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_unitario_con_iva': '',
+            'precioLista': 322.0,
+            'precio_unitario_sin_iva': '',
+            'promo2': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_bulto_sin_iva': '',
+            'precio_bulto_con_iva': ''
+        },
+        'actualizadoHoy': True,
+        'direccion': 'San Juan 217',
+        'banderaDescripcion': 'Express',
+        'localidad': 'Córdoba',
+        'comercioRazonSocial': 'INC S.A.',
+        'comercioId': 10
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '24',
+        'id': '157',
+        'banderaId': '2'
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '24',
+        'id': '59',
+        'banderaId': '2'
+    }, {
+        'banderaId': 3,
+        'unidad_venta': '',
+        'lat': '-31.422938',
+        'lng': '-64.186857',
+        'sucursalNombre': 'INDEPENDENCIA 855',
+        'id': '768',
+        'sucursalTipo': 'Autoservicio',
+        'provincia': 'AR-X',
+        'preciosProducto': {
+            'promo1': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_unitario_con_iva': '',
+            'precioLista': 322.0,
+            'precio_unitario_sin_iva': '',
+            'promo2': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_bulto_sin_iva': '',
+            'precio_bulto_con_iva': ''
+        },
+        'actualizadoHoy': True,
+        'direccion': 'Independencia 855',
+        'banderaDescripcion': 'Express',
+        'localidad': 'Córdoba',
+        'comercioRazonSocial': 'INC S.A.',
+        'comercioId': 10
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '9',
+        'id': '444',
+        'banderaId': '2'
+    }, {
+        'banderaId': 3,
+        'unidad_venta': '',
+        'lat': '-31.423028',
+        'lng': '-64.186152',
+        'sucursalNombre': 'Proxi independencia 585 (CBA)',
+        'id': '720',
+        'sucursalTipo': 'Autoservicio',
+        'provincia': 'AR-X',
+        'preciosProducto': {
+            'promo1': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_unitario_con_iva': '',
+            'precioLista': 322.0,
+            'precio_unitario_sin_iva': '',
+            'promo2': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_bulto_sin_iva': '',
+            'precio_bulto_con_iva': ''
+        },
+        'actualizadoHoy': True,
+        'direccion': 'Independencia 585',
+        'banderaDescripcion': 'Express',
+        'localidad': 'Córdoba',
+        'comercioRazonSocial': 'INC S.A.',
+        'comercioId': 10
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '24',
+        'id': '83',
+        'banderaId': '2'
+    }, {
+        'banderaId': 3,
+        'unidad_venta': '',
+        'lat': '-31.415363',
+        'lng': '-64.188530',
+        'sucursalNombre': 'Belgrano 54',
+        'id': '648',
+        'sucursalTipo': 'Autoservicio',
+        'provincia': 'AR-X',
+        'preciosProducto': {
+            'promo1': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_unitario_con_iva': '',
+            'precioLista': 322.0,
+            'precio_unitario_sin_iva': '',
+            'promo2': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_bulto_sin_iva': '',
+            'precio_bulto_con_iva': ''
+        },
+        'actualizadoHoy': True,
+        'direccion': 'Belgrano 54',
+        'banderaDescripcion': 'Express',
+        'localidad': 'Córdoba',
+        'comercioRazonSocial': 'INC S.A.',
+        'comercioId': 10
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '24',
+        'id': '314',
+        'banderaId': '2'
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '10',
+        'id': '770',
+        'banderaId': '3'
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '24',
+        'id': '74',
+        'banderaId': '2'
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '10',
+        'id': '765',
+        'banderaId': '3'
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '24',
+        'id': '300',
+        'banderaId': '2'
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '24',
+        'id': '266',
+        'banderaId': '2'
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '9',
+        'id': '440',
+        'banderaId': '1'
+    }, {
+        'banderaId': 3,
+        'unidad_venta': '',
+        'lat': '-31.415653',
+        'lng': '-64.183859',
+        'sucursalNombre': 'San Martin 625',
+        'id': '769',
+        'sucursalTipo': 'Autoservicio',
+        'provincia': 'AR-X',
+        'preciosProducto': {
+            'promo1': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_unitario_con_iva': '',
+            'precioLista': 322.0,
+            'precio_unitario_sin_iva': '',
+            'promo2': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_bulto_sin_iva': '',
+            'precio_bulto_con_iva': ''
+        },
+        'actualizadoHoy': True,
+        'direccion': 'San Martin 625',
+        'banderaDescripcion': 'Express',
+        'localidad': 'Córdoba',
+        'comercioRazonSocial': 'INC S.A.',
+        'comercioId': 10
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '9',
+        'id': '435',
+        'banderaId': '2'
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '24',
+        'id': '79',
+        'banderaId': '2'
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '2011',
+        'id': '143',
+        'banderaId': '1'
+    }, {
+        'banderaId': 3,
+        'unidad_venta': '',
+        'lat': '-31.425978',
+        'lng': '-64.192761',
+        'sucursalNombre': 'Pueyrredón 298',
+        'id': '610',
+        'sucursalTipo': 'Autoservicio',
+        'provincia': 'AR-X',
+        'preciosProducto': {
+            'promo1': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_unitario_con_iva': '',
+            'precioLista': 322.0,
+            'precio_unitario_sin_iva': '',
+            'promo2': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_bulto_sin_iva': '',
+            'precio_bulto_con_iva': ''
+        },
+        'actualizadoHoy': True,
+        'direccion': 'Av. Pueyrredón 298',
+        'banderaDescripcion': 'Express',
+        'localidad': 'Córdoba',
+        'comercioRazonSocial': 'INC S.A.',
+        'comercioId': 10
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '2009',
+        'id': '78',
+        'banderaId': '1'
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '10',
+        'id': '772',
+        'banderaId': '3'
+    }, {
+        'banderaId': 3,
+        'unidad_venta': '',
+        'lat': '-31.417677',
+        'lng': '-64.196820',
+        'sucursalNombre': 'SAN JUAN 835',
+        'id': '793',
+        'sucursalTipo': 'Autoservicio',
+        'provincia': 'AR-X',
+        'preciosProducto': {
+            'promo1': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_unitario_con_iva': '',
+            'precioLista': 322.0,
+            'precio_unitario_sin_iva': '',
+            'promo2': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_bulto_sin_iva': '',
+            'precio_bulto_con_iva': ''
+        },
+        'actualizadoHoy': True,
+        'direccion': 'San Juan 835',
+        'banderaDescripcion': 'Express',
+        'localidad': 'Córdoba',
+        'comercioRazonSocial': 'INC S.A.',
+        'comercioId': 10
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '2011',
+        'id': '126',
+        'banderaId': '1'
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '24',
+        'id': '131',
+        'banderaId': '2'
+    }, {
+        'banderaId': 3,
+        'unidad_venta': '',
+        'lat': '-31.426127',
+        'lng': '-64.183581',
+        'sucursalNombre': 'Chacabuco 727',
+        'id': '607',
+        'sucursalTipo': 'Autoservicio',
+        'provincia': 'AR-X',
+        'preciosProducto': {
+            'promo1': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_unitario_con_iva': '',
+            'precioLista': 322.0,
+            'precio_unitario_sin_iva': '',
+            'promo2': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_bulto_sin_iva': '',
+            'precio_bulto_con_iva': ''
+        },
+        'actualizadoHoy': True,
+        'direccion': 'Chacabuco 727',
+        'banderaDescripcion': 'Express',
+        'localidad': 'Córdoba',
+        'comercioRazonSocial': 'INC S.A.',
+        'comercioId': 10
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '9',
+        'id': '441',
+        'banderaId': '2'
+    }, {
+        'message': 'La sucursal no contiene el producto.',
+        'comercioId': '24',
+        'id': '58',
+        'banderaId': '2'
+    }, {
+        'banderaId': 3,
+        'unidad_venta': '',
+        'lat': '-31.427629',
+        'lng': '-64.185973',
+        'sucursalNombre': 'Ituzaingo 911',
+        'id': '790',
+        'sucursalTipo': 'Autoservicio',
+        'provincia': 'AR-X',
+        'preciosProducto': {
+            'promo1': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_unitario_con_iva': '',
+            'precioLista': 322.0,
+            'precio_unitario_sin_iva': '',
+            'promo2': {
+                'descripcion': '',
+                'precio_unitario_sin_iva': '',
+                'precio_unitario_con_iva': '',
+                'precio': ''
+            },
+            'precio_bulto_sin_iva': '',
+            'precio_bulto_con_iva': ''
+        },
+        'actualizadoHoy': True,
+        'direccion': 'Ituzaingo 911',
+        'banderaDescripcion': 'Express',
+        'localidad': 'Córdoba',
+        'comercioRazonSocial': 'INC S.A.',
+        'comercioId': 10
+    }]
+}

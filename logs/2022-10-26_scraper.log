@@ -1,0 +1,16 @@
+[2022-10-26 09:09:38 AM] INFO -- : ## START get_sucursales_para_ciudad
+[2022-10-26 09:09:38 AM] INFO -- : => Obteniendo sucursales de Buenos Aires
+[2022-10-26 09:09:39 AM] INFO -- : => Pagina 0/122
+[2022-10-26 09:09:43 AM] INFO -- : => Pagina 10/122
+[2022-10-26 09:09:48 AM] INFO -- : => Pagina 20/122
+[2022-10-26 09:09:53 AM] INFO -- : => Pagina 30/122
+[2022-10-26 09:10:03 AM] INFO -- : => Pagina 40/122
+[2022-10-26 09:10:07 AM] INFO -- : => Pagina 50/122
+[2022-10-26 09:10:12 AM] INFO -- : => Pagina 60/122
+[2022-10-26 09:10:17 AM] INFO -- : => Pagina 70/122
+[2022-10-26 09:10:27 AM] INFO -- : => Pagina 80/122
+[2022-10-26 09:10:37 AM] INFO -- : => Pagina 90/122
+[2022-10-26 09:10:41 AM] INFO -- : => Pagina 100/122
+[2022-10-26 09:10:46 AM] INFO -- : => Pagina 110/122
+[2022-10-26 09:10:50 AM] INFO -- : => Pagina 120/122
+[2022-10-26 09:10:51 AM] INFO -- : ## END get_sucursales_para_ciudad

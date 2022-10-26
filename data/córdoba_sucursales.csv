@@ -1,0 +1,931 @@
+distanciaNumero,distanciaDescripcion,banderaId,lat,lng,sucursalNombre,id,sucursalTipo,provincia,direccion,banderaDescripcion,localidad,comercioRazonSocial,comercioId,sucursalId
+0.1536,0.15 kilómetros,2,-31.41462,-64.1820,CBAPeatonal [9 de Julio 336],24-2-101,Autoservicio,AR-X,9 De Julio 336,FARMACITY,Córdoba,Farmacity S.A.,24,101
+0.1999,0.20 kilómetros,2,-31.41408,-64.18304,CBAColon [Colon 66/68],24-2-58,Supermercado,AR-X,Colon 66/ 68,FARMACITY,Córdoba,Farmacity S.A.,24,58
+0.2143,0.21 kilómetros,1,-31.4136,-64.1833,BAZAR AVENIDA SA - Cordoba San Martin,2008-1-38,Tradicional,AR-X,San Martin 199,MEGATONE,Cordoba,BAZAR AVENIDA S.A.,2008,38
+0.2148,0.21 kilómetros,3,-31.415382,-64.180514,Alvear 126,10-3-641,Autoservicio,AR-X,Alvear 126,Express,Córdoba,INC S.A.,10,641
+0.2549,0.25 kilómetros,1,-31.414595,-64.183407,CDB - Cordoba - PE San Martin ,2009-1-78,Supermercado,AR-X,Peatonal San Martin 175,CETROGAR,Córdoba,CETROGAR  S.A,2009,78
+0.3404,0.34 kilómetros,1,-31.41362,-64.184627,CDBA-CORDOBA-INDARTE PEAT-MU,2011-1-126,Supermercado,AR-X,Jose Rivera Indarte 175,Musimundo,CORDOBA,Electronica Megatone S.A,2011,126
+0.3583,0.36 kilómetros,3,-31.415653,-64.183859,San Martin 625,10-3-769,Autoservicio,AR-X,San Martin 625,Express,Córdoba,INC S.A.,10,769
+0.3677,0.37 kilómetros,1,-31.41462,-64.184689,CDBA-CORDOBA-9JUL-MU,2011-1-143,Autoservicio,AR-X,9 De Julio 97,Musimundo,CORDOBA,Electronica Megatone S.A,2011,143
+0.3737,0.37 kilómetros,2,-31.416076,-64.183584,Plaza SM CBA [Rosario de Santa Fe 17/,24-2-266,Supermercado,AR-X,Rosario De Santa Fe 17,FARMACITY,Córdoba,Farmacity S.A.,24,266
+0.4176,0.42 kilómetros,3,-31.412485,-64.185278,General Paz 240,10-3-642,Autoservicio,AR-X,Gral. Paz 240,Express,Córdoba,INC S.A.,10,642
+0.4289,0.43 kilómetros,3,-31.417021,-64.182915,Buenos Aires 65,10-3-765,Autoservicio,AR-X,Buenos Aires 65,Express,Córdoba,INC S.A.,10,765
+0.5267,0.53 kilómetros,2,-31.414486,-64.186467,Gral. Paz CBA [Av. General Paz 36/38,24-2-300,Supermercado,AR-X,Av. General Paz 36,FARMACITY,Córdoba,Farmacity S.A.,24,300
+0.7061,0.71 kilómetros,2,-31.4168,-64.1874,Vélez I.,9-2-444,Supermercado,AR-X,Avenida Velez Sarsfield Dr Dalmacio 132,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,444
+0.7408,0.74 kilómetros,3,-31.415363,-64.188530,Belgrano 54,10-3-648,Autoservicio,AR-X,Belgrano 54,Express,Córdoba,INC S.A.,10,648
+0.7542,0.75 kilómetros,2,-31.416192,-64.188333,CBA27deabril [27 de Abril 284],24-2-83,Autoservicio,AR-X,27 De Abril 284,FARMACITY,Córdoba,Farmacity S.A.,24,83
+0.8124,0.81 kilómetros,1,-31.4116,-64.1893,Colon II.,9-1-476,Supermercado,AR-X,Avenida Colon 461,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,476
+0.87,0.87 kilómetros,2,-31.41943,-64.18704,CBAVSarfield [Velez Sarfield 294],24-2-59,Supermercado,AR-X,Velez Sarfield 294,FARMACITY,Córdoba,Farmacity S.A.,24,59
+0.9692,0.97 kilómetros,2,-31.42013,-64.18769,CBA BVSANJUAN [Bv. San Juan Nº 24],24-2-157,Autoservicio,AR-X,Bv. San Juan N° 24,FARMACITY,Córdoba,Farmacity S.A.,24,157
+0.9879,0.99 kilómetros,1,-31.419904,-64.188271,PATIO OLMOS,2003-1-7670,Tradicional,AR-X,Avenida Velez Sarsfield 361,Samsung,CORDOBA,GMRA S.A.,2003,7670
+0.9964,1.00 kilómetros,2,-31.422445,-64.182041,CBAChacabuco 2 [Chacabuco 79],24-2-79,Autoservicio,AR-X,Chacabuco 79,FARMACITY,Córdoba,Farmacity S.A.,24,79
+1.0051,1.01 kilómetros,1,-31.4225,-64.1823,Chacabuco.,9-1-440,Supermercado,AR-X,Boulevard Chacabuco 199,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,440
+1.0201,1.02 kilómetros,3,-31.422657,-64.180026,MINI - ILLIA 490,10-3-776,Autoservicio,AR-X,Illia 490,Express,Córdoba,INC S.A.,10,776
+1.0447,1.04 kilómetros,2,-31.41324,-64.19203,CBALacañada [Gral J A Lavalleja 34],24-2-131,Supermercado,AR-X,Gral J A Lavalleja 34,FARMACITY,Córdoba,Farmacity S.A.,24,131
+1.0453,1.05 kilómetros,3,-31.413448,-64.192041,Lavalleja 49,10-3-772,Autoservicio,AR-X,Lavalleja 49,Express,Córdoba,INC S.A.,10,772
+1.0625,1.06 kilómetros,3,-31.413639,-64.169879,LIMA 987,10-3-786,Autoservicio,AR-X,Lima 987,Express,Córdoba,INC S.A.,10,786
+1.1065,1.11 kilómetros,3,-31.423132,-64.184088,Ituzaingo 7514,10-3-770,Autoservicio,AR-X,Ituzaingo 514,Express,Córdoba,INC S.A.,10,770
+1.108,1.11 kilómetros,3,-31.420240,-64.189650,SAN JUAN 217,10-3-785,Autoservicio,AR-X,San Juan 217,Express,Córdoba,INC S.A.,10,785
+1.1264,1.13 kilómetros,3,-31.415769,-64.169505,25 de Mayo 979,10-3-644,Autoservicio,AR-X,25 De Mayo 979,Express,Córdoba,INC S.A.,10,644
+1.1471,1.15 kilómetros,2,-31.415829,-64.169298,Felix Frias CBA [25 de Mayo 998],24-2-313,Supermercado,AR-X,25 De Mayo 998,FARMACITY,Córdoba,Farmacity S.A.,24,313
+1.1477,1.15 kilómetros,2,-31.4108,-64.1927,Colón.,9-2-439,Supermercado,AR-X,Avenida Colon 683,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,439
+1.1627,1.16 kilómetros,3,-31.423028,-64.186152,Proxi independencia 585 (CBA),10-3-720,Autoservicio,AR-X,Independencia 585,Express,Córdoba,INC S.A.,10,720
+1.1665,1.17 kilómetros,2,-31.41091,-64.192938,CBAColon 2 [Colon 717],24-2-75,Supermercado,AR-X,Colon 717,FARMACITY,Córdoba,Farmacity S.A.,24,75
+1.1834,1.18 kilómetros,3,-31.422938,-64.186857,INDEPENDENCIA 855,10-3-768,Autoservicio,AR-X,Independencia 855,Express,Córdoba,INC S.A.,10,768
+1.3121,1.31 kilómetros,3,-31.425267,-64.179609,Av. San Lorenzo 480/84,10-3-764,Autoservicio,AR-X,Av. San Lorenzo 480,Express,Córdoba,INC S.A.,10,764
+1.3456,1.35 kilómetros,2,-31.4252,-64.1848,Los 33.,9-2-435,Supermercado,AR-X,Ituzaingo 701,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,435
+1.3842,1.38 kilómetros,2,-31.425169,-64.186218,CBAIrigoyen [Hipolito Irigoyen 396],24-2-74,Autoservicio,AR-X,Hipolito Irigoyen 396,FARMACITY,Córdoba,Farmacity S.A.,24,74
+1.4063,1.41 kilómetros,2,-31.4191264,-64.1943026,Bv. San Juan II CBA [Bv. San Juan 460],24-2-314,Supermercado,AR-X,Boulevard San Juan N° 460/466 460,FARMACITY,Córdoba,Farmacity S.A.,24,314
+1.4208,1.42 kilómetros,3,-31.426127,-64.183581,Chacabuco 727,10-3-607,Autoservicio,AR-X,Chacabuco 727,Express,Córdoba,INC S.A.,10,607
+1.4695,1.47 kilómetros,1,-31.4137,-64.1656,24 de Septiembre.,9-1-473,Supermercado,AR-X,Avenida 24 De Septiembre 1330,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,473
+1.5697,1.57 kilómetros,3,-31.417677,-64.196820,SAN JUAN 835,10-3-793,Autoservicio,AR-X,San Juan 835,Express,Córdoba,INC S.A.,10,793
+1.6022,1.60 kilómetros,1,-31.3998,-64.1757,Bulnes,23-1-6286,Autoservicio,AR-X,Bulnes 1108,Axion Energy,Cordoba,Pan American Energy LLC Argentina,23,6286
+1.6111,1.61 kilómetros,1,-31.4279,-64.1833,Olmos I.,9-1-434,Supermercado,AR-X,Avenida Olmos Emilio F 78,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,434
+1.6128,1.61 kilómetros,1,-31.4007,-64.173,BAZAR AVENIDA SA - Cordoba Suipacha,2008-1-37,Tradicional,AR-X,Luque 1477,MEGATONE,Cordoba,BAZAR AVENIDA S.A.,2008,37
+1.6257,1.63 kilómetros,2,-31.3990501,-64.1839327,Bedoya y Jujuy [Jujuy 1492],24-2-325,Supermercado,AR-X,Jujuy 1492,FARMACITY,Córdoba,Farmacity S.A.,24,325
+1.6353,1.64 kilómetros,3,-31.427629,-64.185973,Ituzaingo 911,10-3-790,Autoservicio,AR-X,Ituzaingo 911,Express,Córdoba,INC S.A.,10,790
+1.6526,1.65 kilómetros,3,-31.412863,-64.163689,24 DE SEPT. 1500,10-3-767,Autoservicio,AR-X,24 De Sept. 1594,Express,Córdoba,INC S.A.,10,767
+1.7078,1.71 kilómetros,2,-31.4277,-64.1880,Estrada.,9-2-441,Supermercado,AR-X,J.M. Estada 66,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,441
+1.7133,1.71 kilómetros,2,-31.3981,-64.1825,Alta Córdoba.,9-2-33,Supermercado,AR-X,J. L. Cabrera 493,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,33
+1.7597,1.76 kilómetros,2,-31.42895,-64.18527,CBAEstrada [J. M. Estrada 153],24-2-70,Supermercado,AR-X,J. M. Estrada 153,FARMACITY,Córdoba,Farmacity S.A.,24,70
+1.77,1.77 kilómetros,1,-31.424833,-64.167944,Super Mami 1,1-1-4,Hipermercado,AR-X,Agustin Garzon 1252,Super MAMI,CORDOBA,Dinosaurio S.A.,1,4
+1.7763,1.78 kilómetros,3,-31.425978,-64.192761,Pueyrredón 298,10-3-610,Autoservicio,AR-X,Av. Pueyrredón 298,Express,Córdoba,INC S.A.,10,610
+1.8525,1.85 kilómetros,2,-31.4126,-64.1616,Nuevo Centro.,9-2-451,Supermercado,AR-X,Duarte Quiros Ignacio 1450,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,451
+1.8552,1.86 kilómetros,1,-31.4034,-64.1655,Buchardo.,9-1-32,Supermercado,AR-X,Buchardo 1654,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,32
+1.888,1.89 kilómetros,3,-31.397275,-64.187064,BEDOYA 695,10-3-784,Autoservicio,AR-X,Bedoya 695,Express,Córdoba,INC S.A.,10,784
+1.9655,1.97 kilómetros,3,-31.428959,-64.191160,Ovispo Trejo 1166,10-3-606,Autoservicio,AR-X,Ovispo Trejo 1166,Express,Córdoba,INC S.A.,10,606
+1.9815,1.98 kilómetros,3,-31.430384,-64.187869,Proxi Chile 154 (CBA),10-3-736,Autoservicio,AR-X,Chile 154,Express,Córdoba,INC S.A.,10,736
+2.0294,2.03 kilómetros,2,-31.408211,-64.201477,Colon 3 CBA [Colon 1356/58],24-2-295,Supermercado,AR-X,Colon 1356,FARMACITY,Córdoba,Farmacity S.A.,24,295
+2.1025,2.10 kilómetros,3,-31.402623,-64.199156,Santa Fe 723,10-3-771,Autoservicio,AR-X,Santa Fe 723,Express,Córdoba,INC S.A.,10,771
+2.1168,2.12 kilómetros,2,-31.400508,-64.197356,CBACBarros [Castro Barros 523],24-2-90,Autoservicio,AR-X,Castro Barros 523,FARMACITY,Córdoba,Farmacity S.A.,24,90
+2.1394,2.14 kilómetros,2,-31.424285,-64.199703,CBAPueyrredon [Pueyrredon 60],24-2-88,Autoservicio,AR-X,Pueyrredon 60,FARMACITY,Córdoba,Farmacity S.A.,24,88
+2.191,2.19 kilómetros,1,-31.41323,-64.204085,CDBA-CORDOBA-NUEVOCENTRO SH-MU,2011-1-192,Supermercado,AR-X,Avda Duarte Quiros 1400,Musimundo,CORDOBA,Electronica Megatone S.A,2011,192
+2.233,2.23 kilómetros,1,-31.412931,-64.204520,NUEVO CENTRO,2003-1-7400,Tradicional,AR-X,Avenida Duarte Quiros 1400,Samsung,CORDOBA,GMRA S.A.,2003,7400
+2.4188,2.42 kilómetros,1,-31.39184,-64.184045,CDBA-ALTA CORDOBA-FRAG-MU,2011-1-210,Autoservicio,AR-X,Mariano Fragueiro 2054,Musimundo,CORDOBA,Electronica Megatone S.A,2011,210
+2.4394,2.44 kilómetros,2,-31.391660,-64.184111,Fragueiro CBA [Fragueiro 2070],24-2-259,Supermercado,AR-X,Fragueiro 2070,FARMACITY,ALTA CORDOBA (CORDOBA),Farmacity S.A.,24,259
+2.4647,2.46 kilómetros,3,-31.406416,-64.205613,Avenida Colón€1750 (Córdoba),10-3-810,Autoservicio,AR-X,Avenida Colón 1750,Express,Córdoba,INC S.A.,10,810
+2.521,2.52 kilómetros,3,-31.390962,-64.184520,Sarachaga 780/82,10-3-762,Autoservicio,AR-X,Sarachaga 780,Express,Córdoba,INC S.A.,10,762
+2.6466,2.65 kilómetros,3,-31.389743,-64.183702,M. FRAGUEIRO 2220,10-3-794,Autoservicio,AR-X,M. Fragueiro 2220,Express,Córdoba,INC S.A.,10,794
+2.7582,2.76 kilómetros,3,-31.411817,-64.209985,DUARTE Q. 1851,10-3-789,Autoservicio,AR-X,Duarte Q. 1851,Express,Córdoba,INC S.A.,10,789
+3.0685,3.07 kilómetros,1,-31.4054,-64.2119,Zanni.,9-1-455,Supermercado,AR-X,Avenida Colon Esquina P. Zanni 0,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,455
+3.1842,3.18 kilómetros,1,-31.4333,-64.1568,Ruta 9.,9-1-453,Supermercado,AR-X,Avenida Sabattini Dr Amadeo 2180,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,453
+3.1908,3.19 kilómetros,2,-31.433036,-64.156415,Sabattini CBA [Av. Sabattini 2225],24-2-318,Supermercado,AR-X,Av. Sabattini 2225,FARMACITY,Córdoba,Farmacity S.A.,24,318
+3.2384,3.24 kilómetros,5,-31.391634,-64.158483,Córdoba Este,11-5-3606,Hipermercado,AR-X,Mauricio Yadarola 1699,Walmart SuperCenter,CIUDAD DE CORDOBA NORTE,Wal Mart Argentina S.R.L.,11,3606
+3.2628,3.26 kilómetros,1,-31.4233,-64.1487,BAZAR AVENIDA SA - Cordoba San Vicente,2008-1-352,Tradicional,AR-X,San Jeronimo 2787,MEGATONE,Cordoba,BAZAR AVENIDA S.A.,2008,352
+3.4048,3.40 kilómetros,1,-31.4235,-64.1472,San Vicente.,9-1-432,Supermercado,AR-X,San Jeronimo 2830,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,432
+3.4519,3.45 kilómetros,1,-31.428833,-64.212639,Super Mami 2,1-1-2,Hipermercado,AR-X,Av. Fuerza Aerea 1700,Super MAMI,CORDOBA,Dinosaurio S.A.,1,2
+3.5357,3.54 kilómetros,1,-31.4450,-64.1868,Ipona.,9-1-472,Supermercado,AR-X,Avenida Ciudad De Valparaiso 2048,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,472
+3.7851,3.79 kilómetros,2,-31.430583,-64.215509,CBA Fza Aerea [Av. Fuerza Aérea Argen,24-2-210,Autoservicio,AR-X,Fza. Aerea Argentina 1895,FARMACITY,Córdoba,Farmacity S.A.,24,210
+3.7949,3.79 kilómetros,1,-31.3796,-64.1756,Juan B. Justo.,9-1-114,Supermercado,AR-X,Juan B. Justo 3900,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,114
+3.8014,3.80 kilómetros,3,-31.380407,-64.170625,Av. Capdevila 264,10-3-807,Autoservicio,AR-X,Av. Capdevila 264,Express,Córdoba,INC S.A.,10,807
+4.0614,4.06 kilómetros,1,-31.4303,-64.2190,Ruta 20.,9-1-437,Supermercado,AR-X,Avenida Fuerza Aerea Argentina 2080,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,437
+4.1289,4.13 kilómetros,2,-31.450725,-64.181917,EliasYofre CBA [Bulevar Elias Yofre,24-2-285,Supermercado,AR-X,Eliasyofre 965,FARMACITY,Córdoba,Farmacity S.A.,24,285
+4.146,4.15 kilómetros,2,-31.4507,-64.1767,Ricchieri.,9-2-460,Supermercado,AR-X,Avenida Ricchieri 3296,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,460
+4.1691,4.17 kilómetros,2,-31.4478,-64.1990,Vélez Sarsfield.,9-2-28,Supermercado,AR-X,Friuli 1845,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,28
+4.2689,4.27 kilómetros,2,-31.448654,-64.199345,CBA VELEZ SARSFIELD 2 [Av. Vélez Sarsfield n° 3335,24-2-223,Autoservicio,AR-X,Av. Vélez Sarsfield 3335,FARMACITY,Córdoba,Farmacity S.A.,24,223
+4.5427,4.54 kilómetros,1,-31.443295,-64.148264,Sucursal 1,8-1-1,Supermercado,AR-X,Av. 11 De Septiembre 2765,Mariano Max,CORDOBA,Mariano S.A.,8,1
+4.6399,4.64 kilómetros,1,-31.43119,-64.225266,CDBA-CORDOBA-FUERZA AEREA-MU,2011-1-221,Autoservicio,AR-X,Avda Fuerza Aerea Argentina 2769,Musimundo,CORDOBA,Electronica Megatone S.A,2011,221
+4.6698,4.67 kilómetros,1,-31.38622,-64.21845,VILLA CABRERA,19-1-02110,Autoservicio,AR-X,Avda. Caraffa Y Octavio Pinto 0,FULL,CORDOBA,Operadora de Estaciones de Servicios S.A.,19,02110
+4.6784,4.68 kilómetros,2,-31.431295,-64.225656,FUERZA AÉREA II CBA [Fuerza Aérea 2789],24-2-274,Supermercado,AR-X,Fuerza Aérea Ii 2789,FARMACITY,Córdoba,Farmacity S.A.,24,274
+4.7003,4.70 kilómetros,2,-31.376966,-64.206102,Bv. los Granaderos CBA [Bv. Los Granaderos 2455],24-2-306,Supermercado,AR-X,Boulevard Los Granaderos 2455,FARMACITY,Córdoba,Farmacity S.A.,24,306
+4.7292,4.73 kilómetros,1,-31.412738,-64.230768,Sucursal 5,8-1-5,Hipermercado,AR-X,Av. Santa Ana 3551,Mariano Max,CORDOBA,Mariano S.A.,8,5
+4.8734,4.87 kilómetros,1,-31.455534,-64.166095,Córdoba Jardín,10-1-24,Hipermercado,AR-X,Av. O'Higgins 3765,Hipermercado Carrefour,Jardin Espinoza,INC S.A.,10,24
+4.8869,4.89 kilómetros,2,-31.3802,-64.2147,Córdoba Shopping.,9-2-60,Supermercado,AR-X,Goyechea 2851,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,60
+4.9014,4.90 kilómetros,1,-31.380315,-64.215085,CORDOBA SHOPPING,2003-1-7370,Tradicional,AR-X,Jose Antonio De Goyechea 2851,Samsung,CORDOBA,GMRA S.A.,2003,7370
+4.9245,4.92 kilómetros,1,-31.379569,-64.147652,Sucursal 2,8-1-2,Hipermercado,AR-X,Av. Arturo Capdevila 1831,Mariano Max,CORDOBA,Mariano S.A.,8,2
+4.9251,4.93 kilómetros,1,-31.38056,-64.215779,CDBA-CORDOBA-CORDOBA SH-MU,2011-1-294,Supermercado,AR-X,Jose Goyechea 2851,Musimundo,CORDOBA,Electronica Megatone S.A,2011,294
+5.0491,5.05 kilómetros,1,-31.4536,-64.2062,Armada Argentina.,9-1-466,Supermercado,AR-X,Avenida Armada Argentina 334,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,466
+5.0629,5.06 kilómetros,3,-31.402219,-64.232631,27 de Abril 458,10-3-766,Autoservicio,AR-X,27 De Abril 458,Express,Córdoba,INC S.A.,10,766
+5.1393,5.14 kilómetros,1,-31.458087,-64.166307,EASY CORDOBA,3001-1-115,Hipermercado,AR-X,"Avenida O Higgins, Barrio Jardin 3853",EASY,Barrio Jardin - Camino San,EASY S.A.,3001,115
+5.2014,5.20 kilómetros,1,-31.457372,-64.200399,Sucursal 7,8-1-7,Hipermercado,AR-X,Av. Vélez Sársfield 4051,Mariano Max,CORDOBA,Mariano S.A.,8,7
+5.2441,5.24 kilómetros,1,-31.388667,-64.13413,CDBA-CORDOBA-ALTOLAGUIRRE-MU,2011-1-315,Supermercado,AR-X,Altolaguirre 1693,Musimundo,CORDOBA,Electronica Megatone S.A,2011,315
+5.2842,5.28 kilómetros,1,-31.37100,-64.20617,CORDOBA LA FRANCE,19-1-03263,Autoservicio,AR-X,Cabrera Y Cardeñosa 0,FULL,CORDOBA,Operadora de Estaciones de Servicios S.A.,19,03263
+5.3305,5.33 kilómetros,2,-31.374529,-64.213855,Córdoba Granaderos,10-2-295,Supermercado,AR-X,Bvard. Granaderos 2906,Market,Alto Verde,INC S.A.,10,295
+5.3971,5.40 kilómetros,1,-31.39798,-64.234831,CDBA-CORDOBA-COLON-MU,2011-1-135,Autoservicio,AR-X,Avda Colon 4213,Musimundo,CORDOBA,Electronica Megatone S.A,2011,135
+5.3998,5.40 kilómetros,2,-31.3806,-64.2229,Cerro II.,9-2-436,Supermercado,AR-X,Avenida Nuñez Rafael 3657,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,436
+5.4589,5.46 kilómetros,1,-31.365896,-64.16644,Sucursal 3,8-1-3,Supermercado,AR-X,Carlos Gimenez 35,Mariano Max,CORDOBA,Mariano S.A.,8,3
+5.5073,5.51 kilómetros,1,-31.397407,-64.235828,CDB - Cordoba - Av Colon,2009-1-67,Supermercado,AR-X,Av. Colon  Esq. Sagrada Familia 4289,CETROGAR,Cordoba,CETROGAR  S.A,2009,67
+5.6016,5.60 kilómetros,1,-31.439,-64.1302,El Arco,23-1-6255,Autoservicio,AR-X,Av. A Sabattini 4720,Axion Energy,Cordoba,Pan American Energy LLC Argentina,23,6255
+5.6438,5.64 kilómetros,3,-31.382931,-64.133611,J de Altolaguirre 2222,10-3-806,Autoservicio,AR-X,J De Altolaguirre 2222,Express,Córdoba,INC S.A.,10,806
+5.6644,5.66 kilómetros,1,-31.3969809,-64.2374040,Cordoba Norte,2002-1-169,Tradicional,AR-X,Av. Colon 4330,Fravega,Cordoba,FRAVEGA S A C I E I,2002,169
+5.6966,5.70 kilómetros,1,-31.367443,-64.207571,CDBA-CORDOBA-HIPERCONST SH-MU,2011-1-310,Supermercado,AR-X,Av Cardeñosa Y Fray Luis Beltr None,Musimundo,MARQUES DE SOBREMONTES,Electronica Megatone S.A,2011,310
+6.0353,6.04 kilómetros,1,-31.35946,-64.173522,EASY CORDOBA J.B. JUSTO,3001-1-120,Supermercado,AR-X,Avenida Juan B Justo Y Circunvalacion 0,EASY,Cordoba,EASY S.A.,3001,120
+6.0718,6.07 kilómetros,2,-31.373278,-64.224357,CBACerro3 [Av. Rafael Nuñez 3660],24-2-109,Autoservicio,AR-X,Av. Rafael Nuñez 3660,FARMACITY,Córdoba,Farmacity S.A.,24,109
+6.0815,6.08 kilómetros,1,-31.455694,-64.140194,Super Mami 6,1-1-9,Hipermercado,AR-X,Av. De Circunvalacion Agustin Tosco Entre Juan Jufre Y Juan R. Estomba None,Super MAMI,CORDOBA,Dinosaurio S.A.,1,9
+6.1893,6.19 kilómetros,5,-31.466986,-64.162452,Córdoba Sur,11-5-1010,Hipermercado,AR-X,Av Circunvalacion Este 2557,Walmart SuperCenter,CIUDAD DE CORDOBA NORTE,Wal Mart Argentina S.R.L.,11,1010
+6.2652,6.27 kilómetros,1,-31.393915,-64.242835,Córdoba Colon,10-1-9,Hipermercado,AR-X,Av. Colón 4880,Hipermercado Carrefour,Villa Urquiza,INC S.A.,10,9
+6.3166,6.32 kilómetros,2,-31.3670,-64.2194,Recta Martinolli.,9-2-468,Supermercado,AR-X,Recta Martinolli 7120,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,468
+6.3278,6.33 kilómetros,2,-31.432014,-64.243991,CDBA-Fuerza Aerea,11-2-1060,Supermercado,AR-X,Av Fuerza Aerea Argentina 4372,Changomas,BARRIO MATIENZO *,Wal Mart Argentina S.R.L.,11,1060
+6.3639,6.36 kilómetros,1,-31.366472,-64.219389,Super Mami 5,1-1-1,Hipermercado,AR-X,Rodriguez Del Busto 4086,Super MAMI,CORDOBA,Dinosaurio S.A.,1,1
+6.4111,6.41 kilómetros,1,-31.463799,-64.214291,Super Mami 3,1-1-5,Hipermercado,AR-X,Gondola De Venecia 7,Super MAMI,CORDOBA,Dinosaurio S.A.,1,5
+6.5396,6.54 kilómetros,1,-31.363141,-64.216820,PASEO LUGONES,2003-1-7640,Tradicional,AR-X,Oliverio Girondo 3303,Samsung,CORDOBA,GMRA S.A.,2003,7640
+6.965,6.96 kilómetros,1,-31.36395,-64.22604,CORDOBA LA CORDILLERA,19-1-02102,Autoservicio,AR-X,Av. Cordillera Y Spilimbergo 0,FULL,CORDOBA,Operadora de Estaciones de Servicios S.A.,19,02102
+6.9977,7.00 kilómetros,2,-31.36879,-64.23296,CBACLasRosas [Rafael Nuñez 4053],24-2-60,Autoservicio,AR-X,Rafael Nuñez 4053,FARMACITY,Córdoba,Farmacity S.A.,24,60
+7.0896,7.09 kilómetros,2,-31.363195,-64.227042,CBA CORDILLERA [Av. La Cordillera 3941],24-2-168,Supermercado,AR-X,Av. La Cordillera 3941,FARMACITY,Córdoba,Farmacity S.A.,24,168
+7.5722,7.57 kilómetros,1,-31.36442,-64.23639,ACA CORDOBA RAFAEL NUÑEZ,19-1-03264,Autoservicio,AR-X,Av.Rafael Nuñez Y Echenique 0,FULL,CORDOBA,Operadora de Estaciones de Servicios S.A.,19,03264
+7.7064,7.71 kilómetros,2,-31.3630,-64.2367,Cerro las Rosas.,9-2-29,Supermercado,AR-X,Avenida Nuñez Rafaal 4630,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,29
+7.7444,7.74 kilómetros,5,-31.395535,-64.259731,Córdoba OE,11-5-3605,Hipermercado,AR-X,Av Colon 6051,Walmart SuperCenter,CIUDAD DE CORDOBA NORTE,Wal Mart Argentina S.R.L.,11,3605
+8.5262,8.53 kilómetros,1,-31.378776,-64.261021,EASY CORDOBA CARCANO,3001-1-121,Supermercado,AR-X,Avenida Ramon Carcano 995,EASY,"Chateau Carreras, Cordoba",EASY S.A.,3001,121
+9.1584,9.16 kilómetros,1,-31.3527,-64.2462,Arguello.,9-1-475,Supermercado,AR-X,Avenida Nuñez Rafael 5557,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,475
+9.5844,9.58 kilómetros,2,-31.349526,-64.248787,CBACerro2 [Rafael Nuñez 4418],24-2-86,Supermercado,AR-X,Rafael Nuñez 4418,FARMACITY,Córdoba,Farmacity S.A.,24,86
+9.7068,9.71 kilómetros,1,-31.35030,-64.25164,CORDOBA ARGUELLO,19-1-02101,Autoservicio,AR-X,Av.Recta Martinoli Y Ticho Bra 0,FULL,CORDOBA,Operadora de Estaciones de Servicios S.A.,19,02101
+11.0611,11.06 kilómetros,2,-31.347528,-64.268249,Recta Martinioli CBA [Av. Recta Mar,24-2-312,Supermercado,AR-X,Av. Recta Martinoli 7759,FARMACITY,Córdoba,Farmacity S.A.,24,312
+11.2006,11.20 kilómetros,1,-31.346646,-64.269297,Córdoba Recta Martinolli,10-1-50,Hipermercado,AR-X,Recta Martinolli 7850,Hipermercado Carrefour,Quintas de Arguello,INC S.A.,10,50
+11.3352,11.34 kilómetros,2,-31.315149,-64.213501,CBA Aerop.Pajas Blancas [Aeropuerto Cordoba],24-2-34,Autoservicio,AR-X,Cba Aerop.Pajas Blancas [Aeropuerto Cordoba] 0,FARMACITY,Córdoba,Farmacity S.A.,24,34
+12.0097,12.01 kilómetros,2,-31.3468,-64.2805,Recta Martinolli ll,9-2-709,Supermercado,AR-X,Avenida Recta Martinoli 8469,Disco,CORDOBA,Jumbo Retail Argentina S.A.,9,709
+12.9878,12.99 kilómetros,2,-31.324020,-64.269118,Cordoba Donato Alvarez,11-2-1097,Hipermercado,AR-X,Avenida Donato Alvarez 8600,Changomas,BARRIO AERONAUTICO *,Wal Mart Argentina S.R.L.,11,1097
+13.3472,13.35 kilómetros,1,-31.322263,-64.272537,CDB - Cordoba - Av Donato Alvarez ,2009-1-86,Supermercado,AR-X,Av. Donato Alvarez 8840,CETROGAR,Villa Allende,CETROGAR  S.A,2009,86
+13.4877,13.49 kilómetros,1,-31.334028,-64.288360,PASEO RIVERA INDARTE,2003-1-7630,Tradicional,AR-X,Avenida Enrique Bodereau 7571,Samsung,CORDOBA,GMRA S.A.,2003,7630
+15.518,15.52 kilómetros,1,-31.300019,-64.276462,Córdoba Villa Allende,10-1-54,Hipermercado,AR-X,Av. Río De Janeiro 1787,Hipermercado Carrefour,Villa Allende Lomas,INC S.A.,10,54
+15.9138,15.91 kilómetros,2,-31.3015,-64.2856,SM 583 - Villa Allende.,9-2-583,Supermercado,AR-X,Goycoechea 1327,Disco,VILLA ALLENDE,Jumbo Retail Argentina S.A.,9,583
+16.2391,16.24 kilómetros,1,-31.29942,-64.28804,ACA VILLA ALLENDE,19-1-03235,Autoservicio,AR-C,Goycoechea 1169 0,FULL,VILLA ALLENDE,Operadora de Estaciones de Servicios S.A.,19,03235
+16.2753,16.28 kilómetros,1,-31.3003,-64.2899,Villa Allende,23-1-6269,Autoservicio,AR-X,Av. Goycochea 1235,Axion Energy,Villa Allende,Pan American Energy LLC Argentina,23,6269
+16.5656,16.57 kilómetros,1,-31.34632,-64.336565,CDBA-LA CALERA-SM-MU,2011-1-220,Autoservicio,AR-X,San Martin 577,Musimundo,LA CALERA,Electronica Megatone S.A,2011,220
+16.8164,16.82 kilómetros,1,-31.3451,-64.3388,La Calera..,9-1-485,Supermercado,AR-X,Moyano Saul 200,Vea,CORDOBA,Jumbo Retail Argentina S.A.,9,485
+28.9275,28.93 kilómetros,2,-31.4130,-64.4852,Acceso.,9-2-449,Supermercado,AR-X,San Martin 1173,Disco,VILLA CARLOS PAZ,Jumbo Retail Argentina S.A.,9,449
+29.3574,29.36 kilómetros,2,-31.1833,-64.3333,Rio Ceballos.,9-2-843,Supermercado,AR-X,Avenida San Martin 5259,Disco,RIO CEBALLOS,Jumbo Retail Argentina S.A.,9,843
+29.7622,29.76 kilómetros,1,-31.41572,-64.49397,VILLA CARLOS PAZ,19-1-02501,Autoservicio,AR-X,Uruguay 680 Esq.Bolsacher 0,FULL,Villa Carlos Paz,Operadora de Estaciones de Servicios S.A.,19,02501
+29.7918,29.79 kilómetros,1,-31.171592,-64.317123,CDBA-RIO CEBALLOS-SM-MU,2011-1-269,Autoservicio,AR-X,Av. San Martin 4246,Musimundo,RIO CEBALLOS,Electronica Megatone S.A,2011,269
+29.8739,29.87 kilómetros,2,-31.4188,-64.4951,Carlos Paz.,9-2-233,Supermercado,AR-X,San Martin 311,Disco,VILLA CARLOS PAZ,Jumbo Retail Argentina S.A.,9,233
+30.0993,30.10 kilómetros,1,-31.4259293,-64.4972102,Carlos Paz,2005-1-50,Autoservicio,AR-X,Ramon Carcano 220,Naldo,Villa Carlos Paz,Naldo Lombardi SA,2005,50
+30.1239,30.12 kilómetros,1,-31.42,-64.4977,BAZAR AVENIDA SA - Carlos Paz II,2008-1-421,Tradicional,AR-X,Av. San Martin 101,MEGATONE,Villa Carlos Paz,BAZAR AVENIDA S.A.,2008,421
+30.1357,30.14 kilómetros,1,-31.4200500,-64.4978230,Carlos Paz,2002-1-176,Tradicional,AR-X,Av. San Martin 95,Fravega,Carlos Paz,FRAVEGA S A C I E I,2002,176
+30.1671,30.17 kilómetros,1,-31.42001,-64.498155,CDBA-V CARLOS PAZ-SM-MU,2011-1-173,Autoservicio,AR-X,Avda San Martin 93,Musimundo,VILLA CARLOS PAZ,Electronica Megatone S.A,2011,173
+30.2583,30.26 kilómetros,3,-31.420530,-64.499099,San Martín 26,10-3-650,Autoservicio,AR-X,San Martín 26,Express,Córdoba,INC S.A.,10,650
+30.2732,30.27 kilómetros,1,-31.1678,-64.3196,BAZAR AVENIDA SA - Rio Ceballos,2008-1-398,Tradicional,AR-X,Av. San Martin 4850,MEGATONE,Rio Ceballos,BAZAR AVENIDA S.A.,2008,398
+30.5066,30.51 kilómetros,2,-31.4367,-64.5007,Carcano.,9-2-448,Supermercado,AR-X,Avenida Carcano Dr Ramon Jose 925,Disco,VILLA CARLOS PAZ,Jumbo Retail Argentina S.A.,9,448
+32.9624,32.96 kilómetros,2,-31.2445,-64.4659,Cosquín.,9-2-450,Supermercado,AR-X,Avenida San Martin Gral Jose De 1127,Disco,COSQUIN,Jumbo Retail Argentina S.A.,9,450
+33.0388,33.04 kilómetros,1,-31.2411,-64.4641,BAZAR AVENIDA SA - Cosquin,2008-1-30,Tradicional,AR-X,J.C Geronico 756,MEGATONE,Cosquin,BAZAR AVENIDA S.A.,2008,30
+33.2397,33.24 kilómetros,1,-31.240812,-64.466448,CDB - Cosquin - J C Geronico,2009-1-56,Supermercado,AR-X,Geronico 735,CETROGAR,Cosquin,CETROGAR  S.A,2009,56
+33.2485,33.25 kilómetros,1,-31.23856,-64.464691,CDBA-COSQUIN-SM-MU,2011-1-180,Autoservicio,AR-X,Avda Gral Jose De San Martin 762,Musimundo,COSQUIN,Electronica Megatone S.A,2011,180
+33.6164,33.62 kilómetros,1,-31.126667,-64.295250,Super Mami 4,1-1-7,Hipermercado,AR-X,E53 1011 None,Super MAMI,SALSIPUEDES,Dinosaurio S.A.,1,7
+34.5711,34.57 kilómetros,2,-31.6559,-64.4099,Alta Gracia II,9-2-954,Supermercado,AR-X,Ruta Provincial 5 E/ Reconquista Y Publica 0,Disco,ALTA GRACIA,Jumbo Retail Argentina S.A.,9,954
+35.2172,35.22 kilómetros,2,-31.6512,-64.4269,Alta Gracia.,9-2-725,Supermercado,AR-X,Raul Alfonsin 650,Disco,ALTA GRACIA,Jumbo Retail Argentina S.A.,9,725
+35.5815,35.58 kilómetros,1,-31.666646,-64.411215,Super Mami 7,1-1-12,Hipermercado,AR-X,Ruta Provincial 5 Km 29 None,Super MAMI,ALTA GRACIA,Dinosaurio S.A.,1,12
+36.0756,36.08 kilómetros,1,-31.6576,-64.4321,BAZAR AVENIDA SA - Alta Gracia,2008-1-25,Tradicional,AR-X,Belgrano 153,MEGATONE,Alta Gracia,BAZAR AVENIDA S.A.,2008,25
+36.1018,36.10 kilómetros,1,-31.65753,-64.43261,CDBA-ALTA GRACIA-BELG-MU,2011-1-209,Autoservicio,AR-X,Avda Manuel Belgrano 105,Musimundo,ALTA GRACIA,Electronica Megatone S.A,2011,209
+36.24,36.24 kilómetros,1,-31.6576661,-64.4346239,Alta Gracia,2005-1-45,Autoservicio,AR-X,Belgrano 135,Naldo,Alta Gracia,Naldo Lombardi SA,2005,45
+36.9477,36.95 kilómetros,1,-31.6534,-63.9111,BAZAR AVENIDA SA - Rio Segundo,2008-1-22,Tradicional,AR-X,Leandro N. Alem 930,MEGATONE,Rio Segundo,BAZAR AVENIDA S.A.,2008,22
+36.9946,36.99 kilómetros,1,-31.65286,-63.909738,CDBA-RIO SEGUNDO-SARMIENTO-MU,2011-1-208,Autoservicio,AR-X,Bv Domingo Faustino Sarmiento 930,Musimundo,RIO SEGUNDO,Electronica Megatone S.A,2011,208
+44.4933,44.49 kilómetros,1,-31.108277,-64.484196,Sucursal 8,8-1-8,Hipermercado,AR-X,Ruta Nac Nº 38 Esquina Calle Las Sierras 0,Mariano Max,Valle Hermoso,Mariano S.A.,8,8
+45.2465,45.25 kilómetros,1,-31.099691,-64.484587,CDB - La Falda - Av España ,2009-1-48,Supermercado,AR-X,Av. Espana 100,CETROGAR,La Falda,CETROGAR  S.A,2009,48
+45.548,45.55 kilómetros,1,-31.09286,-64.479835,CDBA-LA FALDA-EDEN-MU,2011-1-186,Autoservicio,AR-X,Avda Eden 634,Musimundo,LA FALDA,Electronica Megatone S.A,2011,186
+45.725,45.72 kilómetros,2,-31.0930,-64.4830,La Falda.,9-2-452,Supermercado,AR-X,Avenida Eden 370,Disco,LA FALDA,Jumbo Retail Argentina S.A.,9,452
+46.2332,46.23 kilómetros,1,-31.0901,-64.4873,BAZAR AVENIDA SA - La Falda,2008-1-28,Tradicional,AR-X,Av. España 212,MEGATONE,La Falda,BAZAR AVENIDA S.A.,2008,28
+48.601,48.60 kilómetros,1,-30.9814,-64.0957,BAZAR AVENIDA SA - Jesus Maria,2008-1-27,Tradicional,AR-X,Tucuman 400,MEGATONE,Jesus Maria,BAZAR AVENIDA S.A.,2008,27
+48.7056,48.71 kilómetros,2,-30.9804,-64.0960,Jesús María.,9-2-456,Supermercado,AR-X,Olmos Ing 33,Disco,JESUS MARIA,Jumbo Retail Argentina S.A.,9,456
+48.9437,48.94 kilómetros,1,-30.978745,-64.092456,Sucursal 4,8-1-4,Supermercado,AR-X,Italia 363,Mariano Max,jesus maria,Mariano S.A.,8,4
+48.9529,48.95 kilómetros,1,-30.977964,-64.097221,CDBA-JESUS MARIA-COLON-MU,2011-1-279,Supermercado,AR-X,Colon 32,Musimundo,JESUS MARIA,Electronica Megatone S.A,2011,279
+49.1555,49.16 kilómetros,1,-30.976321,-64.095755,CDB - Jesus Maria - Castulo Peña ,2009-1-55,Supermercado,AR-X,Castulo Pena 456,CETROGAR,Jesus Maria,CETROGAR  S.A,2009,55
+49.2442,49.24 kilómetros,1,-30.977255,-64.084407,Sucursal 9,8-1-9,Hipermercado,AR-X,Ruta Nac. Nº 9 Esquina Calle Corrientes 0,Mariano Max,jesus maria,Mariano S.A.,8,9
+72.7364,72.74 kilómetros,1,-31.98675,-64.55372,VILLA GRAL. BELGRANO,19-1-02119,Autoservicio,AR-X,Paguaga  555 0,FULL,CORDOBA,Operadora de Estaciones de Servicios S.A.,19,02119
+73.2106,73.21 kilómetros,1,-31.9151891,-63.6792919,1515 - ONCATIVO,15-1-1515,Autoservicio,AR-X,Cl Belgrano 941,Supermercados DIA,CORDOBA,DIA Argentina S.A,15,1515
+80.1224,80.12 kilómetros,1,-32.0687,-64.5372,BAZAR AVENIDA SA - Calamuchita,2008-1-403,Tradicional,AR-X,Libertad 248,MEGATONE,Santa Rosa De Calamuchita,BAZAR AVENIDA S.A.,2008,403
+84.2761,84.28 kilómetros,1,-32.171240,-64.113529,CDB - Rio Tercero - Libertad ,2009-1-52,Supermercado,AR-X,Libertad 349,CETROGAR,Rio Tercero,CETROGAR  S.A,2009,52
+84.3489,84.35 kilómetros,1,-32.1719707,-64.1146506,Rio III,2005-1-40,Supermercado,AR-X,Libertad 256,Naldo,Rio Tercero,Naldo Lombardi SA,2005,40
+84.3794,84.38 kilómetros,1,-32.1721,-64.1124,BAZAR AVENIDA SA - Rio Tercero,2008-1-8,Tradicional,AR-X,Libertad 240,MEGATONE,Rio Tercero,BAZAR AVENIDA S.A.,2008,8
+84.6118,84.61 kilómetros,1,-32.1740,-64.1094,Rio Tercero II.,9-1-690,Supermercado,AR-X,Avenida Acuña Modesto 50,Vea,RIO TERCERO,Jumbo Retail Argentina S.A.,9,690
+84.641,84.64 kilómetros,1,-32.1744,-64.11141,CDBA-RIO TERCERO-VELEZ S-MU,2011-1-133,Autoservicio,AR-X,Velez Sarsfield 39,Musimundo,RIO TERCERO,Electronica Megatone S.A,2011,133
+96.3658,96.37 kilómetros,1,-30.727658,-64.800934,CDB - Cruz del Eje - San Martin ,2009-1-51,Supermercado,AR-X,San Marti­N 51,CETROGAR,Cruz del Eje,CETROGAR  S.A,2009,51
+96.5826,96.58 kilómetros,2,-30.7249,-64.8005,Cruz del Eje.,9-2-842,Supermercado,AR-X,"Rivadavia, Esquina Alvear 293",Disco,CRUZ DEL EJE,Jumbo Retail Argentina S.A.,9,842
+96.6623,96.66 kilómetros,1,-30.724778,-64.80168,Sucursal 6,8-1-6,Hipermercado,AR-X,Av. Mitre  Esquina José Hernández 0,Mariano Max,CRUZ DEL EJE,Mariano S.A.,8,6
+96.6891,96.69 kilómetros,1,-30.725576,-64.803332,CDBA-CRUZ DEL EJE-ALVEAR-MU,2011-1-227,Autoservicio,AR-X,Marcelo T De Alvear 74,Musimundo,CRUZ DEL EJE,Electronica Megatone S.A,2011,227
+106.2482,106.25 kilómetros,1,-31.420260,-63.063750,ARROYITO,2-1-351,Supermercado,AR-X,Espacio Cultural Lafaye 640,La Anonima,Arroyito,S.A. Importadora y Exportadora de la Patagonia,2,351
+108.3643,108.36 kilómetros,1,-31.4229783,-63.0415044,Sucursal 10,8-1-10,Hipermercado,AR-X,Juan Jose De Urquiza N°430 (Arroyito) 0,Mariano Max,ARROYITO,Mariano S.A.,8,10
+110.8317,110.83 kilómetros,1,-30.42509,-64.35318,CDBA-DEAN FUNES-ITALIA-MU,2011-1-219,Autoservicio,AR-X,Italia 26,Musimundo,DEAN FUNES,Electronica Megatone S.A,2011,219
+111.3352,111.34 kilómetros,1,-31.94744,-65.17502,CDBA-VILLA DOLORES-BELG-MU,2011-1-131,Autoservicio,AR-X,Avda Dr Manuel Belgrano 1279,Musimundo,VILLA DOLORES,Electronica Megatone S.A,2011,131
+111.6319,111.63 kilómetros,1,-31.946553,-65.179354,CDB - Villa Dolores - Av Belgrano ,2009-1-81,Supermercado,AR-X,Av. Belgrano 797,CETROGAR,Villa Dolores,CETROGAR  S.A,2009,81
+112.4477,112.45 kilómetros,1,-31.9468,-65.1893,BAZAR AVENIDA SA - Villa Dolores,2008-1-83,Tradicional,AR-X,Av Manuel Belgrano 1096,MEGATONE,Villa Dolores,BAZAR AVENIDA S.A.,2008,83
+119.8584,119.86 kilómetros,1,-32.426197,-63.738309,1513 - HERNANDO,15-1-1513,Autoservicio,AR-X,Bv Rivadavia 300,Supermercados DIA,CORDOBA,DIA Argentina S.A,15,1513
+129.7784,129.78 kilómetros,1,-32.34621,-65.008993,SLUI-MERLO-AV SOL-MU,2011-1-198,Autoservicio,AR-D,Avda Del Sol 305,Musimundo,MERLO,Electronica Megatone S.A,2011,198
+140.8003,140.80 kilómetros,1,-32.4086,-63.2565,Villa María II.,9-1-232,Supermercado,AR-X,Boulevard Velez Sarsfield 411,Vea,VILLA MARIA,Jumbo Retail Argentina S.A.,9,232
+141.2035,141.20 kilómetros,1,-32.4078411,-63.2485416,1060 - VILLA MARIA,15-1-1060,Autoservicio,AR-X,Leandro N. Alem 429,Supermercados DIA,CORDOBA,DIA Argentina S.A,15,1060
+141.728,141.73 kilómetros,1,-32.4117,-63.2453,BAZAR AVENIDA SA - Villa Maria,2008-1-6,Tradicional,AR-X,San Martin 49,MEGATONE,Villa Maria,BAZAR AVENIDA S.A.,2008,6
+141.7785,141.78 kilómetros,1,-32.4115858,-63.2442781,Villa Maria,2005-1-36,Supermercado,AR-X,Corrientes 1163,Naldo,Villa Maria,Naldo Lombardi SA,2005,36
+141.8721,141.87 kilómetros,1,-32.41195,-63.243227,CDBA-VILLA MARIA-SM-MU,2011-1-174,Autoservicio,AR-X,Gral Jose De San Martin 68,Musimundo,VILLA MARIA,Electronica Megatone S.A,2011,174
+142.0076,142.01 kilómetros,2,-32.41123,-63.23989,CBAVMaria [25 de Mayo 156/160],24-2-175,Autoservicio,AR-X,25 De Mayo 156,FARMACITY,VILLA MARIA (DPTO. GENERAL SAN MART,Farmacity S.A.,24,175
+142.8355,142.84 kilómetros,2,-32.423605,-63.243978,Villa Nueva,11-2-1056,Hipermercado,AR-X,Av Carranza E/ Lima Y Costanera 980,Changomas,VILLA NUEVA,Wal Mart Argentina S.R.L.,11,1056
+143.9731,143.97 kilómetros,1,-32.437869,-63.245734,CDB - Villa Maria - San Martin ,2009-1-82,Supermercado,AR-X,San Martin 99,CETROGAR,Villa Maria,CETROGAR  S.A,2009,82
+147.1519,147.15 kilómetros,1,-31.874956,-62.726591,CDB - Las Varillas - Italia ,2009-1-47,Supermercado,AR-X,Italia 35,CETROGAR,Las Varillas,CETROGAR  S.A,2009,47
+177.0131,177.01 kilómetros,1,-33.0095327,-64.1854750,Gualeguaychu,2002-1-134,Tradicional,AR-E,25 De Mayo 989,Fravega,Gualeguaychu,FRAVEGA S A C I E I,2002,134
+188.8118,188.81 kilómetros,1,-33.1105,-64.3401,Vea 29 - M.T. de Alvear Cba..,9-1-195,Supermercado,AR-X,Avenida Alvear Presidente Marcelo Torcuato De 350,Vea,RIO CUARTO,Jumbo Retail Argentina S.A.,9,195
+189.4659,189.47 kilómetros,1,-33.115554,-64.352366,CDBA-RIO CUARTO-RIO SH-MU,2011-1-147,Supermercado,AR-X,Eliseo Sanchez 200 (L1068) None,Musimundo,RIO CUARTO,Electronica Megatone S.A,2011,147
+189.5035,189.50 kilómetros,1,-33.1160,-64.3509,Río Cuarto.,9-1-113,Supermercado,AR-X,Granderos 200,Vea,RIO CUARTO,Jumbo Retail Argentina S.A.,9,113
+189.6787,189.68 kilómetros,1,-33.117905,-64.346420,PASEO RIBERA SHOPPING -  RIO IV,2003-1-7420,Tradicional,AR-X,Sobremonte 80,Samsung,RIO CUARTO,GMRA S.A.,2003,7420
+189.7143,189.71 kilómetros,2,-33.11814,-64.34765,CBA España [Av. España 116],24-2-178,Supermercado,AR-X,Av. España 116,FARMACITY,RIO CUARTO,Farmacity S.A.,24,178
+190.0164,190.02 kilómetros,2,-33.1208754,-64.3476104,CBASanMartin [San Martin 302],24-2-118,Autoservicio,AR-X,San Martin 302,FARMACITY,RIO CUARTO,Farmacity S.A.,24,118
+190.3125,190.31 kilómetros,2,-33.12349,-64.34852,CBA SMONTE [Sobremonte 725],24-2-139,Supermercado,AR-X,Sobremonte 725,FARMACITY,RIO CUARTO,Farmacity S.A.,24,139
+190.3677,190.37 kilómetros,1,-33.12407,-64.347379,CDBA-RIO CUARTO-GRAL PAZ-MU,2011-1-129,Autoservicio,AR-X,Gral Paz 741,Musimundo,RIO CUARTO,Electronica Megatone S.A,2011,129
+190.5132,190.51 kilómetros,2,-33.125271,-64.349014,Río Cuarto,10-2-119,Supermercado,AR-X,Sobremonte 902,Market,Río Cuarto,INC S.A.,10,119
+190.6023,190.60 kilómetros,1,-33.1259857,-64.3502879,Rio IV,2005-1-35,Supermercado,AR-X,General Paz 931,Naldo,Rio Cuarto,Naldo Lombardi SA,2005,35
+190.6497,190.65 kilómetros,1,-33.1264,-64.3505,BAZAR AVENIDA SA - Rio Cuarto,2008-1-7,Tradicional,AR-X,General Paz 964,MEGATONE,Rio Cuarto,BAZAR AVENIDA S.A.,2008,7
+190.864,190.86 kilómetros,1,-33.125673,-64.384353,EASY RIO IV,3001-1-173,Supermercado,AR-X,Ruta A005 Y Avenida Presidente Peron 0,EASY,RIO IV,EASY S.A.,3001,173
+191.4512,191.45 kilómetros,5,-33.131160,-64.382400,Rio IV,11-5-1002,Hipermercado,AR-X,Juan B Justo 2052,Walmart SuperCenter,RIO CUARTO,Wal Mart Argentina S.R.L.,11,1002
+191.9913,191.99 kilómetros,1,-33.1383,-64.3538,Rio Cuarto.,9-1-479,Supermercado,AR-X,Avenida Sabattini Dr Amadeo 2136,Vea,RIO CUARTO,Jumbo Retail Argentina S.A.,9,479
+193.9418,193.94 kilómetros,1,-32.6190,-62.6938,Bellville.,9-1-478,Supermercado,AR-X,Boulevard Colon 850,Vea,BELL VILLE,Jumbo Retail Argentina S.A.,9,478
+194.8819,194.88 kilómetros,1,-32.631092,-62.693506,CDB - Bell Ville - Pio Angulo ,2009-1-49,Supermercado,AR-X,Pio Angulo 501,CETROGAR,Bell Ville,CETROGAR  S.A,2009,49
+195.2669,195.27 kilómetros,1,-31.42452,-62.12753,SAN FRANCISCO,19-1-02052,Autoservicio,AR-X,Ruta Nacional 19 Km (Asc.) 0,FULL,S.FRANCISCO,Operadora de Estaciones de Servicios S.A.,19,02052
+198.7376,198.74 kilómetros,1,-31.42845,-62.091019,CDBA-SAN FRANCISCO-25MAY-MU,2011-1-183,Autoservicio,AR-X,Avda 25 De Mayo 2256,Musimundo,SAN FRANCISCO,Electronica Megatone S.A,2011,183
+198.7392,198.74 kilómetros,1,-31.428483,-62.091002,CDB - San Francisco - Bv 25 de Mayo ,2009-1-73,Supermercado,AR-X,Av. 25 De Mayo 2216,CETROGAR,San Francisco,CETROGAR  S.A,2009,73
+198.8344,198.83 kilómetros,1,-31.4287,-62.09,BAZAR AVENIDA SA - San Francisco,2008-1-5,Tradicional,AR-X,Bv. 25 De Mayo 2166,MEGATONE,San Francisco,BAZAR AVENIDA S.A.,2008,5
+198.8489,198.85 kilómetros,2,-31.428696,-62.089848,CBA SanFrancisco [Boulevard 25 de Mayo 2119],24-2-298,Supermercado,AR-X,Boulevard 25 De Mayo 2119,FARMACITY,Córdoba,Farmacity S.A.,24,298
+198.8915,198.89 kilómetros,1,-31.4288,-62.0894,San Francisco.,9-1-464,Supermercado,AR-X,Avenida 25 De Mayo 2127,Vea,SAN FRANCISCO,Jumbo Retail Argentina S.A.,9,464
+220.8335,220.83 kilómetros,1,-30.725230,-62.009680,MORTEROS,2-1-221,Supermercado,AR-X,Bv 9 De Julio 2339,La Anonima,Morteros,S.A. Importadora y Exportadora de la Patagonia,2,221
+221.393,221.39 kilómetros,1,-30.709885,-62.010235,CDB - Morteros - Bv 25 de Mayo ,2009-1-50,Supermercado,AR-X,25 De Mayo 340,CETROGAR,Morteros,CETROGAR  S.A,2009,50
+226.4883,226.49 kilómetros,1,-31.896450,-61.860850,QUIJOTE SAN JORGE,2-1-156,Supermercado,AR-S,Bartolome Mitre 1143,La Anonima,San Jorge,S.A. Importadora y Exportadora de la Patagonia,2,156
+227.9152,227.92 kilómetros,1,-32.63844,-62.24369,LEONES,19-1-31039,Autoservicio,AR-X,Aut Rosario-Cordoba Km 478 Asc 0,FULL,Leones - M. Juarez,Operadora de Estaciones de Servicios S.A.,19,31039
+235.1942,235.19 kilómetros,1,-30.3566,-66.3121,BAZAR AVENIDA SA - Chamical,2008-1-358,Tradicional,AR-F,Joaquin V. Gonzalez 202,MEGATONE,Chamical,BAZAR AVENIDA S.A.,2008,358
+237.2716,237.27 kilómetros,1,-33.4179995,-63.2992617,La Carlota,2005-1-42,Autoservicio,AR-X,Boulevard Velez Sarsfield 1147,Naldo,La Carlota,Naldo Lombardi SA,2005,42
+242.3704,242.37 kilómetros,1,-32.6981,-62.1046,Marcos Juarez.,9-1-503,Supermercado,AR-X,Boulevard Lardizabal Ignacio Maria 900,Vea,MARCOS JUAREZ,Jumbo Retail Argentina S.A.,9,503
+243.2255,243.23 kilómetros,1,-32.700000,-62.095010,MARCOS JUAREZ,2-1-264,Supermercado,AR-X,Bv. Lardizabal 250,La Anonima,Marcos Juares,S.A. Importadora y Exportadora de la Patagonia,2,264
+251.996,252.00 kilómetros,1,-29.27341,-65.062183,CATA-RECREO-BELG-MU,2011-1-223,Autoservicio,AR-K,Avda Belgrano 345,Musimundo,RECREO,Electronica Megatone S.A,2011,223
+253.2898,253.29 kilómetros,1,-31.3165,-61.52125,ACA SUSANA,19-1-00889,Autoservicio,AR-S,Ruta 34 Km 213.800(Ascendente) 0,FULL,SUSANA,Operadora de Estaciones de Servicios S.A.,19,00889
+254.6139,254.61 kilómetros,1,-30.941909789656144,-61.56712484058117,Sunchales,13-1-135,Autoservicio,AR-S,Lisandro De La Torre 450,Cooperativa Obrera Limitada de Consumo y Vivienda,Sunchales,Cooperativa Obrera Limitada de Consumo y Vivienda,13,135
+254.7335,254.73 kilómetros,1,-31.258890,-61.510560,QUIJOTE MAX 1,2-1-151,Supermercado,AR-S,Lincoln 1598,La Anonima,Rafaela,S.A. Importadora y Exportadora de la Patagonia,2,151
+254.8488,254.85 kilómetros,1,-30.94654,-61.563421,SAFE-SUNCHALES-JBJUSTO-MU,2011-1-196,Autoservicio,AR-S,Dr Juan Bautista Justo 204,Musimundo,SUNCHALES,Electronica Megatone S.A,2011,196
+254.948,254.95 kilómetros,1,-30.950000,-61.561480,SUNCHALES,2-1-261,Supermercado,AR-S,Avellaneda 558,La Anonima,Sunchales,S.A. Importadora y Exportadora de la Patagonia,2,261
+255.6929,255.69 kilómetros,1,-30.9445,-61.5549,BAZAR AVENIDA SA - Sunchales,2008-1-10,Tradicional,AR-S,H. Irigoyen 1012,MEGATONE,Sunchales,BAZAR AVENIDA S.A.,2008,10
+255.7555,255.76 kilómetros,1,-31.242521,-61.501379,Rafaela,1001-1-1,Tradicional,Santa Fe,Parana 899,Lario,Rafaela,RAFAELA ALIMENTOS S.A.,1001,1
+256.0161,256.02 kilómetros,1,-31.2341,-61.4995,megatone.net,2008-1-104,Web,AR-S,Calle 3 1045,MEGATONE,Rafaela,BAZAR AVENIDA S.A.,2008,104
+256.3594,256.36 kilómetros,1,-31.25197,-61.49409,RAFAELA,19-1-02917,Autoservicio,AR-S,Blvd Roca Esq Arenales 0,FULL,RAFAELA,Operadora de Estaciones de Servicios S.A.,19,02917
+256.4928,256.49 kilómetros,1,-31.253490,-61.492540,QUIJOTE CENTRO,2-1-150,Hipermercado,AR-S,Rivadavia 53,La Anonima,Rafaela,S.A. Importadora y Exportadora de la Patagonia,2,150
+256.564,256.56 kilómetros,1,-31.252833,-61.491853,SAFE-RAFAELA-SAAV-ME,2011-1-276,Supermercado,AR-S,Av Santa Fe Esq Saavedra None,Musimundo,RAFAELA,Electronica Megatone S.A,2011,276
+256.8239,256.82 kilómetros,1,-31.253,-61.4891,BAZAR AVENIDA SA - Rafaela,2008-1-1,Tradicional,AR-S,Avenida Santa Fe 280,MEGATONE,Rafaela,BAZAR AVENIDA S.A.,2008,1
+256.8782,256.88 kilómetros,1,-31.253073,-61.488522,Sfe. Rafaela [Bulevar Santa Fe 299],24-1-284,Supermercado,AR-S,Bulevar Santa Fe 299,SIMPLICITY,Rafaela,Farmacity S.A.,24,284
+257.0113,257.01 kilómetros,1,-31.253475,-61.487082,SNF - Rafaela - Bv Santa Fe ,2009-1-69,Supermercado,AR-S,Av. Santa Fe 435,CETROGAR,Rafaela,CETROGAR  S.A,2009,69
+257.0281,257.03 kilómetros,1,-31.2533,-61.486921,SAFE-RAFAELA-STAFE-MU,2011-1-138,Autoservicio,AR-S,Avda Santa Fe 418,Musimundo,RAFAELA,Electronica Megatone S.A,2011,138
+259.087,259.09 kilómetros,1,-31.25759,-61.46484,RIO DE JANEIRO,19-1-02989,Autoservicio,AR-S,Santa Fe 2460 0,FULL,RAFAELA,Operadora de Estaciones de Servicios S.A.,19,02989
+259.2725,259.27 kilómetros,1,-31.251890,-61.463420,QUIJOTE MAX2,2-1-152,Supermercado,AR-S,Aconcagua 555,La Anonima,Rafaela,S.A. Importadora y Exportadora de la Patagonia,2,152
+273.1468,273.15 kilómetros,1,-29.8828,-61.9481,BAZAR AVENIDA SA - Ceres,2008-1-14,Tradicional,AR-S,Av. De Mayo 565,MEGATONE,Ceres,BAZAR AVENIDA S.A.,2008,14
+274.1271,274.13 kilómetros,1,-29.87736,-61.940098,SAFE-CERES-AV MAYO-MU,2011-1-194,Autoservicio,AR-S,Avda De Mayo 626,Musimundo,CERES,Electronica Megatone S.A,2011,194
+278.395,278.40 kilómetros,2,-33.680309,-65.452308,Villa Mer,11-2-1055,Hipermercado,AR-D,Av Pte Peron E/J Daract Y Necochea 825,Changomas,VILLA MERCEDES,Wal Mart Argentina S.R.L.,11,1055
+278.645,278.64 kilómetros,1,-33.675929,-65.469225,Villa Mercedes,10-1-235,Hipermercado,AR-D,Av. 25 De Mayo 876,Hipermercado Carrefour,Villa Mercedes,INC S.A.,10,235
+278.842,278.84 kilómetros,2,-33.67994,-65.46425,SLMitre [Córdoba 37],24-2-166,Supermercado,AR-D,Cordoba 37,FARMACITY,Villa Mercedes,Farmacity S.A.,24,166
+278.8977,278.90 kilómetros,1,-33.6806,-65.4640,Vea 36.,9-1-423,Supermercado,AR-D,Avenida Mitre 679,Vea,VILLA MERCEDES,Jumbo Retail Argentina S.A.,9,423
+279.3309,279.33 kilómetros,1,-33.6833572,-65.4678879,Villa Mercedes,2005-1-38,Supermercado,AR-D,Balcarce 319,Naldo,Villa Mercedes,Naldo Lombardi SA,2005,38
+279.3568,279.36 kilómetros,2,-33.684345,-65.466103,SLPedernera [Pedernera 424],24-2-97,Supermercado,AR-D,Pedernera 424,FARMACITY,Villa Mercedes,Farmacity S.A.,24,97
+279.6028,279.60 kilómetros,1,-33.685875,-65.468397,SLU - Villa Mercedes - Belgrano ,2009-1-91,Supermercado,AR-D,Pedernera 381,CETROGAR,Villa Mercedes,CETROGAR  S.A,2009,91
+279.6643,279.66 kilómetros,1,-33.686389,-65.468648,SLUI-VILLA MERCEDES-PED-MU,2011-1-175,Autoservicio,AR-D,Buenos Aires Y Pedernera None,Musimundo,VILLA MERCEDES,Electronica Megatone S.A,2011,175
+279.6719,279.67 kilómetros,1,-33.6873,-65.4666,BAZAR AVENIDA SA - Villa Mercedes,2008-1-31,Tradicional,AR-D,Pedernera 380,MEGATONE,Villa Mercedes,BAZAR AVENIDA S.A.,2008,31
+289.0059,289.01 kilómetros,1,-32.03224,-61.219039,SAFE-GALVEZ-SARMIENTO-MU,2011-1-24,Autoservicio,AR-S,Sarmiento 328,Musimundo,GALVEZ,Electronica Megatone S.A,2011,24
+289.1215,289.12 kilómetros,5,-33.296619,-66.303039,San Luis,11-5-1003,Hipermercado,AR-D,Av Del Fundador (Ruta Nacional 7 Y 147) 1450,Walmart SuperCenter,SAN LUIS,Wal Mart Argentina S.R.L.,11,1003
+290.9258,290.93 kilómetros,1,-33.29304,-66.33493,SAN LUIS ESPAÑA,19-1-02848,Autoservicio,AR-D,Av. España Y Maipú 0,FULL,San Luis,Operadora de Estaciones de Servicios S.A.,19,02848
+291.1007,291.10 kilómetros,1,-33.304764,-66.323469,EASY SAN LUIS,3001-1-145,Supermercado,AR-D,25 De Mayo Y Presidente Peron 0,EASY,San Luis,EASY S.A.,3001,145
+291.2468,291.25 kilómetros,1,-33.3065,-66.3236,Vea 52.,9-1-860,Supermercado,AR-D,Av. Julio A. Roca Esq. Av. Juan D. Peron 0,Vea,SAN LUIS,Jumbo Retail Argentina S.A.,9,860
+291.3056,291.31 kilómetros,1,-33.307156,-66.323704,SAN LUIS SHOPPING,2003-1-7410,Tradicional,AR-D,Avenida Juan Gilberto Funes 260,Samsung,SAN LUIS,GMRA S.A.,2003,7410
+291.4895,291.49 kilómetros,1,-33.2968,-66.3390,San Luis II,9-1-853,Supermercado,AR-D,San Martin 1162,Vea,SAN MARTIN,Jumbo Retail Argentina S.A.,9,853
+291.5172,291.52 kilómetros,1,-33.3004,-66.3351,BAZAR AVENIDA SA - San Luis,2008-1-32,Tradicional,AR-D,Colon 878,MEGATONE,San Luis,BAZAR AVENIDA S.A.,2008,32
+291.6448,291.64 kilómetros,1,-33.3004820,-66.3369458,San Luis,2005-1-43,Supermercado,AR-D,Colon 848,Naldo,San Luis,Naldo Lombardi SA,2005,43
+291.7394,291.74 kilómetros,2,-33.30147,-66.33720,SLJunin [Junin 952],24-2-91,Supermercado,AR-D,Junin 952,FARMACITY,San Luis,Farmacity S.A.,24,91
+291.7946,291.79 kilómetros,1,-33.30345,-66.335659,SLUI-SAN LUIS-RIVAD-MU,2011-1-172,Autoservicio,AR-D,Rivadavia 631,Musimundo,SAN LUIS,Electronica Megatone S.A,2011,172
+291.7974,291.80 kilómetros,1,-33.3033711,-66.3357972,San Luis,2002-1-118,Tradicional,AR-D,Rivadavia Sur 649,Fravega,San Luis,FRAVEGA S A C I E I,2002,118
+291.8172,291.82 kilómetros,2,-33.302748,-66.336848,San Luis,10-2-137,Supermercado,AR-D,Pringles 963,Market,San Luis,INC S.A.,10,137
+291.8181,291.82 kilómetros,1,-33.303669,-66.335754,SLU - San Luis - Colon,2009-1-79,Supermercado,AR-D,Peatonal Rivadavia 626,CETROGAR,San Luis,CETROGAR  S.A,2009,79
+291.8356,291.84 kilómetros,2,-33.30396,-66.33567,SL PEATONAL [Rivadavia 602],24-2-152,Supermercado,AR-D,Rivadavia 602,FARMACITY,San Luis,Farmacity S.A.,24,152
+291.9917,291.99 kilómetros,2,-33.30003,-66.34277,SLILLIA [Av Presidente Illia 302],24-2-165,Autoservicio,AR-D,Av Presidente Illia 302,FARMACITY,San Luis,Farmacity S.A.,24,165
+294.8889,294.89 kilómetros,1,-31.75922,-61.100751,SAFE-SAN CARLOS CENTRO-SM-MU,2011-1-32,Autoservicio,AR-S,San Martin 750,Musimundo,SAN CARLOS CENTRO,Electronica Megatone S.A,2011,32
+305.411,305.41 kilómetros,1,-32.81907,-61.398071,SAFE-CANADA  DE GOMEZ-SM-MU,2011-1-25,Autoservicio,AR-S,Gral Jose De San Martin 152,Musimundo,CANADA DE GOMEZ,Electronica Megatone S.A,2011,25
+309.1432,309.14 kilómetros,1,-31.449940,-60.929910,QUIJOTE ESPERANZA,2-1-153,Supermercado,AR-S,Belgrano 1998,La Anonima,Esperanza,S.A. Importadora y Exportadora de la Patagonia,2,153
+309.17,309.17 kilómetros,1,-31.44938,-60.92963,SAFE-ESPERANZA-BELG-MU,2011-1-28,Autoservicio,AR-S,Gral Manuel Belgrano 2078,Musimundo,ESPERANZA,Electronica Megatone S.A,2011,28
+309.7743,309.77 kilómetros,1,-34.124950,-63.387610,LABOULAYE,2-1-119,Supermercado,AR-X,España 88,La Anonima,Laboulaye,S.A. Importadora y Exportadora de la Patagonia,2,119
+310.042,310.04 kilómetros,1,-32.03042,-60.99063,COLASTINE,19-1-00856,Autoservicio,AR-S,Auto. Rosario /Santa Fe Km 101 0,FULL,AROCENA,Operadora de Estaciones de Servicios S.A.,19,00856
+314.9416,314.94 kilómetros,1,-31.97313,-60.924486,SAFE-CORONDA-SM-MU,2011-1-16,Autoservicio,AR-S,San Martin 1830,Musimundo,CORONDA,Electronica Megatone S.A,2011,16
+320.6277,320.63 kilómetros,1,-28.642593,-65.130548,SGES-FRIAS-SM-MU,2011-1-242,Autoservicio,AR-G,Granaderos De San Martin 425,Musimundo,FRIAS,Electronica Megatone S.A,2011,242
+325.5924,325.59 kilómetros,1,-31.6653404,-60.7653809,1068 - SANTO TOME,15-1-1068,Autoservicio,AR-S,Rivadavia 1871,Supermercados DIA,SANTA FE,DIA Argentina S.A,15,1068
+325.6896,325.69 kilómetros,1,-31.66736,-60.764521,SAFE-SANTO TOME-LUJAN-MU,2011-1-4,Supermercado,AR-S,Avda Ntra Sra De Lujan 2198,Musimundo,SANTO TOME,Electronica Megatone S.A,2011,4
+329.2292,329.23 kilómetros,1,-31.59821,-60.722424,SAFE-SANTA FE-BLAS PARERA-MU,2011-1-26,Supermercado,AR-S,Avda Blas Parera 6940,Musimundo,SANTA FE,Electronica Megatone S.A,2011,26
+330.6619,330.66 kilómetros,1,-31.649562,-60.7106075,1059 - SANTA FE,15-1-1059,Autoservicio,AR-S,Cl Salta 2817,Supermercados DIA,SANTA FE,DIA Argentina S.A,15,1059
+330.7509,330.75 kilómetros,1,-33.744187,-61.982983,Venado Tuerto,10-1-259,Hipermercado,AR-S,Bvard. 12 De Octubre 1060,Hipermercado Carrefour,Venado Tuerto,INC S.A.,10,259
+330.937,330.94 kilómetros,1,-31.650868,-60.707800,SFe Capital [San Martin 2148],24-1-282,Supermercado,AR-S,Peatonal San Martín 2148,SIMPLICITY,Santa Fe,Farmacity S.A.,24,282
+330.9725,330.97 kilómetros,1,-31.64966,-60.707335,SAFE-SANTA FE-SM 2259 PEAT-MU,2011-1-2,Supermercado,AR-S,Gral Jose De San Martin 2259,Musimundo,SANTA FE,Electronica Megatone S.A,2011,2
+331.0432,331.04 kilómetros,2,-31.644262,-60.706195,DIGGIT SANTA FE,2003-2-7902,Tradicional,AR-S,San Martin 2498,DIGGIT,SANTA FE ,GMRA S.A.,2003,7902
+331.0497,331.05 kilómetros,1,-31.64527,-60.706199,SAFE-SANTA FE-SM 2628 PEAT-MU,2011-1-5,Supermercado,AR-S,Gral Jose De San Martin 2628,Musimundo,SANTA FE,Electronica Megatone S.A,2011,5
+331.0505,331.05 kilómetros,1,-31.6454,-60.7062,BAZAR AVENIDA SA - Santa Fe,2008-1-605,Tradicional,AR-S,La Rioja 2586,MEGATONE,Santa fe,BAZAR AVENIDA S.A.,2008,605
+331.2897,331.29 kilómetros,1,-31.6490499,-60.7039408,SANTA FE PUERTO ,12-1-179,Supermercado,AR-S,27 De Febrero 2320,COTO CICSA,Cuidad De Santa Fe,Coto Centro Integral de Comercialización S.A.,12,179
+331.3186,331.32 kilómetros,1,-31.63545,-60.70267,PELLEGRINI,19-1-00866,Autoservicio,AR-S,Boulevard Pellegrini 2550 0,FULL,SANTA FE,Operadora de Estaciones de Servicios S.A.,19,00866
+331.4224,331.42 kilómetros,1,-31.637308,-60.7017017,SANTA FE ,12-1-118,Hipermercado,AR-S,Rivadavia 3396,COTO CICSA,Ciudad De Santa Fe,Coto Centro Integral de Comercialización S.A.,12,118
+331.5208,331.52 kilómetros,1,-31.650976,-60.701644,SAFE-SANTA FE-LA RIBERA SH-MU,2011-1-120,Autoservicio,AR-S,Dique N 1 Puerto Sta Fe None,Musimundo,SANTA FE,Electronica Megatone S.A,2011,120
+331.5603,331.56 kilómetros,1,-31.649875,-60.701145,RIBERA SHOPPING SANTA FE,2003-1-7300,Tradicional,AR-S,Dique 1 Puerto De Santa Fe None,Samsung,SANTA FE,GMRA S.A.,2003,7300
+331.6342,331.63 kilómetros,1,-33.75042,-61.97705,VENADO TUERTO,19-1-03338,Autoservicio,AR-S,Ruta 8 E H.Yrigoyen 0,FULL,VENADO TUERTO,Operadora de Estaciones de Servicios S.A.,19,03338
+331.8216,331.82 kilómetros,1,-31.606544,-60.695555,SAFE-SANTA FE-ARIST 6709-ME,2011-1-301,Supermercado,AR-S,Aristobulo Del Valle 6709,Musimundo,SANTA FE,Electronica Megatone S.A,2011,301
+331.8371,331.84 kilómetros,1,-33.746570,-61.967960,VENADO TUERTO,2-1-067,Supermercado,AR-S,Av.Casey 799,La Anonima,Venado Tuerto,S.A. Importadora y Exportadora de la Patagonia,2,067
+331.8465,331.85 kilómetros,1,-33.7456,-61.966387,SAFE-VENADO TUERTO-25MAY-MU,2011-1-33,Autoservicio,AR-S,25 De Mayo 748,Musimundo,VENADO TUERTO,Electronica Megatone S.A,2011,33
+331.9284,331.93 kilómetros,1,-31.6107298,-60.6946699,Santa Fe Norte,2002-1-131,Tradicional,AR-S,Aristobulo Del Valle 6256,Fravega,Santa Fe,FRAVEGA S A C I E I,2002,131
+332.0491,332.05 kilómetros,1,-33.7475140,-61.9657310,Venado Tuerto,2005-1-3,Autoservicio,AR-S,Belgrano 602,Naldo,Venado Tuerto,Naldo Lombardi SA,2005,3
+332.0533,332.05 kilómetros,1,-31.60684,-60.693128,SAFE-SANTA FE-ARIST 6700-MU,2011-1-20,Supermercado,AR-S,Avda Prof Aristobulo Del Valle 6700,Musimundo,SANTA FE,Electronica Megatone S.A,2011,20
+332.1718,332.17 kilómetros,1,-33.748274863171375,-61.964753744675130,SFE VENADO T.,24-1-356,Autoservicio,AR-S,Belgrano 499,SIMPLICITY,San Francisco De Venado Tuerto,Farmacity S.A.,24,356
+332.2676,332.27 kilómetros,1,-33.75,-61.965641,244 - VENADO TUERTO,15-1-244,Autoservicio,AR-S,Av Estrugamou 1657,Supermercados DIA,SANTA FE,DIA Argentina S.A,15,244
+333.6372,333.64 kilómetros,2,-33.7666,-61.9666,Venado Tuerto,9-2-953,Supermercado,AR-S,San Martin 760,Disco,VENADO TUERTO,Jumbo Retail Argentina S.A.,9,953
+334.5398,334.54 kilómetros,1,-29.23668,-61.771788,SAFE-TOSTADO-RIVAD-MU,2011-1-195,Autoservicio,AR-S,Avda Bernardino Rivadavia 1255,Musimundo,TOSTADO,Electronica Megatone S.A,2011,195
+334.8547,334.85 kilómetros,1,-29.233090,-61.771414,SNF - Tostado - 12 de Octubre ,2009-1-57,Supermercado,AR-S,12 De Octubre 1457,CETROGAR,Tostado,CETROGAR  S.A,2009,57
+334.873,334.87 kilómetros,1,-29.2337,-61.7704,BAZAR AVENIDA SA - Tostado,2008-1-13,Tradicional,AR-S,Av. Rivadavia 1263,MEGATONE,Tostado,BAZAR AVENIDA S.A.,2008,13
+335.4859,335.49 kilómetros,1,-31.6414,-60.6591,Santa Fe,23-1-6265,Autoservicio,AR-S,Ruta 168. Km. 476 None,Axion Energy,Capital,Pan American Energy LLC Argentina,23,6265
+335.5711,335.57 kilómetros,1,-31.642754,-60.658295,PAIS-WEB-ME GUSTA-MU,2011-1-287,Web,AR-S,Electronica Megatone Seller None,Musimundo,SANTA FE,Electronica Megatone S.A,2011,287
+335.5711,335.57 kilómetros,1,-31.642754,-60.658295,PAIS-WEB-MU,2011-1-170,Web,AR-S,M! Musimundo None,Musimundo,SANTA FE,Electronica Megatone S.A,2011,170
+335.5711,335.57 kilómetros,1,-31.642754,-60.658295,PAIS - MEGUSTA SELLER,2011-1-286,Web,AR-S,Megusta Seller None,Musimundo,SANTA FE,Electronica Megatone S.A,2011,286
+335.5711,335.57 kilómetros,1,-31.642754,-60.658295,PAIS-WEB-ME GUSTA-ME,2011-1-285,Web,AR-S,M! Musimundo Seller None,Musimundo,SANTA FE,Electronica Megatone S.A,2011,285
+335.5711,335.57 kilómetros,1,-31.642754,-60.658295,PAIS-WEB-ME,2011-1-271,Web,AR-S,Megatone Digital None,Musimundo,SANTA FE,Electronica Megatone S.A,2011,271
+335.7426,335.74 kilómetros,5,-31.642111,-60.656440,Santa Fe (24hs),11-5-3603,Hipermercado,AR-S,Ruta Nac 168 Km 474 None,Walmart SuperCenter,SANTA FE,Wal Mart Argentina S.R.L.,11,3603
+336.1919,336.19 kilómetros,1,-33.051805,-61.179894,Casilda Centro,1001-1-2,Tradicional,Santa Fe,Buenos Aires 3440,Lario,Casilda,RAFAELA ALIMENTOS S.A.,1001,2
+336.5895,336.59 kilómetros,1,-33.046735,-61.171152,SNF - Casilda - Buenos Aires ,2009-1-84,Supermercado,AR-S,Av. Buenos Aires 2540,CETROGAR,Casilda,CETROGAR  S.A,2009,84
+336.6686,336.67 kilómetros,1,-33.0463,-61.169837,SAFE-CASILDA-BSAS-MU,2011-1-42,Autoservicio,AR-S,Buenos Aires 2469,Musimundo,CASILDA,Electronica Megatone S.A,2011,42
+338.2117,338.21 kilómetros,1,-29.431887,-66.854255,EASY LA RIOJA,3001-1-154,Supermercado,AR-F,Artigas Y Avenida Laprida 0,EASY,LA RIOJA,EASY S.A.,3001,154
+338.3749,338.37 kilómetros,1,-29.4295,-66.8541,La Rioja.,9-1-708,Supermercado,AR-F,Laprida Y Artigas 6811,Vea,LA RIOJA,Jumbo Retail Argentina S.A.,9,708
+338.6692,338.67 kilómetros,1,-33.046047,-61.144514,Casilda Planta,1001-1-3,Tradicional,Santa Fe,Ruta Nacional 33 744,Lario,Casilda,RAFAELA ALIMENTOS S.A.,1001,3
+339.0902,339.09 kilómetros,2,-29.428056,-66.862434,La Rioja,11-2-1007,Hipermercado,AR-F,Ortiz De Ocampo 1127,Changomas,LA RIOJA,Wal Mart Argentina S.R.L.,11,1007
+339.3454,339.35 kilómetros,1,-29.41439,-66.85222,LA RIOJA,19-1-02626,Autoservicio,AR-F,Av.Rivadavia Y Benj.De La Vega 0,FULL,La Rioja,Operadora de Estaciones de Servicios S.A.,19,02626
+339.3855,339.39 kilómetros,2,-29.41437,-66.85275,RIORIVADAVIA [Rivadavia 364],24-2-154,Supermercado,AR-F,Rivadavia 364,FARMACITY,LA RIOJA,Farmacity S.A.,24,154
+339.5684,339.57 kilómetros,1,-29.4146061,-66.8554970,La Rioja,2005-1-74,Supermercado,AR-F,Rivadavia 536,Naldo,La Rioja,Naldo Lombardi SA,2005,74
+339.6645,339.66 kilómetros,2,-29.41925,-66.86148,RIO PERON [AV. Pte J D Peron 1002],24-2-149,Supermercado,AR-F,Av. Pte J D Peron 1002,FARMACITY,LA RIOJA,Farmacity S.A.,24,149
+339.7296,339.73 kilómetros,1,-29.4146391,-66.8577401,La Rioja,2002-1-146,Tradicional,AR-F,San Martin 89,Fravega,La Rioja,FRAVEGA S A C I E I,2002,146
+339.7719,339.77 kilómetros,1,-29.41202,-66.855683,RIOJ-LA RIOJA-PELAGIO LUNA-MU,2011-1-144,Supermercado,AR-F,Dr Pelagio Baltazar Luna 519,Musimundo,LA RIOJA,Electronica Megatone S.A,2011,144
+339.7968,339.80 kilómetros,1,-29.4114,-66.8554,BAZAR AVENIDA SA - La Rioja,2008-1-57,Tradicional,AR-F,Joaquin V. Gonzalez 151,MEGATONE,La Rioja,BAZAR AVENIDA S.A.,2008,57
+339.8129,339.81 kilómetros,1,-29.411181,-66.855400,LRJ - La Rioja - J V Gonzales ,2009-1-16,Supermercado,AR-F,J. V. Gonzalez 173,CETROGAR,La Rioja,CETROGAR  S.A,2009,16
+339.8896,339.89 kilómetros,2,-29.411481,-66.856755,La Rioja,10-2-135,Supermercado,AR-F,25 De Mayo 151,Market,La Rioja,INC S.A.,10,135
+340.0171,340.02 kilómetros,1,-33.459792,-61.488451,225 - FIRMAT,15-1-225,Autoservicio,AR-S,Cl Cordoba 886,Supermercados DIA,SANTA FE,DIA Argentina S.A,15,225
+340.3361,340.34 kilómetros,1,-29.4018,-66.8531,La Rioja II,9-1-705,Supermercado,AR-F,Avenida Alem Leandro Niceforo 678,Vea,LA RIOJA,Jumbo Retail Argentina S.A.,9,705
+343.5057,343.51 kilómetros,1,-32.06864,-60.638326,ERIO-DIAMANTE-9JUL-MU,2011-1-178,Autoservicio,AR-E,9 De Julio 431,Musimundo,DIAMANTE,Electronica Megatone S.A,2011,178
+343.571,343.57 kilómetros,1,-32.0697098,-60.6378708,1516 - DIAMANTE,15-1-1516,Autoservicio,AR-E,San Martin 484,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1516
+343.6071,343.61 kilómetros,1,-32.070467,-60.637659,495 - DIAMANTE,15-1-495,Autoservicio,AR-E,Sarmiento S/N Esq. Moreno None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,495
+344.8482,344.85 kilómetros,1,-34.264470,-62.710670,RUFINO,2-1-114,Supermercado,AR-S,H. Yrigoyen 277,La Anonima,Rufino,S.A. Importadora y Exportadora de la Patagonia,2,114
+345.802,345.80 kilómetros,1,-32.65362,-60.82233,LA RIBERA,19-1-01005,Autoservicio,AR-S,Auto. B.Estanislao Lopez Km 29 0,FULL,TIMBUES,Operadora de Estaciones de Servicios S.A.,19,01005
+346.7082,346.71 kilómetros,5,-31.721006,-60.547111,Paraná,11-5-3604,Hipermercado,AR-E,Anacleto Medina 319,Walmart SuperCenter,PARANA,Wal Mart Argentina S.R.L.,11,3604
+346.8088,346.81 kilómetros,1,-31.734235,-60.547349,434 - PARANA-ENTRE RIOS,15-1-434,Autoservicio,AR-E,Los Ceibos 798 None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,434
+347.4564,347.46 kilómetros,2,-31.741747,-60.541261,Parana J M Paz,10-2-262,Supermercado,AR-E,Gral. José María Paz 1303,Market,Paraná,INC S.A.,10,262
+347.5263,347.53 kilómetros,1,-31.725625,-60.538902,664 - PARANA-ENTRE RIOS,15-1-664,Autoservicio,AR-E,Narcizo Laprida 713,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,664
+347.5912,347.59 kilómetros,1,-31.741699,-60.539829,550 - PARANA-ENTRE RIOS,15-1-550,Autoservicio,AR-E,Gral.Jose M.Galan 1471 None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,550
+347.694,347.69 kilómetros,1,-31.7419371,-60.5387651,PARANA ,12-1-109,Hipermercado,AR-E,Coronel Juan M. Piran 801,COTO CICSA,Parana,Coto Centro Integral de Comercialización S.A.,12,109
+348.0197,348.02 kilómetros,2,-31.725619,-60.533681,Paraná (México),10-2-264,Supermercado,AR-E,México 404,Market,Paraná,INC S.A.,10,264
+348.0827,348.08 kilómetros,1,-31.7319382,-60.5336362,Parana,2005-1-52,Supermercado,AR-E,Pellegrini 13,Naldo,Parana,Naldo Lombardi SA,2005,52
+348.2324,348.23 kilómetros,1,-31.734666,-60.532324,SHOPPING LA PAZ,2003-1-7310,Tradicional,AR-E,Venezuela 61,Samsung,PARANA,GMRA S.A.,2003,7310
+348.2897,348.29 kilómetros,1,-31.732147,-60.531466,ENR - Parana  - Pellegrini ,2009-1-93,Supermercado,AR-E,Pellegrini 29,CETROGAR,Parana,CETROGAR  S.A,2009,93
+348.2902,348.29 kilómetros,1,-31.73232,-60.531478,ERIO-PARANA-PELLEG-MU,2011-1-51,Supermercado,AR-E,Pres Carlos Pellegrini 50,Musimundo,PARANA,Electronica Megatone S.A,2011,51
+348.3116,348.31 kilómetros,2,-31.734823,-60.531502,ERParana [San Martin 1125],24-2-100,Supermercado,AR-E,San Martin 1125,FARMACITY,Parana,Farmacity S.A.,24,100
+348.373,348.37 kilómetros,1,-31.72795,-60.53017,ACA PARANA,19-1-01073,Autoservicio,AR-E,Av. Buenos Aires 333 0,FULL,PARANA,Operadora de Estaciones de Servicios S.A.,19,01073
+348.4217,348.42 kilómetros,2,-31.722868,-60.529162,Parana Parque,10-2-181,Supermercado,AR-E,Santa Fe 606,Market,Paraná,INC S.A.,10,181
+348.4514,348.45 kilómetros,1,-31.7316,-60.5297,BAZAR AVENIDA SA - Parana,2008-1-649,Tradicional,AR-E,San Martin 813 0,MEGATONE,Parana,BAZAR AVENIDA S.A.,2008,649
+348.4575,348.46 kilómetros,1,-31.73126,-60.529602,ERIO-PARANA-SM PEAT-MU,2011-1-142,Autoservicio,AR-E,Gral Jose De San Martin 799,Musimundo,PARANA,Electronica Megatone S.A,2011,142
+348.5396,348.54 kilómetros,2,-31.730408,-60.528649,Parana Uruguay,10-2-125,Supermercado,AR-E,Uruguay 35,Market,Paraná,INC S.A.,10,125
+348.6816,348.68 kilómetros,1,-31.74405,-60.528528,ERIO-PARANA-ALMAFUERTE-MU,2011-1-52,Autoservicio,AR-E,Avda Almafuerte Prol None,Musimundo,PARANA,Electronica Megatone S.A,2011,52
+348.9155,348.92 kilómetros,1,-31.7594788,-60.5276976,1061 - PARANA-ENTRE RIOS,15-1-1061,Autoservicio,AR-E,Av De Las Americas 2631,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1061
+348.9301,348.93 kilómetros,2,-31.726740,-60.524157,Paraná (San Juan),10-2-243,Supermercado,AR-E,San Juan 609,Market,Paraná,INC S.A.,10,243
+348.9792,348.98 kilómetros,2,-31.737845,-60.524741,Paraná (Yrigoyen),10-2-244,Supermercado,AR-E,Hipólito Yrigoyen 223,Market,Paraná,INC S.A.,10,244
+349.0633,349.06 kilómetros,2,-31.748447,-60.524946,Paraná (Avenida de las Américas),10-2-249,Supermercado,AR-E,Av. De Las Américas 1731,Market,Paraná,INC S.A.,10,249
+349.1314,349.13 kilómetros,1,-31.74122,-60.523474,659 - PARANA-ENTRE RIOS,15-1-659,Autoservicio,AR-E,Enrique Carbò 701,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,659
+349.3434,349.34 kilómetros,1,-31.730358,-60.520138,635 - PARANA-ENTRE RIOS,15-1-635,Autoservicio,AR-E,Cl San Luis 448,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,635
+349.3861,349.39 kilómetros,1,-31.7680244,-60.5236609,556 - PARANA-ENTRE RIOS,15-1-556,Autoservicio,AR-E,Fotografo Carlos Pra 12 None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,556
+349.4214,349.42 kilómetros,1,-30.78718,-60.591992,SAFE-SAN JUSTO-IRIONDO-MU,2011-1-27,Autoservicio,AR-S,Avda Iriondo 2300,Musimundo,SAN JUSTO,Electronica Megatone S.A,2011,27
+349.5989,349.60 kilómetros,1,-31.749003,-60.519333,518 - PARANA-ENTRE RIOS,15-1-518,Autoservicio,AR-E,Ramirez 3154 None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,518
+349.7036,349.70 kilómetros,1,-31.738721,-60.517162,524 - PARANA-ENTRE RIOS,15-1-524,Autoservicio,AR-E,Av Ramirez 2244 None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,524
+349.825,349.82 kilómetros,1,-31.7330526,-60.515308,1050 - PARANA-ENTRE RIOS,15-1-1050,Autoservicio,AR-E,Cl Don Bosco 53,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1050
+349.8447,349.84 kilómetros,1,-31.725033,-60.514316,600 - PARANA-ENTRE RIOS,15-1-600,Autoservicio,AR-E,Av Francisco Ramirez 930,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,600
+350.0846,350.08 kilómetros,1,-30.784910,-60.585480,SAN JUSTO,2-1-171,Supermercado,AR-S,9 De Julio 2530,La Anonima,San Justo,S.A. Importadora y Exportadora de la Patagonia,2,171
+350.4131,350.41 kilómetros,2,-31.754009,-60.511242,Parana Rocamora,10-2-263,Supermercado,AR-E,Santos Domínguez 808,Market,Paraná,INC S.A.,10,263
+350.4797,350.48 kilómetros,1,-31.743916,-60.509477,433 - PARANA-ENTRE RIOS,15-1-433,Autoservicio,AR-E,Av Churruarin 601 None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,433
+350.4992,350.50 kilómetros,1,-31.761705,-60.511164,654 - PARANA-ENTRE RIOS,15-1-654,Autoservicio,AR-E,Banda Oriental 757,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,654
+350.5816,350.58 kilómetros,2,-31.734176,-60.507412,Paraná (Don Bosco),10-2-266,Supermercado,AR-E,Av. Don Bosco 0,Market,Paraná,INC S.A.,10,266
+350.6307,350.63 kilómetros,1,-31.755047,-60.509048,432 - PARANA-ENTRE RIOS,15-1-432,Autoservicio,AR-E,Cl Gral. Gervasio Artigas 883 None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,432
+350.6505,350.65 kilómetros,1,-31.828076,-60.517674,655 - PARANA-ENTRE RIOS,15-1-655,Autoservicio,AR-E,Av Intendente Del Castillo 133,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,655
+350.69,350.69 kilómetros,1,-31.74825,-60.50770,ALMAFUERTE,19-1-01088,Autoservicio,AR-E,Almafuerte 795 0,FULL,PARANA,Operadora de Estaciones de Servicios S.A.,19,01088
+351.1783,351.18 kilómetros,1,-31.751415,-60.502862,624 - PARANA-ENTRE RIOS,15-1-624,Autoservicio,AR-E,Av Almafuerte 1160,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,624
+351.2619,351.26 kilómetros,1,-31.751942,-60.502033,ENR - Parana - Av Almafuerte ,2009-1-90,Supermercado,AR-E,Av. Almafuerte 1198,CETROGAR,Parana,CETROGAR  S.A,2009,90
+351.5516,351.55 kilómetros,1,-31.7551,-60.4993,Paraná,9-1-943,Hipermercado,AR-E,Avenida Almafuerte Prolong 1670,Vea,PARANA,Jumbo Retail Argentina S.A.,9,943
+351.6481,351.65 kilómetros,1,-31.773861,-60.500348,625 - PARANA-ENTRE RIOS,15-1-625,Autoservicio,AR-E,Cl Benicio Lòpez 1735,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,625
+351.6641,351.66 kilómetros,1,-31.76506,-60.499191,589 - PARANA-ENTRE RIOS,15-1-589,Autoservicio,AR-E,Bernardo O`Higgins 1693,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,589
+351.8027,351.80 kilómetros,1,-31.752516,-60.496366,534 - PARANA-ENTRE RIOS,15-1-534,Autoservicio,AR-E,Blas Parera 296 None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,534
+351.8378,351.84 kilómetros,1,-31.736352,-60.494334,539 - PARANA-ENTRE RIOS,15-1-539,Autoservicio,AR-E,Av Don Bosco 1482/1498 None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,539
+351.839,351.84 kilómetros,1,-31.747483,-60.495454,621 - PARANA-ENTRE RIOS,15-1-621,Autoservicio,AR-E,Av Blas Parera 714,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,621
+351.9346,351.93 kilómetros,2,-31.741910,-60.493869,Parana,11-2-1039,Hipermercado,AR-E,Av Blas Parera 1152,Changomas,PARANA,Wal Mart Argentina S.R.L.,11,1039
+352.1767,352.18 kilómetros,1,-28.4608,-62.8349,BAZAR AVENIDA SA - Añatuya,2008-1-369,Tradicional,AR-G,Av. 25 De Mayo Norte 9,MEGATONE,Anatuya,BAZAR AVENIDA S.A.,2008,369
+352.7314,352.73 kilómetros,1,-31.757699,-60.487082,626 - PARANA-ENTRE RIOS,15-1-626,Autoservicio,AR-E,Av Almafuerte 2416,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,626
+354.4427,354.44 kilómetros,1,-33.41254,-67.11750,DESAGUADERO,19-1-30977,Autoservicio,AR-D,Ruta Nacional 7 Km 862 (Ascen) 0,FULL,DESAGUADERO,Operadora de Estaciones de Servicios S.A.,19,30977
+357.397,357.40 kilómetros,1,-32.7453,-60.7341,BAZAR AVENIDA SA - San Lorenzo,2008-1-427,Tradicional,AR-S,Av. San Martin 1649,MEGATONE,San Lorenzo,BAZAR AVENIDA S.A.,2008,427
+357.5258,357.53 kilómetros,1,-32.74812,-60.734053,SAFE-SAN LORENZO-SM-MU,2011-1-35,Supermercado,AR-S,Avda Gral Jose De San Martin 1374,Musimundo,SAN LORENZO,Electronica Megatone S.A,2011,35
+357.9194,357.92 kilómetros,1,-31.768899,-60.433338,584 - SAN BENITO,15-1-584,Autoservicio,AR-E,Av Guido Marizza Esq. Concordia None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,584
+358.0311,358.03 kilómetros,1,-34.0099564,-61.9114227,6024 - MARIA TERESA,15-1-6024,Autoservicio,AR-S,Cl Calle Nº5 312,Supermercados DIA,SANTA FE,DIA Argentina S.A,15,6024
+359.0569,359.06 kilómetros,1,-32.920926,-60.812213,438 - FUNES,15-1-438,Autoservicio,AR-S,Cl Angelome 2066,Supermercados DIA,SANTA FE,DIA Argentina S.A,15,438
+359.7902,359.79 kilómetros,1,-31.763742,-60.412963,443 - PARANA-ENTRE RIOS,15-1-443,Autoservicio,AR-E,Tte. Miguel Gimenez 2553 (Colonia Avelleneda) None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,443
+359.8618,359.86 kilómetros,1,-32.9223,-60.8034,Funes,9-1-430,Supermercado,AR-S,Ruta Nacional 9 0,Vea,FUNES,Jumbo Retail Argentina S.A.,9,430
+360.324,360.32 kilómetros,1,-28.4757,-65.7745,Catamarca III.,9-1-505,Supermercado,AR-K,Avenida Guemes Gral Martin Miguel De 856,Vea,SAN FDO DEL VALLE DE CATAMARCA,Jumbo Retail Argentina S.A.,9,505
+360.3405,360.34 kilómetros,1,-28.477093,-65.778283,Catamarca,10-1-178,Supermercado,AR-K,Hipólito Yrigoyen 1283,Hipermercado Carrefour,San Fernando del Valle de Catamarca,INC S.A.,10,178
+360.3858,360.39 kilómetros,2,-28.467222,-65.755218,Catamarca,11-2-1026,Hipermercado,AR-K,Av Villafañe 2420,Changomas,SAN FERNANDO DEL VALLE DE CATAMARCA,Wal Mart Argentina S.R.L.,11,1026
+360.7831,360.78 kilómetros,2,-28.472753,-65.778434,Catamarca II,10-2-132,Supermercado,AR-K,Rivadavia 945,Market,San Fernando del Valle de Catamarca,INC S.A.,10,132
+360.7888,360.79 kilómetros,1,-28.4726,-65.7782,Catamarca Peatonal.,9-1-769,Supermercado,AR-K,Rivadavia 954,Vea,SAN FDO DEL VALLE DE CATAMARCA,Jumbo Retail Argentina S.A.,9,769
+360.8364,360.84 kilómetros,1,-28.47224,-65.778476,CATA-CATAMARCA-BOTELLO PEAT-MU,2011-1-211,Autoservicio,AR-K,Mota Botello 595,Musimundo,CATAMARCA,Electronica Megatone S.A,2011,211
+360.8563,360.86 kilómetros,1,-28.4480,-65.7187,Patio Palmera,9-1-242,Supermercado,AR-K,Avenida Castillo Pres Ramon 254,Vea,VILLA DOLORES,Jumbo Retail Argentina S.A.,9,242
+360.8831,360.88 kilómetros,1,-28.4717320,-65.7783696,Catamarca,2002-1-113,Tradicional,AR-K,Rivadavia 869,Fravega,Catamarca,FRAVEGA S A C I E I,2002,113
+361.1385,361.14 kilómetros,1,-28.4684909,-65.7766606,Catamarca,2005-1-75,Supermercado,AR-K,Salta 688,Naldo,"San Fdo.Del Valle De Catamarca ,Est.",Naldo Lombardi SA,2005,75
+361.1903,361.19 kilómetros,1,-28.468141,-65.777063,CAT - Catamarca - Republica,2009-1-15,Supermercado,AR-K,Republica Esq. Salta None,CETROGAR,Catamarca,CETROGAR  S.A,2009,15
+361.2015,361.20 kilómetros,1,-28.46804,-65.777088,CATA-CATAMARCA-REPUBLICA-MU,2011-1-140,Supermercado,AR-K,Republica 700,Musimundo,CATAMARCA,Electronica Megatone S.A,2011,140
+361.2125,361.21 kilómetros,1,-28.4681,-65.7775,BAZAR AVENIDA SA - Catamarca,2008-1-29,Tradicional,AR-K,Republica 663,MEGATONE,Catamarca,BAZAR AVENIDA S.A.,2008,29
+361.8038,361.80 kilómetros,1,-28.4603,-65.7728,Catamarca.,9-1-243,Supermercado,AR-K,Avenida Belgrano Manuel 960,Vea,SAN FDO DEL VALLE DE CATAMARCA,Jumbo Retail Argentina S.A.,9,243
+362.1915,362.19 kilómetros,1,-32.8172,-60.716,BAZAR AVENIDA SA - Capitan Bermudez,2008-1-400,Tradicional,AR-S,Av. San Lorenzo 1299,MEGATONE,Capitan Bermudez,BAZAR AVENIDA S.A.,2008,400
+362.5085,362.51 kilómetros,1,-28.4650,-65.8012,Catamarca IV,9-1-550,Supermercado,AR-K,Av. Felipe Figueroa Esq. Juan De Sosa Y Leon 0,Vea,SAN FDO DEL VALLE DE CATAMARCA,Jumbo Retail Argentina S.A.,9,550
+362.5913,362.59 kilómetros,1,-32.82265,-60.714257,SAFE-CAPITAN BERMUDEZ-SLOR-MU,2011-1-216,Autoservicio,AR-S,Avda San Lorenzo 663,Musimundo,CAPITAN BERMUDEZ,Electronica Megatone S.A,2011,216
+364.8548,364.85 kilómetros,1,-32.8890581,-60.7244963,6045 - ROSARIO,15-1-6045,Autoservicio,AR-S,Domingo Matheu 2936,Supermercados DIA,SANTA FE,DIA Argentina S.A,15,6045
+365.3132,365.31 kilómetros,1,-32.904529,-60.727936,Rosario Fisherton,10-1-18,Hipermercado,AR-S,Av. Circunvalación 0,Hipermercado Carrefour,Rosario,INC S.A.,10,18
+365.4578,365.46 kilómetros,1,-32.9285,-60.7402,Fisherton,23-1-6257,Autoservicio,AR-S,Av. Eva Perón 8159,Axion Energy,Rosario,Pan American Energy LLC Argentina,23,6257
+366.7986,366.80 kilómetros,1,-32.9298072,-60.7249756,FISHERTON ROSARIO ,12-1-96,Hipermercado,AR-S,Venezuela 114,COTO CICSA,Fisherton,Coto Centro Integral de Comercialización S.A.,12,96
+366.8529,366.85 kilómetros,1,-32.931339,-60.725227,Hiper,22-1-11,Hipermercado,AR-S,Av. Eva Peron 7605,La Gallega,Rosario,La Gallega Supermercados S.A.,22,11
+367.2062,367.21 kilómetros,1,-32.940790,-60.726586,Donado,22-1-5,Supermercado,AR-S,Mendoza 7675,La Gallega,Rosario,La Gallega Supermercados S.A.,22,5
+368.7303,368.73 kilómetros,1,-32.90630,-60.68839,MARULL,19-1-00959,Autoservicio,AR-S,Rondeau Y Marull 0,FULL,ROSARIO,Operadora de Estaciones de Servicios S.A.,19,00959
+368.9299,368.93 kilómetros,1,-32.934019,-60.702038,Rosario Village,10-1-41,Supermercado,AR-S,Eva Perón 5856,Hipermercado Carrefour,Rosario,INC S.A.,10,41
+369.1655,369.17 kilómetros,3,-32.9094,-60.6850,Jumbo Rosario,9-3-5218,Hipermercado,AR-S,Nansen 323,Jumbo,ROSARIO,Jumbo Retail Argentina S.A.,9,5218
+369.2905,369.29 kilómetros,1,-32.90925,-60.683432,SAFE-ROSARIO-PORTAL SH-MU,2011-1-155,Supermercado,AR-S,Nansen 323,Musimundo,ROSARIO,Electronica Megatone S.A,2011,155
+369.3256,369.33 kilómetros,1,-32.909457,-60.683134,EASY ROSARIO,3001-1-118,Hipermercado,AR-S,Nansen 255,EASY,ROSARIO,EASY S.A.,3001,118
+370.1432,370.14 kilómetros,1,-32.9218,-60.680511,SAFE-ROSARIO-ALBERDI-MU,2011-1-29,Supermercado,AR-S,Avda Juan Bautista Alberdi Bis 531,Musimundo,ROSARIO,Electronica Megatone S.A,2011,29
+370.1886,370.19 kilómetros,1,-32.922428,-60.680334,Alberdi,22-1-26,Hipermercado,AR-S,Av. Alberdi 465,La Gallega,Rosario,La Gallega Supermercados S.A.,22,26
+371.0843,371.08 kilómetros,1,-32.9265135,-60.6720475,ROSARIO TALLERES ,12-1-165,Hipermercado,AR-S,Av. Junin 590,COTO CICSA,Rosario,Coto Centro Integral de Comercialización S.A.,12,165
+371.1891,371.19 kilómetros,1,-32.9265180,-60.6708050,Rosario Shopping,2002-1-101,Tradicional,AR-S,Junin 501,Fravega,Rosario,FRAVEGA S A C I E I,2002,101
+371.2446,371.24 kilómetros,1,-32.951,-60.6844,Boulevard,23-1-6256,Autoservicio,AR-S,Bvd. Avellaneda 1698,Axion Energy,Rosario,Pan American Energy LLC Argentina,23,6256
+371.3225,371.32 kilómetros,1,-32.9444,-60.6796,BAZAR AVENIDA SA - Rosario,2008-1-424,Tradicional,AR-S,Mendoza 4035,MEGATONE,Rosario,BAZAR AVENIDA S.A.,2008,424
+371.3244,371.32 kilómetros,1,-32.926670,-60.669285,ALTO ROSARIO,2003-1-7290,Tradicional,AR-S,Junin 501,Samsung,ROSARIO,GMRA S.A.,2003,7290
+371.3596,371.36 kilómetros,1,-32.92651,-60.668775,SAFE-ROSARIO-ALTO SH-MU,2011-1-83,Supermercado,AR-S,Junin 385,Musimundo,ROSARIO,Electronica Megatone S.A,2011,83
+371.4849,371.48 kilómetros,1,-32.9446397,-60.6778049,LA REINA,12-1-95,Supermercado,AR-S,Mendoza 3901,COTO CICSA,Rosario,Coto Centro Integral de Comercialización S.A.,12,95
+371.5789,371.58 kilómetros,1,-32.9448,-60.676778,SAFE-ROSARIO-ECHESORTU-MU,2011-1-115,Autoservicio,AR-S,Avda Mendoza 3826,Musimundo,ROSARIO,Electronica Megatone S.A,2011,115
+372.4566,372.46 kilómetros,1,-32.951847,-60.670442,Rosario Centro,10-1-32,Hipermercado,AR-S,C. Pellegrini 3250,Hipermercado Carrefour,Rosario,INC S.A.,10,32
+372.5569,372.56 kilómetros,1,-32.942,-60.6635,Ovidio Lagos,23-1-6262,Autoservicio,AR-S,Ovidio Lagos 781,Axion Energy,Rosario,Pan American Energy LLC Argentina,23,6262
+373.122,373.12 kilómetros,1,-32.942435,-60.657028,Rosario Pueyrredón,10-1-268,Hipermercado,AR-S,Pueyrredón 747,Hipermercado Carrefour,Rosario,INC S.A.,10,268
+373.2928,373.29 kilómetros,1,-32.96360,-60.66738,OVIDIO LAGOS,19-1-00983,Autoservicio,AR-S,27 De Febrero Y O. Lagos 0,FULL,ROSARIO,Operadora de Estaciones de Servicios S.A.,19,00983
+373.3872,373.39 kilómetros,1,-32.029752,-60.308533,593 - CRESPO,15-1-593,Autoservicio,AR-E,Av Belgrano 1163,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,593
+373.3938,373.39 kilómetros,1,-32.937548,-60.650968,Balcarce,22-1-16,Hipermercado,AR-S,Balcarce 248,La Gallega,Rosario,La Gallega Supermercados S.A.,22,16
+373.4432,373.44 kilómetros,1,-32.03201,-60.308377,ERIO-CRESPO-SM-MU,2011-1-61,Autoservicio,AR-E,San Martin 1140,Musimundo,CRESPO,Electronica Megatone S.A,2011,61
+373.491,373.49 kilómetros,1,-32.036205,-60.308697,1503 - CRESPO,15-1-1503,Autoservicio,AR-E,Cl Independencia 1660,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1503
+373.5201,373.52 kilómetros,1,-32.03214000,-60.30757800,Hipermercado LAR,20-1-1,Hipermercado,AR-E,San Martin 1404,LA AGRICOLA REGIONAL COOPERATIVA LIMITADA,Crespo,La Agricola Regional Cooperativa Limitada,20,1
+373.6518,373.65 kilómetros,1,-32.95017,-60.65522,ACA OROÑO,19-1-00973,Autoservicio,AR-S,Boulevard Oroño 1302 0,FULL,ROSARIO,Operadora de Estaciones de Servicios S.A.,19,00973
+373.9425,373.94 kilómetros,1,-32.946554,-60.649656,Dorrego,22-1-6,Hipermercado,AR-S,Dorrego 965,La Gallega,Rosario,La Gallega Supermercados S.A.,22,6
+374.0567,374.06 kilómetros,1,-32.954975,-60.653201,Moreno,22-1-24,Supermercado,AR-S,Av. Pellegrini 1966,La Gallega,Rosario,La Gallega Supermercados S.A.,22,24
+374.1035,374.10 kilómetros,1,-32.9416062,-60.6448748,ROSARIO,12-1-97,Hipermercado,AR-S,Urquiza 1644,COTO CICSA,Rosario,Coto Centro Integral de Comercialización S.A.,12,97
+374.112,374.11 kilómetros,1,-32.94345,-60.64584,ESPAÑA,19-1-03296,Autoservicio,AR-S,Santa Fe 1694 0,FULL,ROSARIO,Operadora de Estaciones de Servicios S.A.,19,03296
+374.2056,374.21 kilómetros,1,-32.945123,-60.645696,DEL SIGLO ROSARIO,2003-1-7550,Tradicional,AR-S,Cordoba 1643,Samsung,ROSARIO,GMRA S.A.,2003,7550
+374.2366,374.24 kilómetros,1,-32.939591,-60.642130,Paraguay y Catamarca,22-1-20,Supermercado,AR-S,Catamarca 1498,La Gallega,Rosario,La Gallega Supermercados S.A.,22,20
+374.4266,374.43 kilómetros,1,-32.9514498,-60.6467395,ROSARIO,12-1-99,Hipermercado,AR-S,Tres De Febrero 1602,COTO CICSA,Rosario,Coto Centro Integral de Comercialización S.A.,12,99
+374.5024,374.50 kilómetros,1,-32.94597,-60.642656,SAFE-ROSARIO-CORDOBA PEAT-ME,2011-1-289,Supermercado,AR-S,Cordoba 1256,Musimundo,ROSARIO,Electronica Megatone S.A,2011,289
+374.5351,374.54 kilómetros,1,-32.9462,-60.6424,BAZAR AVENIDA SA - Rosario II,2008-1-643,Tradicional,AR-S,Peatonal Cordoba 1235,MEGATONE,Rosario,BAZAR AVENIDA S.A.,2008,643
+374.6682,374.67 kilómetros,1,-32.94297,-60.63895,ROSARIO URQUIZA,19-1-00812,Autoservicio,AR-S,Mitre Y Urquiza 0,FULL,Rosario,Operadora de Estaciones de Servicios S.A.,19,00812
+374.7021,374.70 kilómetros,1,-32.94598,-60.640287,SAFE-ROSARIO-CORDOBA PEAT-MU,2011-1-70,Supermercado,AR-S,Cordoba 1256,Musimundo,ROSARIO,Electronica Megatone S.A,2011,70
+374.7565,374.76 kilómetros,1,-32.943048,-60.637946,Urquiza,22-1-3,Supermercado,AR-S,Urquiza 1145,La Gallega,Rosario,La Gallega Supermercados S.A.,22,3
+374.9031,374.90 kilómetros,1,-34.002525,-61.609768,6052 - VILLA CAÑAS,15-1-6052,Autoservicio,AR-S,Calle 57 Esquina 56 None,Supermercados DIA,SANTA FE,DIA Argentina S.A,15,6052
+374.9828,374.98 kilómetros,1,-32.946630,-60.637325,Sfe. Rosario [Peatonal Cordoba 1025],24-1-292,Supermercado,AR-S,Peatonal Cordoba 1025,SIMPLICITY,Rosario,Farmacity S.A.,24,292
+375.078,375.08 kilómetros,1,-32.956875,-60.642143,Mitre y Pellegrini,22-1-18,Hipermercado,AR-S,Av. Pellegrini 1194,La Gallega,Rosario,La Gallega Supermercados S.A.,22,18
+375.099,375.10 kilómetros,1,-32.94798,-60.636724,SAFE-ROSARIO-RIOJA-MU,2011-1-23,Supermercado,AR-S,Rioja 998,Musimundo,ROSARIO,Electronica Megatone S.A,2011,23
+375.1603,375.16 kilómetros,1,-32.964284,-60.645497,Entre Rios,22-1-1,Supermercado,AR-S,Entre Rios 2361,La Gallega,Rosario,La Gallega Supermercados S.A.,22,1
+375.2537,375.25 kilómetros,1,-32.9609,-60.6424,La Bandera,23-1-6260,Autoservicio,AR-S,San Martín 1983,Axion Energy,Rosario,Pan American Energy LLC Argentina,23,6260
+375.4199,375.42 kilómetros,1,-34.0057765,-61.6057296,Villa Cañas,2005-1-32,Autoservicio,AR-S,Calle 52 94,Naldo,Villa Cañas,Naldo Lombardi SA,2005,32
+375.5844,375.58 kilómetros,1,-32.954730,-60.634864,Buenos Aires,22-1-17,Supermercado,AR-S,9 De Julio 734,La Gallega,Rosario,La Gallega Supermercados S.A.,22,17
+375.5982,375.60 kilómetros,1,-33.0092,-60.6671,Rosario Sur,23-1-6264,Autoservicio,AR-S,Bvd.Oroño 6190,Axion Energy,Rosario,Pan American Energy LLC Argentina,23,6264
+376.1227,376.12 kilómetros,1,-32.953823,-60.627932,Ayacucho,22-1-31,Supermercado,AR-S,Mendoza 255,La Gallega,Rosario,La Gallega Supermercados S.A.,22,31
+376.3771,376.38 kilómetros,1,-32.99045,-60.64645,ROSARIO URIBURU,19-1-00989,Autoservicio,AR-S,Av. San Martin Y Uriburu 0,FULL,ROSARIO,Operadora de Estaciones de Servicios S.A.,19,00989
+376.48,376.48 kilómetros,1,-32.999533,-60.650663,SNF - Rosario - San Martin ,2009-1-99,Supermercado,AR-S,Av. San Martin 5379,CETROGAR,Rosario,CETROGAR  S.A,2009,99
+376.5568,376.56 kilómetros,1,-32.9963,-60.6478,BAZAR AVENIDA SA - Rosario Sur,2008-1-655,Tradicional,AR-S,San Martin 5053 0,MEGATONE,Rosario,BAZAR AVENIDA S.A.,2008,655
+376.5943,376.59 kilómetros,1,-32.9974440,-60.6480380,Rosario Sur,2002-1-166,Tradicional,AR-S,Av. San Martin 5159,Fravega,Rosario,FRAVEGA S A C I E I,2002,166
+376.6236,376.62 kilómetros,1,-32.99838,-60.648248,SAFE-ROSARIO-SM-MU,2011-1-30,Autoservicio,AR-S,Avda San Martin 5265,Musimundo,ROSARIO,Electronica Megatone S.A,2011,30
+376.8676,376.87 kilómetros,1,-32.970122,-60.628560,Rosario Sur,10-1-33,Hipermercado,AR-S,Necochea 2579,Hipermercado Carrefour,Rosario,INC S.A.,10,33
+379.9476,379.95 kilómetros,1,-33.02489,-60.62437,SAFE-V GDOR GALVEZ-PERON-MU,2011-1-39,Autoservicio,AR-S,Avda Juan Domingo Peron 2135,Musimundo,VILLA GOBERNADOR GALVEZ,Electronica Megatone S.A,2011,39
+380.3551,380.36 kilómetros,1,-33.027958,-60.621337,Galvez,22-1-23,Hipermercado,AR-S,Av. San Martin 2447,La Gallega,Villa Gobernador Gal,La Gallega Supermercados S.A.,22,23
+386.3171,386.32 kilómetros,1,-32.172918,-60.200586,1518 - RAMIREZ,15-1-1518,Autoservicio,AR-E,Triunvirato 267,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1518
+387.6801,387.68 kilómetros,1,-27.9254,-63.8957,BAZAR AVENIDA SA - Fernandez,2008-1-439,Tradicional,AR-G,Jose Fernandez Y Libertad 0,MEGATONE,Fernandez,BAZAR AVENIDA S.A.,2008,439
+389.2207,389.22 kilómetros,1,-31.955209,-60.125891,677 - SEGUI,15-1-677,Autoservicio,AR-E,Urquiza 798,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,677
+390.8351,390.84 kilómetros,1,-31.65356,-68.281732,SJUA-CAUCETE-SARMIENTO-MU,2011-1-202,Autoservicio,AR-J,Diag Sarmiento 1012,Musimundo,CAUCETE,Electronica Megatone S.A,2011,202
+395.9463,395.95 kilómetros,1,-33.156124,-60.512711,282 - ARROYO SECO,15-1-282,Autoservicio,AR-S,Cl Hipolito Yrigoyen 229,Supermercados DIA,SANTA FE,DIA Argentina S.A,15,282
+396.4333,396.43 kilómetros,1,-29.226695,-67.437710,LRJ - Chilecito - 25 de Mayo ,2009-1-18,Supermercado,AR-F,Av. 25 De Mayo 10,CETROGAR,Chilecito,CETROGAR  S.A,2009,18
+397.5887,397.59 kilómetros,2,-27.828130,-64.270004,Santiago Sur,11-2-1080,Hipermercado,AR-G,Avenida Leopoldo Lugones Esq. Pedro Cont None,Changomas,SANTIAGO DEL ESTERO,Wal Mart Argentina S.R.L.,11,1080
+398.81,398.81 kilómetros,1,-33.8931182,-61.102164,5187 - COLON,15-1-5187,Autoservicio,AR-B,"Calle 46 Esquina 18,Colon,Bs As None",Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5187
+399.0869,399.09 kilómetros,1,-33.893380,-61.098380,COLON,2-1-089,Supermercado,AR-B,Calle 20 718,La Anonima,Colon,S.A. Importadora y Exportadora de la Patagonia,2,089
+399.1018,399.10 kilómetros,1,-31.870218,-60.00852,442 - VIALE,15-1-442,Autoservicio,AR-E,Sarmiento Y 9 De Julio None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,442
+399.5946,399.59 kilómetros,2,-27.809677,-64.249649,Santiago,11-2-1012,Hipermercado,AR-G,Av Belgrano Sur 2663,Changomas,SANTIAGO DEL ESTERO,Wal Mart Argentina S.R.L.,11,1012
+399.7604,399.76 kilómetros,1,-31.231412,-59.987265,590 - VILLA HERNANDARIAS,15-1-590,Autoservicio,AR-E,La Rioja 164 None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,590
+401.7507,401.75 kilómetros,2,-27.790376,-64.259279,Santiago del Estero 2 [Belgrano 681/683/685/687],24-2-277,Supermercado,AR-G,Belgrano 681,FARMACITY,Santiago Del Estero,Farmacity S.A.,24,277
+401.9512,401.95 kilómetros,1,-27.7886,-64.2612,Sgo.del Estero II,9-1-887,Supermercado,AR-G,Av. Belgrano Sur N° 433/459 433,Vea,SANTIAGO DEL ESTERO,Jumbo Retail Argentina S.A.,9,887
+401.983,401.98 kilómetros,2,-27.788285,-64.259571,Santiago del Estero 3 [Avellaneda119],24-2-305,Supermercado,AR-G,Avellaneda 119,FARMACITY,2 Arboles,Farmacity S.A.,24,305
+402.0433,402.04 kilómetros,1,-27.7877460,-64.2598770,Santiago Del Estero,2002-1-168,Tradicional,AR-G,Peatonal Tucuman 263,Fravega,Santiago Del Estero,FRAVEGA S A C I E I,2002,168
+402.0992,402.10 kilómetros,1,-27.787285,-64.262415,SGES-SGO DEL ESTERO-PELLEG-MU,2011-1-232,Supermercado,AR-G,Pres Carlos Pellegrini 1,Musimundo,SANTIAGO DEL ESTERO,Electronica Megatone S.A,2011,232
+402.3723,402.37 kilómetros,1,-27.7848,-64.2612,BAZAR AVENIDA SA - Santiago del Estero,2008-1-608,Tradicional,AR-G,Peatonal Tucuman 175,MEGATONE,Santiago Del Estero,BAZAR AVENIDA S.A.,2008,608
+402.4396,402.44 kilómetros,2,-27.784205,-64.261909,Santiago del Estero [Tucuman 244],24-2-173,Supermercado,AR-G,Tucuman 244,FARMACITY,Santiago Del Estero,Farmacity S.A.,24,173
+402.441,402.44 kilómetros,1,-27.784193,-64.261937,SDE - Santiago Del Estero - PE Tucuman,2009-1-23,Supermercado,AR-G,Peatonal Tucuman 249,CETROGAR,Santiago del Estero,CETROGAR  S.A,2009,23
+402.4594,402.46 kilómetros,2,-27.783948,-64.257353,Santiago del Estero 4 [Av. Roca S/N],24-2-319,Supermercado,AR-G,Av.Roca 537,FARMACITY,Bandera Bajada,Farmacity S.A.,24,319
+402.4926,402.49 kilómetros,1,-27.7837300,-64.2621110,Santiago,2005-1-73,Supermercado,AR-G,Peatonal Tucumán 283,Naldo,Santiago Del Estero,Naldo Lombardi SA,2005,73
+403.0529,403.05 kilómetros,1,-27.7786,-64.2578,Santiago.,9-1-13,Hipermercado,AR-G,Av. Rivadavia Esq. Ejercito Argentino 0,Vea,SANTIAGO DEL ESTERO,Jumbo Retail Argentina S.A.,9,13
+403.0754,403.08 kilómetros,1,-27.778397,-64.257813,EASY SANTIAGO DEL ESTERO,3001-1-170,Supermercado,AR-G,Avenida Rivadavia Y Ejercito Argentino 0,EASY,SANTIAGO DEL ESTERO,EASY S.A.,3001,170
+403.1484,403.15 kilómetros,1,-32.6220245,-60.1570702,323 - VICTORIA,15-1-323,Autoservicio,AR-E,Cl 9 De Julio Y Peron 150,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,323
+403.3991,403.40 kilómetros,1,-32.62276,-60.154547,ERIO-VICTORIA-ESP-MU,2011-1-215,Autoservicio,AR-E,EspaãA 122,Musimundo,VICTORIA,Electronica Megatone S.A,2011,215
+404.118,404.12 kilómetros,1,-33.227,-60.45885,15 DE DICIEMBRE,19-1-02064,Autoservicio,AR-S,Autopista P E Aramburu Km 256 0,FULL,FIGHIERA,Operadora de Estaciones de Servicios S.A.,19,02064
+405.0821,405.08 kilómetros,1,-29.16426,-67.494409,RIOJ-CHILECITO-CASTRO-MU,2011-1-134,Autoservicio,AR-F,Domingo De Castro Y Bazan 18,Musimundo,CHILECITO,Electronica Megatone S.A,2011,134
+405.2369,405.24 kilómetros,1,-29.1629,-67.4952,BAZAR AVENIDA SA - Chilecito,2008-1-180,Tradicional,AR-F,La Plata 105,MEGATONE,Chilecito,BAZAR AVENIDA S.A.,2008,180
+406.1742,406.17 kilómetros,1,-31.660324,-59.914562,594 - MARIA GRANDE,15-1-594,Autoservicio,AR-E,Av Argentina 787,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,594
+406.2326,406.23 kilómetros,1,-32.33633100,-60.02698200,Sucursal Hernandez,20-1-4,Supermercado,AR-E,Gob. Entrerriano 725,LA AGRICOLA REGIONAL COOPERATIVA LIMITADA,Hernandez,La Agricola Regional Cooperativa Limitada,20,4
+406.3086,406.31 kilómetros,1,-33.0802,-60.3419,Arroyo Seco,23-1-6294,Autoservicio,AR-S,Autopista Gral. P.E. Aramburu None,Axion Energy,ARROYO SECO,Pan American Energy LLC Argentina,23,6294
+406.6572,406.66 kilómetros,1,-28.5549,-66.8173,BAZAR AVENIDA SA - Aimogasta,2008-1-366,Tradicional,AR-F,25 De Mayo 766,MEGATONE,Aimogasta,BAZAR AVENIDA S.A.,2008,366
+408.2987,408.30 kilómetros,2,-27.7310039,-64.2400559,Santiago del Estero 5 [Leandro N. Alem 145],24-2-326,Supermercado,AR-G,Leandro N. Alem 145,FARMACITY,Abrita Grande,Farmacity S.A.,24,326
+408.4178,408.42 kilómetros,1,-27.729907,-64.238340,SDE - La Banda - L N Alem,2009-1-20,Supermercado,AR-G,Leandro N. Alem 321,CETROGAR,La Banda,CETROGAR  S.A,2009,20
+408.4372,408.44 kilómetros,1,-27.7298,-64.2436,La Banda,9-1-730,Supermercado,AR-G,25 De Mayo Y Chacabuco 0,Vea,SANTIAGO DEL ESTERO,Jumbo Retail Argentina S.A.,9,730
+408.4405,408.44 kilómetros,1,-27.729696,-64.23785,SGES-LA BANDA-ALEM-MU,2011-1-252,Autoservicio,AR-G,Leandro Niceforo Alem 385,Musimundo,LA BANDA,Electronica Megatone S.A,2011,252
+409.8392,409.84 kilómetros,1,-29.88803,-60.286832,SAFE-CALCHAQUI-BELG-MU,2011-1-218,Autoservicio,AR-S,Bv Gral Manuel Belgrano 571,Musimundo,CALCHAQUI,Electronica Megatone S.A,2011,218
+412.543,412.54 kilómetros,1,-31.54137,-68.51400,ACA SAN JUAN,19-1-02694,Autoservicio,AR-J,9 De Julio Este 902 0,FULL,SAN JUAN,Operadora de Estaciones de Servicios S.A.,19,02694
+412.5536,412.55 kilómetros,1,-31.5358,-68.5142,Vea 46.,9-1-415,Supermercado,AR-J,Diagonal Sarmiento Y Rivadavia Caucete 0,Vea,SAN JUAN,Jumbo Retail Argentina S.A.,9,415
+412.5726,412.57 kilómetros,1,-31.5358,-68.5144,Vea 45.,9-1-414,Supermercado,AR-J,Avenida Albarracin De Sarmiento Norte Paula 420,Vea,SAN JUAN,Jumbo Retail Argentina S.A.,9,414
+412.5825,412.58 kilómetros,1,-31.53605,-68.51450,SAN JUAN,19-1-02657,Autoservicio,AR-J,Av. Rawson 216 Sur 0,FULL,SAN JUAN,Operadora de Estaciones de Servicios S.A.,19,02657
+412.8768,412.88 kilómetros,1,-31.549948,-68.517347,SJUA-SAN JUAN-RIVAD PEAT-MU,2011-1-309,Supermercado,AR-J,General Acha 230,Musimundo,SAN JUAN,Electronica Megatone S.A,2011,309
+413.1948,413.19 kilómetros,1,-31.5309,-68.5210,Vea 28.,9-1-194,Supermercado,AR-J,25 De Mayo Y Jujuy 0,Vea,SAN JUAN,Jumbo Retail Argentina S.A.,9,194
+413.3702,413.37 kilómetros,1,-34.850330,-62.466760,AMEGHINO,2-1-117,Supermercado,AR-B,Calle 1 540,La Anonima,Florentino Ameghino,S.A. Importadora y Exportadora de la Patagonia,2,117
+413.4133,413.41 kilómetros,1,-31.53544,-68.523229,SJUA-SAN JUAN-TUC-MU,2011-1-59,Supermercado,AR-J,Tucuman Sur 101,Musimundo,SAN JUAN,Electronica Megatone S.A,2011,59
+413.4188,413.42 kilómetros,1,-31.5345,-68.5233,BAZAR AVENIDA SA - San Juan,2008-1-652,Tradicional,AR-J,Tucuman Sur 33,MEGATONE,SAN JUAN,BAZAR AVENIDA S.A.,2008,652
+413.5253,413.53 kilómetros,1,-31.5357,-68.5244,Vea 48.,9-1-417,Supermercado,AR-J,General Acha 130,Vea,SAN JUAN,Jumbo Retail Argentina S.A.,9,417
+413.5557,413.56 kilómetros,1,-31.534016,-68.524744,San Juan,10-1-123,Supermercado,AR-J,Gral. Acha 32,Hipermercado Carrefour,San Juan,INC S.A.,10,123
+413.6058,413.61 kilómetros,1,-31.5355656,-68.5252472,San Juan,2005-1-55,Supermercado,AR-J,Tucuman Sur 124,Naldo,San Juan,Naldo Lombardi SA,2005,55
+413.6468,413.65 kilómetros,1,-31.5172,-68.5259,Vea 41.,9-1-410,Supermercado,AR-J,General Acha 1482,Vea,SAN JUAN,Jumbo Retail Argentina S.A.,9,410
+414.0893,414.09 kilómetros,1,-33.224397,-60.335673,SNF - Villa Constitucion - Av S Martin,2009-1-85,Supermercado,AR-S,Av. San Martin Esq. 14 De Febrero None,CETROGAR,Villa Constitucion,CETROGAR  S.A,2009,85
+414.3364,414.34 kilómetros,1,-31.5667,-68.5323,Vea 51.,9-1-815,Supermercado,AR-J,Republica Del Libano 297,Vea,SAN JUAN,Jumbo Retail Argentina S.A.,9,815
+414.418,414.42 kilómetros,1,-33.225442,-60.332344,211 - VILLA CONSTITUCION,15-1-211,Autoservicio,AR-S,Av San Martin 1081,Supermercados DIA,SANTA FE,DIA Argentina S.A,15,211
+414.6631,414.66 kilómetros,1,-31.5235,-68.5365,Vea 39.,9-1-408,Supermercado,AR-J,Salta Norte 1048,Vea,SAN JUAN,Jumbo Retail Argentina S.A.,9,408
+415.0734,415.07 kilómetros,1,-33.23012,-60.327344,SAFE-VILLA CONSTITUCION-SM-MU,2011-1-45,Autoservicio,AR-S,Bv Gral Jose De San Martin 1536,Musimundo,VILLA CONSTITUCION,Electronica Megatone S.A,2011,45
+415.1044,415.10 kilómetros,1,-31.58317,-68.539919,SJUA-RAWSON-SARMIENTO-MU,2011-1-60,Supermercado,AR-J,Bv Sarmiento Oeste 367,Musimundo,RAWSON,Electronica Megatone S.A,2011,60
+415.1261,415.13 kilómetros,1,-31.521277,-68.541382,PASEO SAN JUAN,2003-1-7440,Tradicional,AR-J,Avenida Circunvalacion None,Samsung,SAN JUAN,GMRA S.A.,2003,7440
+415.1688,415.17 kilómetros,1,-31.518637,-68.541856,EASY SAN JUAN,3001-1-123,Supermercado,AR-J,Scalabrini Ortiz 1285,EASY,SAN JUAN - CAPITAL -,EASY S.A.,3001,123
+415.4338,415.43 kilómetros,1,-31.5818067,-68.5434192,Rawson,2005-1-70,Autoservicio,AR-J,Boulevard Sarmiento Oeste 651,Naldo,Barrio Rawson,Naldo Lombardi SA,2005,70
+415.4464,415.45 kilómetros,2,-31.575672,-68.543724,Rawson,11-2-1081,Hipermercado,AR-J,Av. Doctor Ortega Y Las Vicentinas None,Changomas,BARRIO RAWSON,Wal Mart Argentina S.R.L.,11,1081
+415.4937,415.49 kilómetros,1,-35.02964231976656,-63.01698911196581,Gral. Villegas,13-1-78,Supermercado,AR-B,Castelli 589,Cooperativa Obrera Limitada de Consumo y Vivienda,General Villegas,Cooperativa Obrera Limitada de Consumo y Vivienda,13,78
+415.5779,415.58 kilómetros,2,-31.511110,-68.546211,San Juan Chimbas,11-2-1092,Hipermercado,AR-J,Avenida N. Benavidez Esq. Colón 1050,Changomas,SAN JUAN,Wal Mart Argentina S.R.L.,11,1092
+415.6062,415.61 kilómetros,1,-35.0310930,-63.0187410,Gral Villegas,2005-1-10,Autoservicio,AR-B,Rivadavia 505,Naldo,General Villegas,Naldo Lombardi SA,2005,10
+415.6371,415.64 kilómetros,1,-31.5815010,-68.5455632,San Juan - Rawson,2002-1-167,Tradicional,AR-J,Bv. Sarmiento Oeste 861,Fravega,San Juan,FRAVEGA S A C I E I,2002,167
+415.7421,415.74 kilómetros,1,-35.031650,-63.015600,DELTA VILLEGAS,2-1-127,Supermercado,AR-B,San Martin 200,La Anonima,General Villegas,S.A. Importadora y Exportadora de la Patagonia,2,127
+415.9788,415.98 kilómetros,1,-35.033081,-63.012165,1075 - GENERAL VILLEGAS,15-1-1075,Autoservicio,AR-B,Pueyrredon 351,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,1075
+416.3645,416.36 kilómetros,1,-30.58027,-59.931099,SAFE-SAN JAVIER-GRAL LOPEZ-MU,2011-1-203,Autoservicio,AR-S,Gral Lopez 1051,Musimundo,SAN JAVIER,Electronica Megatone S.A,2011,203
+416.5027,416.50 kilómetros,1,-31.5389,-68.5556,Vea 44.,9-1-413,Supermercado,AR-J,Av. Ignacio De La Roza 1946,Vea,SAN JUAN,Jumbo Retail Argentina S.A.,9,413
+416.5136,416.51 kilómetros,1,-33.2428923,-60.3179436,6017 - VILLA CONSTITUCION,15-1-6017,Autoservicio,AR-S,Dorrego 3114,Supermercados DIA,SANTA FE,DIA Argentina S.A,15,6017
+417.0234,417.02 kilómetros,1,-35.03745,-62.98867,ACA VILLEGAS,19-1-01648,Autoservicio,AR-B,Ruta Nacional 188 Km 360 0,FULL,GRAL.VILLEGAS,Operadora de Estaciones de Servicios S.A.,19,01648
+417.584,417.58 kilómetros,1,-31.5278,-68.5671,Vea 27.,9-1-193,Supermercado,AR-J,Av. Del Libertador 2359,Vea,SAN JUAN,Jumbo Retail Argentina S.A.,9,193
+418.1594,418.16 kilómetros,1,-31.539831,-68.572973,ESPACIO SAN JUAN,2003-1-7450,Tradicional,AR-J,Avenida José Ignacio De La Roza 806,Samsung,SAN JUAN,GMRA S.A.,2003,7450
+418.1986,418.20 kilómetros,5,-31.541112,-68.573364,San Juan,11-5-1006,Hipermercado,AR-J,Jose Ignacio De La Rosa Oeste 806,Walmart SuperCenter,BARRIO RIVADAVIA,Wal Mart Argentina S.R.L.,11,1006
+418.9481,418.95 kilómetros,1,-31.655753,-68.577373,SJUA-POCITO-C 11-MU,2011-1-213,Autoservicio,AR-J,Calle 11 - Ing.Zalazar 864 None,Musimundo,POCITO,Electronica Megatone S.A,2011,213
+419.5487,419.55 kilómetros,1,-31.5292,-68.5877,San Juan,9-1-544,Supermercado,AR-J,Av. Libertador General San Martín 4795,Vea,SAN JUAN,Jumbo Retail Argentina S.A.,9,544
+421.5391,421.54 kilómetros,1,-34.49526188,-61.54184014,571 - VEDIA,15-1-571,Autoservicio,AR-B,Arenales 147,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,571
+422.0028,422.00 kilómetros,1,-30.94882,-59.78812,ERIO-SANTA ELENA-ENTRER-MU,2011-1-222,Autoservicio,AR-E,Supremo Entrerriano 703,Musimundo,SANTA ELENA,Electronica Megatone S.A,2011,222
+428.6617,428.66 kilómetros,1,-32.39178200,-59.79784000,Sucursal Nogoya Italia,20-1-3,Supermercado,AR-E,Italia 405,LA AGRICOLA REGIONAL COOPERATIVA LIMITADA,Nogoyá,La Agricola Regional Cooperativa Limitada,20,3
+428.6926,428.69 kilómetros,1,-34.764896,-61.892818,353 - GRAL PINTO,15-1-353,Autoservicio,AR-B,Adolfo Alsina 540,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,353
+428.9735,428.97 kilómetros,1,-35.250090,-63.600530,INTENDENTE ALVEAR,2-1-149,Supermercado,AR-L,Av. Sarmiento 1065,La Anonima,Intendente Alvear,S.A. Importadora y Exportadora de la Patagonia,2,149
+429.0034,429.00 kilómetros,1,-33.34803471743084,-60.2334650045424,San Nicolas,13-1-126,Autoservicio,AR-B,Pte. Peron 1028,Cooperativa Obrera Limitada de Consumo y Vivienda,San Nicolás,Cooperativa Obrera Limitada de Consumo y Vivienda,13,126
+429.2213,429.22 kilómetros,1,-33.331816,-60.220188,San Nicolás,10-1-156,Hipermercado,AR-B,Bartolomé Mitre 264,Hipermercado Carrefour,San Nicolás,INC S.A.,10,156
+429.2551,429.26 kilómetros,2,-33.335962,-60.222474,San Nicolás II,10-2-256,Supermercado,AR-B,Av. Moreno 10,Market,San Nicolás,INC S.A.,10,256
+429.3211,429.32 kilómetros,1,-32.397116,-59.792151,320 - NOGOYA,15-1-320,Autoservicio,AR-E,Clcaseros 1200,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,320
+429.3647,429.36 kilómetros,1,-33.33323,-60.219354,BSAS-SAN NICOLAS-NACION-MU,2011-1-31,Supermercado,AR-B,Nacion Y Bolivar None,Musimundo,SAN NICOLAS,Electronica Megatone S.A,2011,31
+429.3979,429.40 kilómetros,1,-33.3320040,-60.2181510,San Nicolás,2005-1-49,Supermercado,AR-B,De La Nación 234,Naldo,"San Nicolas De Los Arroyos,Est.S.Nicolas",Naldo Lombardi SA,2005,49
+429.4751,429.48 kilómetros,1,-33.3346028,-60.2188972,280 - SAN NICOLAS,15-1-280,Autoservicio,AR-B,Cl Pellegrini 328,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,280
+429.5039,429.50 kilómetros,1,-32.40726500,-59.79305100,Sucursal Nogoya Sur,20-1-2,Supermercado,AR-E,Lisandro De La Torre 2501,LA AGRICOLA REGIONAL COOPERATIVA LIMITADA,Nogoyá,La Agricola Regional Cooperativa Limitada,20,2
+429.6113,429.61 kilómetros,1,-32.394161,-59.788145,ERIO-NOGOYA-SM-MU,2011-1-117,Autoservicio,AR-E,San Martin Y Maipu None,Musimundo,NOGOYA,Electronica Megatone S.A,2011,117
+432.7168,432.72 kilómetros,1,-33.35654,-60.19354,SAN NICOLAS,19-1-00616,Autoservicio,AR-B,Gral. Savio 1289 0,FULL,SAN NICOLAS,Operadora de Estaciones de Servicios S.A.,19,00616
+436.0005,436.00 kilómetros,1,-33.8930125,-60.5746255,Pergamino,2005-1-24,Autoservicio,AR-B,Avenida De Mayo 628,Naldo,Pergamino,Naldo Lombardi SA,2005,24
+436.1561,436.16 kilómetros,1,-33.8932460,-60.5727100,Pergamino,2002-1-133,Tradicional,AR-B,San Nicolas 459,Fravega,Pergamino,FRAVEGA S A C I E I,2002,133
+436.1847,436.18 kilómetros,1,-33.89342,-60.57248,BSAS-PERGAMINO-SAN NIC PEAT-MU,2011-1-118,Autoservicio,AR-B,San Nicolas 444,Musimundo,PERGAMINO,Electronica Megatone S.A,2011,118
+436.2753,436.28 kilómetros,1,-33.8988,-60.5763,Pergamino,9-1-669,Supermercado,AR-B,Merced 1183,Vea,PERGAMINO,Jumbo Retail Argentina S.A.,9,669
+436.472,436.47 kilómetros,1,-33.8939905,-60.5690737,234 - PERGAMINO,15-1-234,Autoservicio,AR-B,Av Julio A Roca 281,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,234
+436.528,436.53 kilómetros,1,-33.894345,-60.568638,Pergamino [Av. De Mayo 220],24-1-317,Autoservicio,AR-B,Av. De Mayo 220,SIMPLICITY,PERGAMINO,Farmacity S.A.,24,317
+436.7761,436.78 kilómetros,4,-33.894012,-60.564921,Pergamino,11-4-1046,Supermercado,AR-B,Boulevard Dardo Rocha 280,Mi Changomas,PERGAMINO,Wal Mart Argentina S.R.L.,11,1046
+437.1017,437.10 kilómetros,2,-33.902945,-60.568849,Pergamino II,10-2-255,Supermercado,AR-B,Bvard. Rocha 1352,Market,Pergamino,INC S.A.,10,255
+438.1932,438.19 kilómetros,1,-29.46613,-60.211955,SAFE-VERA-SM-MU,2011-1-187,Autoservicio,AR-S,San Martin 1560,Musimundo,VERA,Electronica Megatone S.A,2011,187
+438.2134,438.21 kilómetros,1,-33.900993,-60.551755,Pergamino,10-1-229,Hipermercado,AR-B,Santiago Del Estero 1351,Hipermercado Carrefour,Pergamino,INC S.A.,10,229
+438.9714,438.97 kilómetros,1,-27.498682,-64.856596,SGES-TERMAS RIO HONDO-RIVAD-MU,2011-1-255,Autoservicio,AR-G,Rivadavia 637,Musimundo,TERMAS DE RIO HONDO,Electronica Megatone S.A,2011,255
+439.2484,439.25 kilómetros,1,-30.740950,-59.646065,ENR - La Paz - S Martin ,2009-1-108,Supermercado,AR-E,San Martin 888,CETROGAR,La Paz,CETROGAR  S.A,2009,108
+439.3084,439.31 kilómetros,1,-30.7449462,-59.6445363,1054 - LA PAZ,15-1-1054,Autoservicio,AR-E,San Martin 1320,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1054
+439.4975,439.50 kilómetros,1,-30.74116,-59.643372,ERIO-LA PAZ-ITALIA-MU,2011-1-91,Autoservicio,AR-E,Italia 1059,Musimundo,LA PAZ,Electronica Megatone S.A,2011,91
+444.5747,444.57 kilómetros,1,-33.0865,-68.4619,Vea 32.,9-1-399,Supermercado,AR-M,Tropero Sosa 15,Vea,MENDOZA,Jumbo Retail Argentina S.A.,9,399
+444.808,444.81 kilómetros,1,-33.08305,-68.466394,MDZA-SAN MARTIN-9JUL-MU,2011-1-107,Autoservicio,AR-M,9 De Julio 208,Musimundo,SAN MARTIN,Electronica Megatone S.A,2011,107
+444.828,444.83 kilómetros,1,-33.0708,-68.4729,Vea 17.,9-1-184,Supermercado,AR-M,Lavalle 942,Vea,BARRIO RIVADAVIA,Jumbo Retail Argentina S.A.,9,184
+445.2519,445.25 kilómetros,1,-33.0818,-68.4722,Vea 15.,9-1-182,Supermercado,AR-M,9 De Julio 100,Vea,MENDOZA,Jumbo Retail Argentina S.A.,9,182
+446.0769,446.08 kilómetros,2,-33.079826,-68.482803,San Martin,11-2-1067,Hipermercado,AR-M,Boulogne Sur Mer 700,Changomas,GENERAL SAN MARTIN,Wal Mart Argentina S.R.L.,11,1067
+446.1814,446.18 kilómetros,1,-33.0863,-68.4807,Vea 16.,9-1-183,Supermercado,AR-M,Perrupato 356,Vea,MENDOZA,Jumbo Retail Argentina S.A.,9,183
+446.4483,446.45 kilómetros,1,-34.197124,-60.737495,5195 - ROJAS,15-1-5195,Autoservicio,AR-B,Dorrego 629,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5195
+446.4967,446.50 kilómetros,1,-27.5889,-65.6202,Stop Alberdi.,9-1-906,Supermercado,AR-T,Rivadavia 732,Vea,JUAN BAUTISTA ALBERDI,Jumbo Retail Argentina S.A.,9,906
+446.6145,446.61 kilómetros,1,-34.1961,-60.7339,Rojas,9-1-668,Supermercado,AR-B,Pueblos Originarios 351,Vea,ROJAS,Jumbo Retail Argentina S.A.,9,668
+446.6932,446.69 kilómetros,1,-34.1959,-60.732517,237 - ROJAS,15-1-237,Autoservicio,AR-B,Cl Julio Iribarne 291,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,237
+446.9666,446.97 kilómetros,1,-34.19917,-60.732116,BSAS-ROJAS-ALSINA-MU,2011-1-37,Autoservicio,AR-B,25 De Mayo Y Alsina None,Musimundo,ROJAS,Electronica Megatone S.A,2011,37
+449.5425,449.54 kilómetros,1,-33.19287,-68.463316,MDZA-RIVADAVIA-S ISIDRO-MU,2011-1-179,Autoservicio,AR-M,San Isidro 849,Musimundo,RIVADAVIA,Electronica Megatone S.A,2011,179
+450.9474,450.95 kilómetros,1,-33.500146,-60.064986,5274 - VILLA RAMALLO,15-1-5274,Autoservicio,AR-B,Sarmiento 937,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5274
+454.7568,454.76 kilómetros,1,-33.487563,-60.009449,5169 - RAMALLO,15-1-5169,Autoservicio,AR-B,San Martin 1345,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5169
+455.6757,455.68 kilómetros,1,-34.863540,-61.528660,LINCOLN,2-1-101,Supermercado,AR-B,Ituzaingo 147,La Anonima,Lincoln,S.A. Importadora y Exportadora de la Patagonia,2,101
+455.9634,455.96 kilómetros,1,-34.86693,-61.529163,BSAS-LINCOLN-MASSEY-MU,2011-1-116,Autoservicio,AR-B,Avda Massey 999,Musimundo,LINCOLN,Electronica Megatone S.A,2011,116
+456.1596,456.16 kilómetros,1,-34.869497,-61.529975,5443 - LINCOLN,15-1-5443,Autoservicio,AR-B,Av Leandro N Alem 1239,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5443
+456.4683,456.47 kilómetros,1,-30.240227,-68.746882,SJUA-JACHAL-ECHEGARAY-MU,2011-1-225,Autoservicio,AR-J,Echegaray 456,Musimundo,JACHAL,Electronica Megatone S.A,2011,225
+461.85,461.85 kilómetros,1,-32.92742,-68.73567,RODEO DE LA CRUZ,19-1-02822,Autoservicio,AR-M,Carril Nac. Y Torrontegui 0,FULL,Guaymallen,Operadora de Estaciones de Servicios S.A.,19,02822
+462.4376,462.44 kilómetros,1,-35.1421680,-61.9591500,Lincoln,2005-1-6,Autoservicio,AR-B,Guemes 45,Naldo,Lincoln,Naldo Lombardi SA,2005,6
+462.7857,462.79 kilómetros,1,-34.6033402,-60.9879170,La Anonima,2005-1-26,Autoservicio,AR-B,Ruta 7 Km 260,Naldo,Junin,Naldo Lombardi SA,2005,26
+462.8786,462.88 kilómetros,1,-34.5818437,-60.9567806,Motobike,2005-1-58,Autoservicio,AR-B,Rivadavia 914,Naldo,Junin,Naldo Lombardi SA,2005,58
+463.0084,463.01 kilómetros,1,-34.5832,-60.9565,Junin II,9-1-912,Supermercado,AR-B,Ituzaingo 43,Vea,JUNIN,Jumbo Retail Argentina S.A.,9,912
+463.0648,463.06 kilómetros,2,-34.597411,-60.975084,Junin,11-2-1061,Hipermercado,AR-B,Ruta N° 7 Y Sargento Cabral None,Changomas,JUNIN,Wal Mart Argentina S.R.L.,11,1061
+464.0878,464.09 kilómetros,1,-34.590040,-60.948100,JUNIN 2,2-1-173,Supermercado,AR-B,Bernardino Rivadavia 199,La Anonima,Junin,S.A. Importadora y Exportadora de la Patagonia,2,173
+464.1881,464.19 kilómetros,1,-34.5901720,-60.9466330,Junin,2005-1-2,Supermercado,AR-B,Roque Saenz Peña 151,Naldo,Junin,Naldo Lombardi SA,2005,2
+464.2348,464.23 kilómetros,1,-34.6059370,-60.9675050,Segunda Selección,2005-1-14,Autoservicio,AR-B,Alsina 175,Naldo,Junin,Naldo Lombardi SA,2005,14
+464.2728,464.27 kilómetros,1,-34.59101,-60.946385,BSAS-JUNIN-RSPENA-MU,2011-1-69,Autoservicio,AR-B,Pres Roque Saenz Peña 112,Musimundo,JUNIN,Electronica Megatone S.A,2011,69
+464.3297,464.33 kilómetros,1,-34.5939548,-60.9494724,WEB,2005-1-37,Supermercado,AR-B,Alberdi 206,Naldo,Junin,Naldo Lombardi SA,2005,37
+464.3632,464.36 kilómetros,1,-34.5933501,-60.948095,JUNÍN,2004-1-25,Hipermercado,AR-B,Av. Arias 1,Coppel S.A.,Junín,COPPEL S.A.,2004,25
+464.4646,464.46 kilómetros,1,-34.59262,-60.94543,PBA JUNIN,24-1-335,Autoservicio,AR-B,Jose Ignacio Arias 44,SIMPLICITY,JUNIN,Farmacity S.A.,24,335
+464.5177,464.52 kilómetros,1,-34.5947,-60.9474,Junin,9-1-767,Supermercado,AR-B,Roca Ataliva 35,Vea,JUNIN,Jumbo Retail Argentina S.A.,9,767
+464.6279,464.63 kilómetros,1,-34.59405,-60.94470,ACA JUNIN,19-1-01676,Autoservicio,AR-B,Saavedra Y Lebehnson 0,FULL,JUNIN,Operadora de Estaciones de Servicios S.A.,19,01676
+464.6392,464.64 kilómetros,1,-34.607170,-60.962520,JUNIN,2-1-085,Supermercado,AR-B,Ruta 7 Km 260,La Anonima,Junin,S.A. Importadora y Exportadora de la Patagonia,2,085
+465.111,465.11 kilómetros,1,-34.5910744,-60.9327159,5144 - JUNIN,15-1-5144,Autoservicio,AR-B,Coronel Suarez 581,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5144
+465.2199,465.22 kilómetros,1,-32.9062,-68.7829,Vea 31.,9-1-398,Supermercado,AR-M,Bandera De Los Andes 10008,Vea,RODEO DE LA CRUZ,Jumbo Retail Argentina S.A.,9,398
+465.314,465.31 kilómetros,1,-32.8942,-68.7890,Vea 3.,9-1-172,Supermercado,AR-M,Godoy Cruz Dr. Tomas 3825,Vea,VILLA NUEVA DE GUAYMALLEN,Jumbo Retail Argentina S.A.,9,172
+465.6014,465.60 kilómetros,1,-35.487759,-62.975086,367 - AMERICA,15-1-367,Autoservicio,AR-B,San Martin 156,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,367
+465.7006,465.70 kilómetros,1,-32.9122,-68.7858,Vea 35.,9-1-401,Supermercado,AR-M,Urquiza 3620,Vea,MAIPU,Jumbo Retail Argentina S.A.,9,401
+465.8596,465.86 kilómetros,1,-32.908234,-68.789274,Mendoza Guaymallén,10-1-17,Hipermercado,AR-M,Av. Acceso Este Lateral Sur 0,Hipermercado Carrefour,Guaymallen,INC S.A.,10,17
+465.94,465.94 kilómetros,1,-35.491900,-62.979870,AMERICA II,2-1-148,Supermercado,AR-B,Viamonte 240,La Anonima,America,S.A. Importadora y Exportadora de la Patagonia,2,148
+466.147,466.15 kilómetros,1,-32.90370,-68.79443,SHOPPING MENDOZA,19-1-02531,Autoservicio,AR-M,Acc.Este Y Avellaneda 0,FULL,MENDOZA,Operadora de Estaciones de Servicios S.A.,19,02531
+466.2593,466.26 kilómetros,1,-32.8411,-68.8213,Las Heras III,9-1-856,Supermercado,AR-M,Independencia E/Chac 0,Vea,LAS HERAS,Jumbo Retail Argentina S.A.,9,856
+466.3069,466.31 kilómetros,1,-32.90248,-68.796749,MENDOZA PLAZA MALL,2003-1-7430,Tradicional,AR-M,Avenida Acceso Este 3280,Samsung,VILLA NUEVA,GMRA S.A.,2003,7430
+466.3128,466.31 kilómetros,1,-32.9018,-68.7971,Vea 23 - Shopping.,9-1-189,Supermercado,AR-M,Acceso Este 3280,Vea,VILLA NUEVA DE GUAYMALLEN,Jumbo Retail Argentina S.A.,9,189
+466.5147,466.51 kilómetros,1,-32.902087,-68.799261,MDZA-GUAYMALLEN-PLAZA SH-MU,2011-1-94,Supermercado,AR-M,Av. Acceso Este 3280 N. 01 Lo None,Musimundo,VILLA NUEVA DE GUAYMALLEN,Electronica Megatone S.A,2011,94
+466.9484,466.95 kilómetros,1,-32.9039,-68.8034,Vea 5.,9-1-173,Supermercado,AR-M,Ignacio Molina 325,Vea,VILLA NUEVA DE GUAYMALLEN,Jumbo Retail Argentina S.A.,9,173
+467.1087,467.11 kilómetros,1,-32.93248,-68.7931,MAIPU,19-1-01238,Autoservicio,AR-M,Rodriguez Pena 1130,FULL,GRAL.GUTIERREZ,Operadora de Estaciones de Servicios S.A.,19,01238
+467.1146,467.11 kilómetros,1,-32.8628,-68.8222,Vea 24.,9-1-190,Supermercado,AR-M,Moyano Lisandro 302,Vea,LAS HERAS,Jumbo Retail Argentina S.A.,9,190
+467.5251,467.53 kilómetros,1,-32.8448,-68.834039,MDZA-LAS HERAS-SM-MU,2011-1-168,Autoservicio,AR-M,Avda Gral Jose De San Martin 2228,Musimundo,LAS HERAS,Electronica Megatone S.A,2011,168
+467.7215,467.72 kilómetros,1,-32.8893,-68.8182,Vea 14.,9-1-181,Supermercado,AR-M,Godoy Cruz 1105,Vea,VILLA NUEVA DE GUAYMALLEN,Jumbo Retail Argentina S.A.,9,181
+468.3095,468.31 kilómetros,1,-32.8884,-68.8252,Mayorista.,9-1-196,Supermercado,AR-M,Matienzo Benjamin 936,Vea,VILLA NUEVA DE GUAYMALLEN,Jumbo Retail Argentina S.A.,9,196
+468.3901,468.39 kilómetros,1,-32.8512,-68.8412,Vea 11.,9-1-179,Supermercado,AR-M,San Miguel 1650,Vea,LAS HERAS,Jumbo Retail Argentina S.A.,9,179
+468.4213,468.42 kilómetros,1,-32.8707,-68.8337,Vea 12.,9-1-180,Supermercado,AR-M,Santiago Del Estero Provincia De 25,Vea,MENDOZA,Jumbo Retail Argentina S.A.,9,180
+468.5133,468.51 kilómetros,1,-32.984516,-68.786314,MDZA-MAIPU-SM-MU,2011-1-112,Autoservicio,AR-M,San Martin 323,Musimundo,MAIPU,Electronica Megatone S.A,2011,112
+468.6051,468.61 kilómetros,1,-32.9824,-68.7883,Vea 20.,9-1-187,Supermercado,AR-M,Vasquez Padre 328,Vea,MAIPU,Jumbo Retail Argentina S.A.,9,187
+468.6655,468.67 kilómetros,1,-32.9833833,-68.7885500,Maipu,2005-1-71,Autoservicio,AR-M,Padre Vazquez 237,Naldo,Maipu,Naldo Lombardi SA,2005,71
+469.0406,469.04 kilómetros,1,-32.9140,-68.8228,LA BARRACA,9-1-857,Supermercado,AR-M,Las Cañas 1833,Vea,SAN JOSE DE GUAYMALLEN,Jumbo Retail Argentina S.A.,9,857
+469.2424,469.24 kilómetros,2,-32.978813,-68.797142,Maipu,11-2-1015,Hipermercado,AR-M,Maza 470,Changomas,MAIPU,Wal Mart Argentina S.R.L.,11,1015
+469.2796,469.28 kilómetros,5,-32.914510,-68.825287,Mendoza (24hs),11-5-3613,Hipermercado,AR-M,Moldes 1023,Walmart SuperCenter,VILLANUEVA,Wal Mart Argentina S.R.L.,11,3613
+469.331,469.33 kilómetros,1,-32.871591,-68.843574,MENDOZA ,12-1-209,Hipermercado,AR-M,Av. Peru 2760,COTO CICSA,Mendoza,Coto Centro Integral de Comercialización S.A.,12,209
+469.3493,469.35 kilómetros,1,-32.88545,-68.838131,MDZA-MENDOZA-SM1549-MU,2011-1-64,Supermercado,AR-M,Avda Gral Jose De San Martin 1549,Musimundo,MENDOZA,Electronica Megatone S.A,2011,64
+469.4896,469.49 kilómetros,1,-32.88782,-68.83874,MDZA-MENDOZA-SM1335-MU,2011-1-92,Autoservicio,AR-M,Avda Gral Jose De San Martin 1335,Musimundo,MENDOZA,Electronica Megatone S.A,2011,92
+469.5218,469.52 kilómetros,1,-32.8888,-68.8387,BAZAR AVENIDA SA - Mendoza,2008-1-636,Tradicional,AR-M,Av. San Martin 1273 0,MEGATONE,Mendoza,BAZAR AVENIDA S.A.,2008,636
+469.5242,469.52 kilómetros,1,-32.9029,-68.8329,Vea 33.,9-1-400,Supermercado,AR-M,Pedro Vargas 355,Vea,VILLA NUEVA DE GUAYMALLEN,Jumbo Retail Argentina S.A.,9,400
+469.5266,469.53 kilómetros,1,-32.8821,-68.8415,Vea 34.,9-1-402,Supermercado,AR-M,Patricias Mendocinas 1730,Vea,MENDOZA,Jumbo Retail Argentina S.A.,9,402
+469.5669,469.57 kilómetros,1,-32.8887928,-68.8392115,Mendoza,2005-1-79,Supermercado,AR-M,Av San Martin 1252,Naldo,Mendoza,Naldo Lombardi SA,2005,79
+469.5706,469.57 kilómetros,1,-32.8852398,-68.8407103,Mendoza San Rafael,2002-1-132,Tradicional,AR-M,San Martin 32,Fravega,San Rafael,FRAVEGA S A C I E I,2002,132
+469.6777,469.68 kilómetros,1,-32.89205,-68.83912,ACA MENDOZA,19-1-02744,Autoservicio,AR-M,San Martin 958 0,FULL,MENDOZA,Operadora de Estaciones de Servicios S.A.,19,02744
+469.7224,469.72 kilómetros,2,-32.885582,-68.842280,Mendoza Las Heras,10-2-283,Supermercado,AR-M,Av. Las Heras 306,Market,Mendoza,INC S.A.,10,283
+469.9255,469.93 kilómetros,5,-32.850687,-68.858646,Las Heras,11-5-1005,Hipermercado,AR-M,Boulogne Sur Mer Y Regalado Olguin None,Walmart SuperCenter,MENDOZA CIUDAD,Wal Mart Argentina S.R.L.,11,1005
+470.0321,470.03 kilómetros,2,-32.868658,-68.852646,Mendoza Sexta,10-2-288,Supermercado,AR-M,Jorge A. Calle 631,Market,Mendoza,INC S.A.,10,288
+470.2283,470.23 kilómetros,1,-32.885049,-68.848197,Mendoza Azul Centro,10-1-29,Hipermercado,AR-M,Las Heras 798,Hipermercado Carrefour,Mendoza,INC S.A.,10,29
+470.2925,470.29 kilómetros,2,-32.894355,-68.845102,Mendoza Colón,10-2-282,Supermercado,AR-M,Av. Colón 324,Market,Mendoza,INC S.A.,10,282
+470.3459,470.35 kilómetros,1,-32.8681,-68.8564,Sexta Sección,9-1-855,Supermercado,AR-M,Jorge A. Calle Esq. Neuquen 0,Vea,MENDOZA,Jumbo Retail Argentina S.A.,9,855
+470.4936,470.49 kilómetros,3,-32.9169,-68.8380,Jumbo Mendoza,9-3-5222,Hipermercado,AR-M,Balcarce Gonzalez Gdor Gral Juan Ramon 897,Jumbo,GODOY CRUZ,Jumbo Retail Argentina S.A.,9,5222
+470.5822,470.58 kilómetros,2,-32.877586,-68.855222,Mendoza Suipacha,10-2-287,Supermercado,AR-M,Suipacha 556,Market,Mendoza,INC S.A.,10,287
+470.6492,470.65 kilómetros,1,-32.917243,-68.839614,EASY MENDOZA,3001-1-122,Hipermercado,AR-M,Gdor Gral J R Balcarce 735,EASY,Godoy Cruz,EASY S.A.,3001,122
+470.6634,470.66 kilómetros,1,-32.91633,-68.840158,MDZA-MENDOZA-LOS ANDES SH-MU,2011-1-165,Supermercado,AR-M,Gdor Gral Juan Ramon Balcarce 897,Musimundo,GODOY CRUZ,Electronica Megatone S.A,2011,165
+470.842,470.84 kilómetros,2,-27.350410,-65.589111,Concepción,11-2-1088,Hipermercado,AR-T,Avenida Güemes Esq. Francia None,Changomas,CONCEPCION,Wal Mart Argentina S.R.L.,11,1088
+471.0394,471.04 kilómetros,1,-32.9393,-68.8347,Vea 2.,9-1-171,Supermercado,AR-M,Sarmiento Domindo Faustino 998,Vea,GODOY CRUZ,Jumbo Retail Argentina S.A.,9,171
+471.1157,471.12 kilómetros,1,-27.349984,-65.597161,TUC - Concepcion - S Martin,2009-1-19,Supermercado,AR-T,San Martin 1363,CETROGAR,Concepcion,CETROGAR  S.A,2009,19
+471.1858,471.19 kilómetros,1,-27.3503,-65.6008,Stop Concepción.,9-1-904,Supermercado,AR-T,Rivadavia 36,Vea,CONCEPCION,Jumbo Retail Argentina S.A.,9,904
+471.2291,471.23 kilómetros,1,-32.9174,-68.8461,Vea 1.,9-1-170,Supermercado,AR-M,Avenida San Martin Sur Gral Jose De 698,Vea,GODOY CRUZ,Jumbo Retail Argentina S.A.,9,170
+471.2622,471.26 kilómetros,2,-32.903094,-68.852428,Mendoza Bombal,10-2-290,Supermercado,AR-M,Beltrán 2078,Market,Godoy Cruz,INC S.A.,10,290
+471.3345,471.33 kilómetros,1,-27.345999,-65.58995,TUCU-CONCEPCION-SM-MU,2011-1-243,Autoservicio,AR-T,San Martin 1235,Musimundo,CONCEPCION,Electronica Megatone S.A,2011,243
+471.3563,471.36 kilómetros,1,-32.8897,-68.8590,Vea 6.,9-1-174,Supermercado,AR-M,Paso De Los Andes 850,Vea,GODOY CRUZ,Jumbo Retail Argentina S.A.,9,174
+471.7916,471.79 kilómetros,1,-32.8997,-68.8598,Vea 21.,9-1-188,Supermercado,AR-M,Paso De Los Andes 82,Vea,MENDOZA,Jumbo Retail Argentina S.A.,9,188
+471.9083,471.91 kilómetros,1,-32.90192,-68.86020,MENDOZA 5TA.SECCION,19-1-02701,Autoservicio,AR-M,Cordón De Los Andes Y Andrade 0,FULL,Mendoza,Operadora de Estaciones de Servicios S.A.,19,02701
+471.9535,471.95 kilómetros,1,-30.013737,-59.529291,Esquina 1,2000-1-667,Tienda Fisica,AR-W,Belgrano 720,MUSIMUNDO,ESQUINA,CARSA SA,2000,667
+472.238,472.24 kilómetros,1,-35.655920,-63.757040,GENERAL PICO,2-1-109,Supermercado,AR-L,Calle 7 1064,La Anonima,General Pico,S.A. Importadora y Exportadora de la Patagonia,2,109
+472.3198,472.32 kilómetros,1,-32.9414,-68.8483,Vea 8.,9-1-176,Supermercado,AR-M,Perito Moreno 1481,Vea,GODOY CRUZ,Jumbo Retail Argentina S.A.,9,176
+472.6558,472.66 kilómetros,1,-35.6593,-63.751352,LAPA-GENERAL PICO-C 17-MU,2011-1-169,Autoservicio,AR-L,Calle 17 1102,Musimundo,GENERAL PICO,Electronica Megatone S.A,2011,169
+472.6703,472.67 kilómetros,1,-27.58236,-66.315165,CATA-ANDALGALA-SM-MU,2011-1-212,Autoservicio,AR-K,Avda Gral Jose De San Martin 705,Musimundo,ANDALGALA,Electronica Megatone S.A,2011,212
+472.6787,472.68 kilómetros,1,-35.6598318,-63.7559761,Gral. Pico I,2005-1-19,Autoservicio,AR-L,Calle 13 956,Naldo,General Pico,Naldo Lombardi SA,2005,19
+472.6787,472.68 kilómetros,1,-35.6598318,-63.7559761,Gral Pico II,2005-1-34,Supermercado,AR-L,Calle 17 967,Naldo,General Pico,Naldo Lombardi SA,2005,34
+472.7777,472.78 kilómetros,2,-35.662563,-63.783195,Gral Pico,11-2-1077,Hipermercado,AR-L,Calle 319 352,Changomas,GENERAL PICO,Wal Mart Argentina S.R.L.,11,1077
+472.929,472.93 kilómetros,1,-35.662,-63.7546,BAZAR AVENIDA SA - Gral. Pico,2008-1-55,Tradicional,AR-L,Calle 17 798,MEGATONE,General Pico,BAZAR AVENIDA S.A.,2008,55
+473.0481,473.05 kilómetros,1,-32.8760,-68.8836,B° Dalvian,9-1-546,Supermercado,AR-M,Cerro Siete Colores 2496,Vea,MENDOZA,Jumbo Retail Argentina S.A.,9,546
+473.2212,473.22 kilómetros,1,-35.665450,-63.766320,STELLA MARIS,2-1-196,Supermercado,AR-L,Calle 9 51,La Anonima,General Pico,S.A. Importadora y Exportadora de la Patagonia,2,196
+473.3077,473.31 kilómetros,1,-35.666879647168656,-63.77597430949379,Gral. Pico,13-1-75,Supermercado,AR-L,Calle N°1 Oeste 698,Cooperativa Obrera Limitada de Consumo y Vivienda,General Pico,Cooperativa Obrera Limitada de Consumo y Vivienda,13,75
+473.6046,473.60 kilómetros,5,-32.951366,-68.858596,Palmares,11-5-1068,Hipermercado,AR-M,Avenida San Martín Sur 2575,Walmart SuperCenter,GODOY CRUZ,Wal Mart Argentina S.R.L.,11,1068
+473.6717,473.67 kilómetros,1,-32.955546,-68.857566,PALMARES DE MENDOZA,2003-1-7360,Tradicional,AR-M,Avenida General San Martin Sur 2875,Samsung,GODOY CRUZ,GMRA S.A.,2003,7360
+473.6894,473.69 kilómetros,1,-32.9557,-68.8577,Vea 26.,9-1-192,Supermercado,AR-M,R. Panamericana 2675,Vea,MENDOZA,Jumbo Retail Argentina S.A.,9,192
+473.7221,473.72 kilómetros,1,-32.9127,-68.8762,Vea 7.,9-1-175,Supermercado,AR-M,America 2780,Vea,GODOY CRUZ,Jumbo Retail Argentina S.A.,9,175
+474.6525,474.65 kilómetros,3,-32.9798,-68.8582,Jumbo Vista Pueblo,9-3-5225,Hipermercado,AR-M,Avenida San Martin 6279,Jumbo,CARRODILLA  LA PUNTILLA,Jumbo Retail Argentina S.A.,9,5225
+474.717,474.72 kilómetros,1,-32.723682,-59.396034,6061 - GENERAL GALARZA,15-1-6061,Autoservicio,AR-E,San Martin 259,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,6061
+475.9609,475.96 kilómetros,1,-34.65748,-60.84512,LA AGRARIA,19-1-01686,Autoservicio,AR-B,Ruta Nacional 7 Km 245 (Desc.) 0,FULL,LA AGRARIA,Operadora de Estaciones de Servicios S.A.,19,01686
+478.4175,478.42 kilómetros,1,-33.0325,-68.8777,Vea 18.,9-1-185,Supermercado,AR-M,San Martin 1211,Vea,TUNUYAN,Jumbo Retail Argentina S.A.,9,185
+478.6657,478.67 kilómetros,1,-33.0359,-68.8790,Vea 30.,9-1-220,Supermercado,AR-M,San Martin 880,Vea,LUJAN DE CUYO,Jumbo Retail Argentina S.A.,9,220
+478.6825,478.68 kilómetros,2,-33.036676,-68.878842,Mendoza Luján de Cuyo,10-2-289,Supermercado,AR-M,Azcuénaga 51,Market,Luján de Cuyo,INC S.A.,10,289
+478.8895,478.89 kilómetros,1,-33.0372730,-68.8809340,Lujan de Cuyo,2005-1-69,Autoservicio,AR-M,Taboada 382,Naldo,Lujan De Cuyo,Naldo Lombardi SA,2005,69
+478.9245,478.92 kilómetros,1,-33.03994,-68.880129,MDZA-LUJAN DE CUYO-SM-MU,2011-1-63,Autoservicio,AR-M,Avda Gral Jose De San Martin 421,Musimundo,LUJAN DE CUYO,Electronica Megatone S.A,2011,63
+480.0712,480.07 kilómetros,1,-33.12701,-59.502824,5286 - BARADERO,15-1-5286,Autoservicio,AR-B,Santa Maria De Oro 519,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5286
+481.9354,481.94 kilómetros,1,-34.061751,-60.104689,243 - ARRECIFES,15-1-243,Autoservicio,AR-B,Cl Ricardo Gutierrez 435,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,243
+482.0343,482.03 kilómetros,1,-34.06563,-60.106799,BSAS-ARRECIFES-GUTIERREZ-MU,2011-1-36,Autoservicio,AR-B,Dr Ricardo Gutierrez 536,Musimundo,ARRECIFES,Electronica Megatone S.A,2011,36
+482.1582,482.16 kilómetros,1,-34.061546,-60.101513,5219 - ARRECIFES,15-1-5219,Autoservicio,AR-B,Av Dr. Carlos Merlassino 2 None,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5219
+482.2652,482.27 kilómetros,1,-34.066450,-60.104420,ARRECIFES,2-1-100,Supermercado,AR-B,Dr. Carlos Merlasino 524,La Anonima,Arrecifes,S.A. Importadora y Exportadora de la Patagonia,2,100
+486.7253,486.73 kilómetros,1,-34.2922230,-60.2564766,Salto,2005-1-23,Autoservicio,AR-B,Buenos Aires 391,Naldo,Salto,Naldo Lombardi SA,2005,23
+486.7616,486.76 kilómetros,1,-34.290660,-60.254390,SALTO,2-1-096,Supermercado,AR-B,Moreno 360,La Anonima,Salto,S.A. Importadora y Exportadora de la Patagonia,2,096
+486.8549,486.85 kilómetros,1,-34.292354,-60.254775,BSAS-SALTO-BUENOS AIRES-MU,2011-1-306,Supermercado,AR-B,Buenos Aires 498,Musimundo,SALTO,Electronica Megatone S.A,2011,306
+487.4065,487.41 kilómetros,1,-32.301798,-59.138836,325 - ROSARIO DEL TALA,15-1-325,Autoservicio,AR-E,Cl Ramirez 21,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,325
+487.6983,487.70 kilómetros,1,-27.1699,-65.4999,Stop Monteros.,9-1-903,Supermercado,AR-T,Alberdi 0,Vea,MONTEROS VIEJO,Jumbo Retail Argentina S.A.,9,903
+487.8979,487.90 kilómetros,1,-27.167752,-65.49871,TUCU-MONTEROS-COLON-MU,2011-1-235,Autoservicio,AR-T,Colon 163,Musimundo,MONTEROS,Electronica Megatone S.A,2011,235
+488.073,488.07 kilómetros,1,-34.294838,-60.240057,5207 - SALTO,15-1-5207,Autoservicio,AR-B,Av Hipolito Irigoyen 35,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5207
+491.1874,491.19 kilómetros,1,-31.860934,-59.031579,6039 - VILLAGUAY,15-1-6039,Autoservicio,AR-E,Leopoldo Herrera Y Crispin Velazquez None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,6039
+491.5539,491.55 kilómetros,1,-31.855744,-59.027234,1044 - VILLAGUAY,15-1-1044,Autoservicio,AR-E,Cl San Martin 1524,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1044
+491.5562,491.56 kilómetros,1,-31.8696614,-59.0284795,6047 - VILLAGUAY,15-1-6047,Autoservicio,AR-E,Rivadavia 29,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,6047
+491.5871,491.59 kilómetros,1,-31.86244,-59.027487,ERIO-VILLAGUAY-SM-MU,2011-1-79,Autoservicio,AR-E,Gral Jose De San Martin 826,Musimundo,VILLAGUAY,Electronica Megatone S.A,2011,79
+492.7262,492.73 kilómetros,1,-33.6778,-59.6685,SAN PEDRO,9-1-631,Supermercado,AR-B,Balcarce Entre Ituzaingo Y M. Porta 0,Vea,SAN PEDRO,Jumbo Retail Argentina S.A.,9,631
+492.7643,492.76 kilómetros,1,-33.6823125,-59.6710721,San Pedro,2005-1-41,Autoservicio,AR-B,Mitre 1376,Naldo,San Pedro,Naldo Lombardi SA,2005,41
+492.8211,492.82 kilómetros,1,-33.6787416,-59.6679614,260 - SAN PEDRO (Bs. As.),15-1-260,Autoservicio,AR-B,Av Belgrano 949,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,260
+492.841,492.84 kilómetros,1,-33.6894953,-59.6749841,5180 - SAN PEDRO (Bs. As.),15-1-5180,Autoservicio,AR-B,Av Mitre 2552,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5180
+492.9541,492.95 kilómetros,1,-33.68006,-59.667205,BSAS-SAN PEDRO-MITRE-MU,2011-1-34,Autoservicio,AR-B,Avda Gral Bartolome Mitre 1033,Musimundo,SAN PEDRO,Electronica Megatone S.A,2011,34
+494.2857,494.29 kilómetros,1,-35.0014750,-61.0359240,Gral Viamonte,2005-1-15,Autoservicio,AR-B,Mitre 637,Naldo,General Viamonte ,Naldo Lombardi SA,2005,15
+494.4127,494.41 kilómetros,1,-35.00172,-61.03402,231 - LOS TOLDOS,15-1-231,Autoservicio,AR-B,Cl Avellaneda Esq España 205,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,231
+496.7946,496.79 kilómetros,1,-33.13578,-59.314408,1502 - GUALEGUAY,15-1-1502,Autoservicio,AR-E,Cl San Antonio Esquina Dr J.H.Pagola None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1502
+496.9136,496.91 kilómetros,1,-33.139531,-59.314779,ENR - Gualeguay - 25 de Mayo ,2009-1-89,Supermercado,AR-E,25 De Mayo 513,CETROGAR,Gualeguay,CETROGAR  S.A,2009,89
+497.156,497.16 kilómetros,1,-33.149666,-59.316711,1043 - GUALEGUAY,15-1-1043,Autoservicio,AR-E,Cl Maipu 234,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1043
+497.4925,497.49 kilómetros,1,-33.148666,-59.312375,ERIO-GUALEGUAY-S ANTONIO-MU,2011-1-90,Autoservicio,AR-E,San Antonio 102,Musimundo,GUALEGUAY,Electronica Megatone S.A,2011,90
+497.5398,497.54 kilómetros,1,-27.056055,-65.402168,TUC - Famailla - Av S Martin  ,2009-1-70,Supermercado,AR-T,Av. San Martin 236,CETROGAR,Famailla,CETROGAR  S.A,2009,70
+498.2057,498.21 kilómetros,1,-34.6346734,-60.4642224,281 - CHACABUCO,15-1-281,Autoservicio,AR-B,Av Hipolito Yrigoyen 51,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,281
+498.2601,498.26 kilómetros,1,-34.64104,-60.471039,BSAS-CHACABUCO-PUEYRREDON-MU,2011-1-121,Autoservicio,AR-B,Pueyrredon 49,Musimundo,CHACABUCO,Electronica Megatone S.A,2011,121
+498.4744,498.47 kilómetros,1,-34.643660,-60.470900,CHACABUCO,2-1-055,Supermercado,AR-B,Sarmiento 36,La Anonima,Chacabuco,S.A. Importadora y Exportadora de la Patagonia,2,055
+498.508,498.51 kilómetros,1,-34.6438980,-60.4706700,Chacabuco,2005-1-8,Autoservicio,AR-B,Sarmiento 42,Naldo,Chacabuco,Naldo Lombardi SA,2005,8
+499.1641,499.16 kilómetros,1,-35.912270,-64.285850,CASTEX 2,2-1-187,Supermercado,AR-L,Av. Independencia 2575,La Anonima,Eduardo Castex,S.A. Importadora y Exportadora de la Patagonia,2,187
+500.6456,500.65 kilómetros,1,-27.64778,-67.02548,CATA-BELEN-SM-MU,2011-1-204,Autoservicio,AR-K,San Martin 110,Musimundo,BELEN,Electronica Megatone S.A,2011,204
+501.7581,501.76 kilómetros,1,-29.150048,-59.666029,SNF - Reconquista - Obligado ,2009-1-13,Supermercado,AR-S,Obligado 866,CETROGAR,Reconquista,CETROGAR  S.A,2009,13
+503.0083,503.01 kilómetros,1,-29.14352,-59.65553,ACA RECONQUISTA,19-1-00907,Autoservicio,AR-S,Boulevard H. Yrigoyen Y P.Diez 0,FULL,RECONQUISTA,Operadora de Estaciones de Servicios S.A.,19,00907
+503.6064,503.61 kilómetros,1,-29.14804,-59.645261,SAFE-RECONQUISTA-OBLIG-MU,2011-1-6,Autoservicio,AR-S,Gral Manuel Obligado 1040,Musimundo,RECONQUISTA,Electronica Megatone S.A,2011,6
+504.0457,504.05 kilómetros,1,-29.119643,-59.659584,SAFE-AVELLANEDA-C 14-MU,2011-1-272,Supermercado,AR-S,Calle 14 661,Musimundo,AVELLANEDA,Electronica Megatone S.A,2011,272
+506.285,506.28 kilómetros,1,-32.59127,-69.34853,ACA USPALLATA,19-1-02697,Autoservicio,AR-M,Ruta Nacional 7 Km 1146 (Asc) 0,FULL,USPALLATA,Operadora de Estaciones de Servicios S.A.,19,02697
+512.192,512.19 kilómetros,1,-34.1670624,-59.7919301,MUCOOP CAP.SARMIENTO,35-1-1,Autoservicio,AR-B,España Y B.Mitre 500,MUCOOP CAP.SARMIENTO,Capitán Sarmiento,Asociación Mutual Socios y Adherentes de la Cooperativa Agrícola de Capitán Sarmiento,35,1
+512.297,512.30 kilómetros,1,-34.173214,-59.795796,222 - CAPITAN SARMIENTO,15-1-222,Autoservicio,AR-B,Cl Rivadavia 536,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,222
+513.039,513.04 kilómetros,1,-33.8128461,-59.5085998,5482 - BARADERO,15-1-5482,Autoservicio,AR-B,Manuel Belgrano 1617 None,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5482
+513.2386,513.24 kilómetros,1,-34.9666,-67.7000,Vea 50.,9-1-803,Supermercado,AR-M,Avenida Libertador San Martin Norte 229,Vea,GENERAL ALVEAR,Jumbo Retail Argentina S.A.,9,803
+513.2659,513.27 kilómetros,1,-33.80822,-59.502591,BSAS-BARADERO-ANCHORENA-MU,2011-1-46,Autoservicio,AR-B,Dr Tomas Manuel De Anchorena 1071,Musimundo,BARADERO,Electronica Megatone S.A,2011,46
+513.5863,513.59 kilómetros,1,-34.9768466,-67.6913833,General Alvear,2005-1-54,Supermercado,AR-M,Avenida Libertador Norte 121,Naldo,General Alvear,Naldo Lombardi SA,2005,54
+513.6762,513.68 kilómetros,1,-34.97795,-67.691331,MDZA-GENERAL ALVEAR-ALVEAR-MU,2011-1-89,Autoservicio,AR-M,Avda Alvear Oeste 161,Musimundo,GENERAL ALVEAR,Electronica Megatone S.A,2011,89
+514.2593,514.26 kilómetros,2,-26.866111,-65.221107,Tucumán,11-2-1082,Supermercado,AR-T,Avenida Jujuy Y Avenida Democracia None,Changomas,SAN MIGUEL DE TUCUMAN,Wal Mart Argentina S.R.L.,11,1082
+514.6411,514.64 kilómetros,1,-33.57808,-69.016092,MDZA-TUNUYAN-SM-MU,2011-1-81,Autoservicio,AR-M,Ruta Nac Gral Jose De San Mart 1137,Musimundo,TUNUYAN,Electronica Megatone S.A,2011,81
+514.793,514.79 kilómetros,1,-33.5766865,-69.0187405,Tunuyan,2005-1-68,Autoservicio,AR-M,San Martin 1280,Naldo,Tunuyan,Naldo Lombardi SA,2005,68
+515.3572,515.36 kilómetros,1,-33.3636,-69.1436,SM 545 Tupungato Mza.,9-1-545,Supermercado,AR-M,Liniers Santiago De 235,Vea,TUPUNGATO,Jumbo Retail Argentina S.A.,9,545
+515.4178,515.42 kilómetros,2,-33.364039,-69.144079,Mendoza Tupungato,10-2-286,Supermercado,AR-M,Avenida Belgrano 1170,Market,Tupungato,INC S.A.,10,286
+515.7775,515.78 kilómetros,1,-26.852726,-65.224345,Comodin 26,6-1-26,Supermercado,AR-T,Avda. Alem Esq. Lavaissé 1796,Supermercados Comodin,San Miguel de Tucumán,Alberdi S.A.,6,26
+515.8377,515.84 kilómetros,1,-26.841087,-65.159688,TUC - Banda Rio Sali - Av G M de Jesus Diaz ,2009-1-68,Supermercado,AR-T,Avenida Gregorio Jesus Diaz 217,CETROGAR,Banda de Rio Sali,CETROGAR  S.A,2009,68
+516.3736,516.37 kilómetros,2,-26.837785,-65.169380,Rio Sali,11-2-1033,Supermercado,AR-T,Guatemala Y Av. San Martin None,Changomas,BANDA DEL RIO SALI,Wal Mart Argentina S.R.L.,11,1033
+516.6722,516.67 kilómetros,1,-30.95529,-58.789266,ERIO-FEDERAL-ANTELO-MU,2011-1-181,Autoservicio,AR-E,Cnel Antelo 1275,Musimundo,FEDERAL,Electronica Megatone S.A,2011,181
+516.8926,516.89 kilómetros,1,-30.945779,-58.788319,549 - FEDERAL,15-1-549,Autoservicio,AR-E,Hipolitoirigoyen 1140 None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,549
+517.1539,517.15 kilómetros,1,-26.8398,-65.2228,Roca.,9-1-134,Supermercado,AR-T,Avenida Roca Pres Gral Julio Argentino 759,Vea,SAN MIGUEL DE TUCUMAN,Jumbo Retail Argentina S.A.,9,134
+517.1818,517.18 kilómetros,1,-26.8373,-65.2100,Terminal.,9-1-71,Supermercado,AR-T,Av. Brigado Teran 200 L.S. 1 0,Vea,SAN MIGUEL DE TUCUMAN,Jumbo Retail Argentina S.A.,9,71
+517.2841,517.28 kilómetros,1,-26.83612,-65.20862,TUCUMAN,19-1-02446,Autoservicio,AR-T,B. Araoz Y W.Pose 0,FULL,S.M. DE TUCUMAN,Operadora de Estaciones de Servicios S.A.,19,02446
+517.4209,517.42 kilómetros,1,-30.956411,-58.781227,1506 - FEDERAL,15-1-1506,Autoservicio,AR-E,Av Coronel Antelo 660,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1506
+517.6267,517.63 kilómetros,1,-26.837754,-65.23577,TUCU-SAN MIGUEL-NESTOR K-MU,2011-1-231,Autoservicio,AR-T,Avda Nestor Kirchner 2310,Musimundo,SAN MIGUEL DE TUCUMAN,Electronica Megatone S.A,2011,231
+517.7954,517.80 kilómetros,2,-26.830278,-65.202010,Tucumán II,10-2-177,Supermercado,AR-T,San Martín 344,Market,San Miguel de Tucumán,INC S.A.,10,177
+517.8465,517.85 kilómetros,2,-26.830652,-65.206887,Tucumán I,10-2-176,Supermercado,AR-T,24 De Septiembre 653,Market,San Miguel de Tucumán,INC S.A.,10,176
+517.9045,517.90 kilómetros,1,-26.83,-65.2062,BAZAR AVENIDA SA - Tucuman 2,2008-1-430,Tradicional,AR-T,Idelfonzo Munecas 48,MEGATONE,San Miguel De Tucuman,BAZAR AVENIDA S.A.,2008,430
+517.947,517.95 kilómetros,1,-26.8346,-65.2346,Colón y Roca,9-1-727,Supermercado,AR-T,Colón Y Roca 650,Vea,SAN MIGUEL DE TUCUMAN,Jumbo Retail Argentina S.A.,9,727
+518.0191,518.02 kilómetros,1,-26.8328,-65.2282,Tucumán VI.,9-1-660,Supermercado,AR-T,Avenida Alem Leandro Niceforo 240,Vea,SAN MIGUEL DE TUCUMAN,Jumbo Retail Argentina S.A.,9,660
+518.0572,518.06 kilómetros,1,-26.8306,-65.2177,Tucumán V.,9-1-659,Supermercado,AR-T,Cordoba Provincia De 649,Vea,SAN MIGUEL DE TUCUMAN,Jumbo Retail Argentina S.A.,9,659
+518.0713,518.07 kilómetros,2,-26.828409,-65.205862,DIGGIT TUCUMAN,2003-2-7900,Tradicional,AR-T,Muñecas 150,DIGGIT,SAN MIGUEL DE TUCUMAN,GMRA S.A.,2003,7900
+518.135,518.14 kilómetros,1,-26.8229,-65.1770,Gobernador del Campo,9-1-958,Supermercado,AR-T,Avenida Del Campo Gdor 1150,Vea,SAN MIGUEL DE TUCUMAN,Jumbo Retail Argentina S.A.,9,958
+518.1823,518.18 kilómetros,1,-26.834832,-65.247965,Comodin 25,6-1-25,Hipermercado,AR-T,Avda. Gral. Rocal 3030,Supermercados Comodin,San Miguel de Tucumán,Alberdi S.A.,6,25
+518.194,518.19 kilómetros,1,-26.8276,-65.2077,BAZAR AVENIDA SA - Tucuman 1,2008-1-418,Tradicional,AR-T,Mendoza 746,MEGATONE,San Miguel De Tucuman,BAZAR AVENIDA S.A.,2008,418
+518.2596,518.26 kilómetros,1,-26.826312,-65.203737,TUCU-SAN MIGUEL-25MAY-MU,2011-1-253,Autoservicio,AR-T,25 De Mayo De 1810 346,Musimundo,SAN MIGUEL DE TUCUMAN,Electronica Megatone S.A,2011,253
+518.2611,518.26 kilómetros,1,-26.826240,-65.203401,TUC - Tucuman - 25 de Mayo,2009-1-58,Supermercado,AR-T,25 De Mayo 355,CETROGAR,San Miguel,CETROGAR  S.A,2009,58
+518.5951,518.60 kilómetros,1,-26.8255,-65.2168,Sarmiento.,9-1-125,Supermercado,AR-T,Av. Sarmiento Domiengo Faustino 750,Vea,SAN MIGUEL DE TUCUMAN,Jumbo Retail Argentina S.A.,9,125
+518.6548,518.65 kilómetros,1,-26.82759,-65.23178,MATE DE LUNA II,19-1-02291,Autoservicio,AR-T,Av.Mate De Luna Y Colon 0,FULL,TUCUMAN,Operadora de Estaciones de Servicios S.A.,19,02291
+518.7869,518.79 kilómetros,1,-26.82734,-65.23720,MATE DE LUNA I,19-1-02362,Autoservicio,AR-T,Av.Mate De Luna Y Colon 0,FULL,TUCUMAN,Operadora de Estaciones de Servicios S.A.,19,02362
+519.0467,519.05 kilómetros,1,-26.817319,-65.193457,Comodin 24,6-1-24,Hipermercado,AR-T,Avda. Juan B. Justo 1149,Supermercados Comodin,San Miguel de Tucumán,Alberdi S.A.,6,24
+519.2774,519.28 kilómetros,1,-26.8234,-65.2404,Mate de Luna,9-1-73,Supermercado,AR-T,Avenida Mate De Luna Fernando 2852,Vea,SAN MIGUEL DE TUCUMAN,Jumbo Retail Argentina S.A.,9,73
+519.5512,519.55 kilómetros,1,-26.816501,-65.215582,TUCU-SAN MIGUEL-MITRE-MU,2011-1-239,Autoservicio,AR-T,Avda Bartolome Mitre 876,Musimundo,SAN MIGUEL DE TUCUMAN,Electronica Megatone S.A,2011,239
+519.6428,519.64 kilómetros,1,-26.814605,-65.209515,Tucumán III,10-1-46,Hipermercado,AR-T,Av. Catamarca 1116,Hipermercado Carrefour,San Miguel de Tucumán,INC S.A.,10,46
+519.8435,519.84 kilómetros,3,-26.8220,-65.2615,Jumbo Tucuman,9-3-5227,Hipermercado,AR-T,Cariola Fermin 42,Jumbo,YERBA BUENA,Jumbo Retail Argentina S.A.,9,5227
+519.9394,519.94 kilómetros,1,-26.822079,-65.266761,EASY TUCUMAN,3001-1-127,Hipermercado,AR-T,Fermin Cariola 42,EASY,Escuela Congresales Tucuman,EASY S.A.,3001,127
+519.9792,519.98 kilómetros,1,-26.81762,-65.24417,TUCUMAN BULNES,19-1-03334,Autoservicio,AR-T,Bulnes Y Belgrano 0,FULL,Tucuman,Operadora de Estaciones de Servicios S.A.,19,03334
+520.732,520.73 kilómetros,1,-26.8105456,-65.2433294,Comodin 27,6-1-27,Hipermercado,AR-T,Avda. Belgrano 3300,Supermercados Comodin,San Miguel de Tucuman,Alberdi S.A.,6,27
+520.8148,520.81 kilómetros,1,-33.0367417,-58.9981313,564 - LARROQUE,15-1-564,Autoservicio,AR-E,Av Gral. Urquiza 256 None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,564
+520.9456,520.95 kilómetros,1,-26.8094,-65.2479,America y Belgrano Tucuman,9-1-72,Supermercado,AR-T,Av. De Las Américas Esq. Belgrano 0,Vea,SAN MIGUEL DE TUCUMAN,Jumbo Retail Argentina S.A.,9,72
+520.9957,521.00 kilómetros,1,-26.81517,-65.28205,YERBA BUENA,19-1-02499,Autoservicio,AR-T,Av.Aconquija 1784 0,FULL,Tucuman,Operadora de Estaciones de Servicios S.A.,19,02499
+521.0341,521.03 kilómetros,1,-26.8149,-65.2825,Yerba Buena.,9-1-70,Supermercado,AR-T,Av. Aconquija Y L.L. De La Vega 0,Vea,YERBA BUENA,Jumbo Retail Argentina S.A.,9,70
+521.4497,521.45 kilómetros,2,-26.812900,-65.292314,Yerba Buena,10-2-601,Supermercado,AR-T,Av. Aconquija 1591,Market,Yerba Buena,INC S.A.,10,601
+521.6966,521.70 kilómetros,5,-26.804676,-65.260010,Tucumán,11-5-1020,Hipermercado,AR-T,Av Camino Del Peru 950,Walmart SuperCenter,SAN MIGUEL DE TUCUMAN,Wal Mart Argentina S.R.L.,11,1020
+522.1497,522.15 kilómetros,2,-26.794185,-65.224521,Tucuman II,11-2-1106,Hipermercado,AR-T,Avenida Ejército Del Norte 2324,Changomas,SAN MIGUEL DE TUCUMAN,Wal Mart Argentina S.R.L.,11,1106
+522.6121,522.61 kilómetros,1,-26.7896,-65.2226,Ejercito del Norte,9-1-551,Supermercado,AR-T,Av. Francisco De Aguirre Y Av. Ejército Del Norte 0,Vea,SAN MIGUEL DE TUCUMAN,Jumbo Retail Argentina S.A.,9,551
+523.0326,523.03 kilómetros,1,-35.9707542,-62.7318736,1525 - TRENQUE LAUQUEN,15-1-1525,Autoservicio,AR-B,Cl Mitre 56,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,1525
+523.1938,523.19 kilómetros,1,-35.9731750,-62.7360006,Trenque Lauquen,2005-1-25,Supermercado,AR-B,Villegas 202,Naldo,Trenque Lauquen,Naldo Lombardi SA,2005,25
+523.6496,523.65 kilómetros,1,-35.978690,-62.741700,TRENQUE LAUQUEN 3,2-1-203,Supermercado,AR-B,Simini 836,La Anonima,Trenque Lauquen,S.A. Importadora y Exportadora de la Patagonia,2,203
+524.0465,524.05 kilómetros,1,-35.98267013753607,-62.74294638634274,Trenque Lauquen,13-1-104,Supermercado,AR-B,Av. Regimiento 3 De Caballería 853,Cooperativa Obrera Limitada de Consumo y Vivienda,Trenque Lauquen,Cooperativa Obrera Limitada de Consumo y Vivienda,13,104
+524.0556,524.06 kilómetros,1,-34.3806686,-59.8223267,313 - CARMEN DE ARECO,15-1-313,Autoservicio,AR-B,Av Mitre Y Dowling 557,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,313
+524.1185,524.12 kilómetros,1,-35.980110,-62.728320,TRENQUE LAUQUEN - SAIEP,2-1-103,Supermercado,AR-B,Av. Garcia Salinas 1100,La Anonima,Trenque Lauquen,S.A. Importadora y Exportadora de la Patagonia,2,103
+525.7704,525.77 kilómetros,1,-34.6205,-68.3171,SM 584 San Rafael III Mza.,9-1-584,Supermercado,AR-M,Av. Mitre Y Patricias Mendocinas 0,Vea,SAN RAFAEL,Jumbo Retail Argentina S.A.,9,584
+526.2583,526.26 kilómetros,1,-34.61642,-68.328504,MDZA-SAN RAFAEL-MITRE-MU,2011-1-67,Supermercado,AR-M,Dr Bernardo De Irigoyen 9,Musimundo,SAN RAFAEL,Electronica Megatone S.A,2011,67
+526.311,526.31 kilómetros,1,-34.6155845944175,-68.33015149444094,SAN RAFAEL,24-1-358,Autoservicio,AR-M,Hipólito Irigoyen 50,SIMPLICITY,SAN RAFAEL,Farmacity S.A.,24,358
+526.4747,526.47 kilómetros,1,-34.6166376,-68.3314027,San Rafael,2005-1-57,Supermercado,AR-M,Mitre 70,Naldo,San Rafael,Naldo Lombardi SA,2005,57
+526.5659,526.57 kilómetros,1,-36.00135,-62.721,ACA OPELAUQUEN,19-1-01981,Autoservicio,AR-B,Ruta Nacional 5 Km 446 (Desc.) 0,FULL,TRENQUE LAUQUEN,Operadora de Estaciones de Servicios S.A.,19,01981
+526.6503,526.65 kilómetros,1,-34.61425,-68.33647,ACA SAN RAFAEL,19-1-02784,Autoservicio,AR-B,San Martin 958 0,FULL,MENDOZA,Operadora de Estaciones de Servicios S.A.,19,02784
+526.8093,526.81 kilómetros,1,-34.6128,-68.3403,Vea 25.,9-1-191,Supermercado,AR-M,Av. Yrigoyen Presindente 875,Vea,SAN RAFAEL,Jumbo Retail Argentina S.A.,9,191
+527.2015,527.20 kilómetros,1,-36.01397,-62.75145,ACA TRENQUE LAUQUEN,19-1-01979,Autoservicio,AR-B,Ruta Nacional 5 Km 451 (Asc.) 0,FULL,TRENQUE LAUQUEN,Operadora de Estaciones de Servicios S.A.,19,01979
+527.2024,527.20 kilómetros,1,-34.6242,-68.3339,Vea 53.,9-1-868,Supermercado,AR-M,Avenida El Libertador 755,Vea,SAN RAFAEL,Jumbo Retail Argentina S.A.,9,868
+527.375,527.38 kilómetros,1,-34.62559,-68.33492,SARMIENTO,19-1-02782,Autoservicio,AR-M,Avda. El Libertador 898 0,FULL,San Rafael,Operadora de Estaciones de Servicios S.A.,19,02782
+528.5954,528.60 kilómetros,1,-33.7763,-69.0620,SAN CARLOS,9-1-548,Supermercado,AR-M,Bosco San Juan 462,Vea,EUGENIO BUSTOS,Jumbo Retail Argentina S.A.,9,548
+529.7096,529.71 kilómetros,1,-26.730685,-65.258454,TUCU-TAFI VIEJO-ALEM-MU,2011-1-240,Autoservicio,AR-T,Avda Leandro Niceforo Alem 390,Musimundo,TAFI VIEJO,Electronica Megatone S.A,2011,240
+529.8522,529.85 kilómetros,1,-26.7299,-65.2614,Tafi Viejo,9-1-728,Supermercado,AR-T,Av. Leandro Alem 618,Vea,TAFI VIEJO,Jumbo Retail Argentina S.A.,9,728
+531.8799,531.88 kilómetros,1,-35.8135516,-61.9016875,Pehuajo,2005-1-20,Autoservicio,AR-B,Leandro Niceforo Alem 761,Naldo,Pehuajo,Naldo Lombardi SA,2005,20
+531.9147,531.91 kilómetros,1,-30.3861619,-58.7488256,553 - SAN JOSE DE FELICIANO,15-1-553,Autoservicio,AR-E,Rp2 149 ( O Calle San Martin) None,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,553
+531.9912,531.99 kilómetros,1,-35.81250043643693,-61.89579033854898,Pehuajó I,13-1-106,Supermercado,AR-B,Alsina 253,Cooperativa Obrera Limitada de Consumo y Vivienda,Pehuajó,Cooperativa Obrera Limitada de Consumo y Vivienda,13,106
+532.014,532.01 kilómetros,1,-35.81316,-61.896981,310 - PEHUAJO,15-1-310,Autoservicio,AR-B,Cl Mitre Esq. Jose Hernandez 316,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,310
+532.0182,532.02 kilómetros,1,-35.813650,-61.898210,PEHUAJO,2-1-125,Supermercado,AR-B,Rivarola 310,La Anonima,Pehuajo,S.A. Importadora y Exportadora de la Patagonia,2,125
+532.6981,532.70 kilómetros,1,-35.8202899586798,-61.89801299580722,Pehuajó II,13-1-109,Autoservicio,AR-B,Av. San Martín 105,Cooperativa Obrera Limitada de Consumo y Vivienda,Pehuajó,Cooperativa Obrera Limitada de Consumo y Vivienda,13,109
+534.6706,534.67 kilómetros,2,-29.154703,-59.272544,Goya,11-2-1074,Hipermercado,AR-W,Av.Pte.D.F.Sarmiento Y J.M.Soto None,Changomas,GOYA,Wal Mart Argentina S.R.L.,11,1074
+535.2514,535.25 kilómetros,1,-35.624580,-61.366430,CARLOS CASARES,2-1-118,Supermercado,AR-B,Vicente Lopez 40,La Anonima,Carlos Casares,S.A. Importadora y Exportadora de la Patagonia,2,118
+535.3542,535.35 kilómetros,1,-35.625004,-61.365063,230 - CARLOS CASARES,15-1-230,Autoservicio,AR-B,Cl San Martin Y Rivadavia None,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,230
+535.4186,535.42 kilómetros,1,-35.6260526,-61.3658627,Carlos Casares,2005-1-22,Autoservicio,AR-B,9 De Julio 25,Naldo,Carlos Casares,Naldo Lombardi SA,2005,22
+535.9184,535.92 kilómetros,1,-29.144334,-59.264473,CRR - Goya - Colon ,2009-1-28,Supermercado,AR-W,Colon 965,CETROGAR,Goya,CETROGAR  S.A,2009,28
+535.9427,535.94 kilómetros,1,-35.1171800,-60.4862140,Bragado,2005-1-4,Autoservicio,AR-B,Pellegrini 1563,Naldo,Bragado,Naldo Lombardi SA,2005,4
+535.9668,535.97 kilómetros,1,-35.1172245,-60.4858734,213 - BRAGADO,15-1-213,Autoservicio,AR-B,Cl Pelegrini E Isidro Suarez 1601,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,213
+536.0387,536.04 kilómetros,1,-29.1452083,-59.2625031,1069 - GOYA,15-1-1069,Autoservicio,AR-W,España 347,Supermercados DIA,CORRIENTES,DIA Argentina S.A,15,1069
+536.1176,536.12 kilómetros,1,-29.143359,-59.262752,Goya,2000-1-72,Tienda Fisica,AR-W,Jose Gomez 867,MUSIMUNDO,GOYA,CARSA SA,2000,72
+536.3052,536.31 kilómetros,1,-29.1370,-59.2646,Goya II,9-1-688,Supermercado,AR-W,Belgrano Gral Manuel 799,Vea,GOYA,Jumbo Retail Argentina S.A.,9,688
+536.5098,536.51 kilómetros,1,-35.119830,-60.480450,BRAGADO,2-1-058,Supermercado,AR-B,Rivadavia 2070,La Anonima,Bragado,S.A. Importadora y Exportadora de la Patagonia,2,058
+537.0098,537.01 kilómetros,1,-29.129740,-59.260950,GOYA,2-1-206,Supermercado,AR-W,Av. Primeros Consejales 256,La Anonima,Goya,S.A. Importadora y Exportadora de la Patagonia,2,206
+537.061,537.06 kilómetros,1,-35.124191,-60.477344,5122 - BRAGADO,15-1-5122,Autoservicio,AR-B,Elizondo 2880,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5122
+538.0089,538.01 kilómetros,1,-29.13705,-59.24454,CORRIENTES GOYA,19-1-01220,Autoservicio,AR-W,Av.Mazzantti Y Mendoza 0,FULL,Goya,Operadora de Estaciones de Servicios S.A.,19,01220
+541.4165,541.42 kilómetros,1,-35.030491,-60.280476,5414 - ALBERTI,15-1-5414,Autoservicio,AR-B,Vacarrezza 216,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5414
+542.0095,542.01 kilómetros,1,-35.451289482419185,-60.89747634512605,9 de Julio,13-1-111,Supermercado,AR-B,Av. Mitre 2537,Cooperativa Obrera Limitada de Consumo y Vivienda,9 de Julio,Cooperativa Obrera Limitada de Consumo y Vivienda,13,111
+542.0417,542.04 kilómetros,1,-34.245831,-59.464059,675 - SAN ANTONIO DE ARECO,15-1-675,Autoservicio,AR-B,Av Smith 325,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,675
+542.184,542.18 kilómetros,1,-27.577480,-60.711960,Villa Angela,2000-1-7,Tienda Fisica,AR-H,25 De Mayo 190,MUSIMUNDO,VILLA ANGELA,CARSA SA,2000,7
+542.1862,542.19 kilómetros,1,-35.4478840,-60.8882270,9 de Julio,2005-1-16,Autoservicio,AR-B,La Rioja 1248,Naldo,9 De Julio,Naldo Lombardi SA,2005,16
+542.3957,542.40 kilómetros,1,-27.573713,-60.713947,CHA - Villa Angela - 25 de Mayo ,2009-1-10,Supermercado,AR-H,25 De Mayo 535,CETROGAR,Villa Angela,CETROGAR  S.A,2009,10
+542.8832,542.88 kilómetros,1,-35.456900,-60.890510,9 DE JULIO,2-1-260,Supermercado,AR-B,Agustin Alvarez 261,La Anonima,9 de Julio,S.A. Importadora y Exportadora de la Patagonia,2,260
+547.2752,547.28 kilómetros,1,-34.8940464,-60.0228134,248 - CHIVILCOY,15-1-248,Autoservicio,AR-B,Av Ceballos 172,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,248
+547.6223,547.62 kilómetros,1,-34.8949760,-60.0186460,Chivilcoy,2005-1-7,Supermercado,AR-B,Pellegrini 88,Naldo,Chivilcoy,Naldo Lombardi SA,2005,7
+547.6234,547.62 kilómetros,1,-34.8940,-60.0175,Chivilcoy,9-1-8,Supermercado,AR-B,Gral. Rodriguez Y Pellegrini 0,Vea,CHIVILCOY,Jumbo Retail Argentina S.A.,9,8
+547.7306,547.73 kilómetros,1,-34.895400,-60.017500,CHIVILCOY,2-1-057,Supermercado,AR-B,Av. Federico Soarez 52,La Anonima,Chivilcoy,S.A. Importadora y Exportadora de la Patagonia,2,057
+548.3181,548.32 kilómetros,1,-27.217363,-61.191368,Charata 2,2000-1-645,Tienda Fisica,AR-H,Guemes 45,MUSIMUNDO,CHARATA,CARSA SA,2000,645
+548.3267,548.33 kilómetros,1,-27.217539,-61.190878,CHA - Charata - Guemes ,2009-1-12,Supermercado,AR-H,Guemes 83,CETROGAR,Charata,CETROGAR  S.A,2009,12
+553.7412,553.74 kilómetros,1,-32.16117,-58.403221,ERIO-VILLA ELISA-URQ-MU,2011-1-171,Autoservicio,AR-E,Gral Justo Jose De Urquiza 1668,Musimundo,VILLA ELISA,Electronica Megatone S.A,2011,171
+553.7551,553.76 kilómetros,1,-32.160073,-58.402913,327 - VILLA ELISA,15-1-327,Autoservicio,AR-E,Cl J.J. Castelli 1444,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,327
+555.0235,555.02 kilómetros,1,-34.659433,-59.659433,5327 - SAN PEDRO (Bs. As.),15-1-5327,Autoservicio,AR-B,Bv Tres De Febrero 1058,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5327
+555.8796,555.88 kilómetros,1,-34.442858,-59.446896,258 - SAN ANDRES DE GILES,15-1-258,Autoservicio,AR-B,Av Rivadavia 569,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,258
+558.2857,558.29 kilómetros,1,-28.986113,-59.10309,582 - CRUCECITAS SANTA LUCIA,15-1-582,Autoservicio,AR-W,Av San Martin 690 None,Supermercados DIA,CORRIENTES,DIA Argentina S.A,15,582
+560.868,560.87 kilómetros,1,-33.006972,-58.537419,6063 - GUALEGUAYCHU,15-1-6063,Autoservicio,AR-E,Bv Antonio Daneri 65,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,6063
+561.7773,561.78 kilómetros,1,-32.991736,-58.521853,Gualeguaychú,10-1-240,Hipermercado,AR-E,Av. Primera Junta 0,Hipermercado Carrefour,Gualeguaychu,INC S.A.,10,240
+561.8379,561.84 kilómetros,1,-33.0106,-58.5279,Gualeguaychú,9-1-686,Supermercado,AR-E,San Martín Entre Parana Y Gualeguay 0,Vea,GUALEGUAYCHU,Jumbo Retail Argentina S.A.,9,686
+561.946,561.95 kilómetros,1,-34.0638,-59.0725,Lima,23-1-6293,Autoservicio,AR-B,Ruta Nacional N9 None,Axion Energy,Zarate,Pan American Energy LLC Argentina,23,6293
+561.9514,561.95 kilómetros,1,-33.016616,-58.528798,6064 - GUALEGUAYCHU,15-1-6064,Autoservicio,AR-E,Av Artigas 1657,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,6064
+562.5341,562.53 kilómetros,1,-33.0088104,-58.5194928,Gualeguaychu,2005-1-48,Autoservicio,AR-E,Urquiza 920,Naldo,Gualeguaychu,Naldo Lombardi SA,2005,48
+562.7239,562.72 kilómetros,1,-33.009658,-58.517679,ENR - Gualeguaychu - 25 de Mayo,2009-1-88,Supermercado,AR-E,25 De Mayo Esq. Espana None,CETROGAR,Gualeguaychu,CETROGAR  S.A,2009,88
+562.7272,562.73 kilómetros,1,-33.009625,-58.517631,ERIO-GUALEGUAYCHU-25MAY-ME,2011-1-305,Supermercado,AR-E,25 De Mayo 813,Musimundo,GUALEGUAYCHU,Electronica Megatone S.A,2011,305
+562.9136,562.91 kilómetros,1,-33.00939,-58.515468,ERIO-GUALEGUAYCHU-25YESP-MU,2011-1-53,Autoservicio,AR-E,25 De Mayo 813,Musimundo,GUALEGUAYCHU,Electronica Megatone S.A,2011,53
+563.1307,563.13 kilómetros,2,-33.009377,-58.513042,ERGualeguay [25 de Mayo 882],24-2-99,Supermercado,AR-E,25 De Mayo 882,FARMACITY,Gualeguaychu,Farmacity S.A.,24,99
+563.1576,563.16 kilómetros,1,-33.0071111,-58.5119321,305 - GUALEGUAYCHU,15-1-305,Autoservicio,AR-E,Cl Rivadavia 590,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,305
+566.1598,566.16 kilómetros,1,-27.088930,-61.081220,Las Breñas,2000-1-8,Tienda Fisica,AR-H,Av.Jones 802,MUSIMUNDO,LAS BREÑAS,CARSA SA,2000,8
+566.1682,566.17 kilómetros,1,-27.086856,-61.084852,CHA - Las Breñas - Av San Martin ,2009-1-53,Supermercado,AR-H,Av. San Martin 958,CETROGAR,Las Brenas,CETROGAR  S.A,2009,53
+567.571,567.57 kilómetros,1,-34.0967,-59.0251,Zarate,23-1-6213,Autoservicio,AR-B,19 De Marzo Esq. Ituzaingo None,Axion Energy,Zarate,Pan American Energy LLC Argentina,23,6213
+567.6983,567.70 kilómetros,1,-34.0980349,-59.02444,216 - ZARATE,15-1-216,Autoservicio,AR-B,Cl Almte Brown 247,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,216
+567.8378,567.84 kilómetros,1,-34.098331,-59.022901,ZARATE [Justa Lima de Atucha 358/36,24-1-275,Supermercado,AR-B,Justa Lima De Atucha 358,SIMPLICITY,ZARATE,Farmacity S.A.,24,275
+567.9505,567.95 kilómetros,1,-34.13488,-59.04728,BR  ZARATE,19-1-02904,Autoservicio,AR-B,Ruta Nacional 193 Km 3 (Desc) 0,FULL,ZARATE,Operadora de Estaciones de Servicios S.A.,19,02904
+568.0256,568.03 kilómetros,1,-28.48857,-59.351178,SAFE-VILLA OCAMPO-SM-MU,2011-1-224,Autoservicio,AR-S,Avda Gral Jose De San Martin 1230,Musimundo,VILLA OCAMPO,Electronica Megatone S.A,2011,224
+568.1252,568.13 kilómetros,1,-34.1024069,-59.0221538,ZARATE,2004-1-20,Hipermercado,AR-B,Justa Lima De Atucha 887,Coppel S.A.,Zárate,COPPEL S.A.,2004,20
+568.2768,568.28 kilómetros,1,-34.1020616,-59.0200139,Zarate,2002-1-147,Tradicional,AR-B,Gral Justa Lima De Atucha 835,Fravega,Zarate,FRAVEGA S A C I E I,2002,147
+568.2945,568.29 kilómetros,1,-34.10214,-59.019847,BSAS-ZARATE-ATUCHA-MU,2011-1-56,Autoservicio,AR-B,Justa Lima De Atucha 852,Musimundo,ZARATE,Electronica Megatone S.A,2011,56
+568.8802,568.88 kilómetros,1,-34.113272,-59.020315,Zárate,10-1-210,Hipermercado,AR-B,Av. Lavalle 1879,Hipermercado Carrefour,Zárate,INC S.A.,10,210
+569.2129,569.21 kilómetros,1,-34.1257,-59.0249,Zarate Brazo Largo,23-1-6292,Autoservicio,AR-B,Ruta Nac 193 Y Ruta Nac 12 None,Axion Energy,Zarate,Pan American Energy LLC Argentina,23,6292
+569.8264,569.83 kilómetros,1,-34.12133,-59.01412,ZARATE,19-1-00421,Autoservicio,AR-B,Ruta N 12 Km (Ascendente)Y 193 0,FULL,ZARATE,Operadora de Estaciones de Servicios S.A.,19,00421
+570.023,570.02 kilómetros,1,-34.643590,-59.435860,MERCEDES,2-1-201,Supermercado,AR-B,Calle 40 937,La Anonima,Mercedes,S.A. Importadora y Exportadora de la Patagonia,2,201
+570.911,570.91 kilómetros,1,-34.6533,-59.4327,Mercedes.,9-1-165,Supermercado,AR-B,Avenida 29 399,Vea,MERCEDES,Jumbo Retail Argentina S.A.,9,165
+570.9793,570.98 kilómetros,1,-34.653951,-59.432368,212 - MERCEDES,15-1-212,Autoservicio,AR-B,Cl Alem Entre Pelegrini Y Mitre 676,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,212
+571.4813,571.48 kilómetros,1,-32.2147611,-58.2220274,326 - VILLA SAN JOSE,15-1-326,Autoservicio,AR-E,Cl Sarmiento 1665,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,326
+571.7279,571.73 kilómetros,1,-32.20985,-58.218655,ERIO-SAN JOSE-IRIG-MU,2011-1-199,Autoservicio,AR-E,Pres Hipolito Yrigoyen 1900,Musimundo,SAN JOSE,Electronica Megatone S.A,2011,199
+572.9425,572.94 kilómetros,1,-34.293406,-59.100974,5084 - CAPILLA DEL SEÑOR,15-1-5084,Autoservicio,AR-B,Cl Mateo S. Casco 424,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,5084
+573.4155,573.42 kilómetros,1,-32.48745,-58.25142,ACA GALARZA,19-1-02903,Autoservicio,AR-E,Galarza 1773 0,FULL,CONCEPCION,Operadora de Estaciones de Servicios S.A.,19,02903
+574.7751,574.78 kilómetros,1,-32.48546,-58.236322,ERIO-CONC URUGUAY-9JUL-MU,2011-1-54,Supermercado,AR-E,9 De Julio 949,Musimundo,CONCEPCION DEL URUGUAY,Electronica Megatone S.A,2011,54
+574.9149,574.91 kilómetros,1,-32.4834304,-58.2343787,Concepcion Del Uruguay,2005-1-47,Supermercado,AR-E,25 De Mayo 80,Naldo,Concepcion Del Uruguay,Naldo Lombardi SA,2005,47
+575.0478,575.05 kilómetros,1,-32.4838219,-58.2330284,1055 - CONCEPC DEL URUGUAY,15-1-1055,Autoservicio,AR-E,Sarmiento 1552,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1055
+575.514,575.51 kilómetros,1,-36.600090,-64.302130,SANTA ROSA V,2-1-202,Supermercado,AR-L,Pilcomayo 1551,La Anonima,Santa Rosa,S.A. Importadora y Exportadora de la Patagonia,2,202
+575.8076,575.81 kilómetros,2,-36.603195,-64.270973,La Pampa,11-2-1023,Hipermercado,AR-L,Circunvalacion Ing Marzo 1550,Changomas,SANTA ROSA,Wal Mart Argentina S.R.L.,11,1023
+575.9441,575.94 kilómetros,2,-36.604293,-64.280899,Santa Rosa II,10-2-184,Supermercado,AR-L,Spinetto 1230,Market,Santa Rosa,INC S.A.,10,184
+576.0284,576.03 kilómetros,2,-34.162738,-58.965513,Campana Centro,10-2-208,Supermercado,AR-B,Av. Mitre 1085,Market,Campana,INC S.A.,10,208
+576.0943,576.09 kilómetros,1,-34.1629,-58.9648,Dialogos,23-1-6201,Autoservicio,AR-B,Av. Mitre 852,Axion Energy,Campana,Pan American Energy LLC Argentina,23,6201
+576.3111,576.31 kilómetros,1,-34.15783,-58.958493,BSAS-CAMPANA-ROCCA-MU,2011-1-57,Autoservicio,AR-B,Avda Ing Agustin Rocca 60,Musimundo,CAMPANA,Electronica Megatone S.A,2011,57
+576.4487,576.45 kilómetros,1,-34.160831,-58.958885,Campana [Av. Ingeniero A. Rocca 222,24-1-261,Supermercado,AR-B,Av. Ingeniero A. Rocca 222,SIMPLICITY,CAMPANA,Farmacity S.A.,24,261
+576.4554,576.46 kilómetros,1,-34.1612890,-58.9591250,Campana,2002-1-175,Tradicional,AR-B,Av. Ing Agustin Rocca 249,Fravega,Campana,FRAVEGA S A C I E I,2002,175
+576.5581,576.56 kilómetros,1,-34.1659506,-58.9611328,CAMPANA ,12-1-117,Supermercado,AR-B,Juan M. Estrada 878,COTO CICSA,Campana,Coto Centro Integral de Comercialización S.A.,12,117
+576.7059,576.71 kilómetros,1,-34.1641136,-58.9579757,233 - CAMPANA,15-1-233,Autoservicio,AR-B,Cl Belgrano 390,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,233
+576.9826,576.98 kilómetros,1,-36.613500,-64.291230,LUCERO SANTA ROSA,2-1-143,Supermercado,AR-L,La Rioja 357,La Anonima,Santa Rosa,S.A. Importadora y Exportadora de la Patagonia,2,143
+577.1718,577.17 kilómetros,1,-34.1793,-58.9629,Rivadavia,23-1-6209,Autoservicio,AR-B,Av. Rivadavia 975,Axion Energy,Campana,Pan American Energy LLC Argentina,23,6209
+577.4515,577.45 kilómetros,1,-36.61772,-64.291614,LAPA-SANTA ROSA-SARMIENTO-MU,2011-1-55,Autoservicio,AR-L,Sarmiento 40 None,Musimundo,SANTA ROSA,Electronica Megatone S.A,2011,55
+577.4883,577.49 kilómetros,1,-36.6180570,-64.2912260,Santa Rosa I,2005-1-17,Supermercado,AR-L,Avellaneda 122,Naldo,Santa Rosa,Naldo Lombardi SA,2005,17
+577.5195,577.52 kilómetros,1,-36.618338,-64.291249,Santa Rosa,10-1-147,Hipermercado,AR-L,Avellaneda 151,Hipermercado Carrefour,Santa Rosa,INC S.A.,10,147
+577.6071,577.61 kilómetros,2,-36.619127,-64.291278,LaPampa [Avellaneda Nº 236],24-2-281,Supermercado,AR-L,Avellaneda 236,FARMACITY,SANTA ROSA,Farmacity S.A.,24,281
+577.6149,577.61 kilómetros,1,-36.619164,-64.293416,LAPA-SANTA ROSA-AVELLA-ME,2011-1-308,Supermercado,AR-L,Avellaneda 215,Musimundo,SANTA ROSA,Electronica Megatone S.A,2011,308
+577.6537,577.65 kilómetros,1,-36.6195677,-64.2899152,La Pampa,2002-1-152,Tradicional,AR-L,Cnel. Gil 267,Fravega,Santa Rosa,FRAVEGA S A C I E I,2002,152
+577.6808,577.68 kilómetros,1,-36.6197579,-64.2934564,Santa Rosa II,2005-1-30,Supermercado,AR-L,Avellaneda 290,Naldo,Santa Rosa,Naldo Lombardi SA,2005,30
+577.8086,577.81 kilómetros,2,-36.621000,-64.287458,La Pampa2 [Av. San Martin 31],24-2-303,Supermercado,AR-L,Av. San Martin 317,FARMACITY,SANTA ROSA,Farmacity S.A.,24,303
+577.8344,577.83 kilómetros,1,-36.62120,-64.28967,ACA SANTA ROSA,19-1-01930,Autoservicio,AR-L,Av San Martin Y Cnel Giil 0,FULL,SANTA ROSA,Operadora de Estaciones de Servicios S.A.,19,01930
+577.9231,577.92 kilómetros,1,-36.622040,-64.286940,LISANDRO DE LA TORRE,2-1-122,Supermercado,AR-L,Lisandro De La Torre 333,La Anonima,Santa Rosa,S.A. Importadora y Exportadora de la Patagonia,2,122
+578.4519,578.45 kilómetros,1,-36.62680105632192,-64.28720752117282,Santa Rosa II,13-1-76,Supermercado,AR-L,Av. Roque Saenz Peña 899,Cooperativa Obrera Limitada de Consumo y Vivienda,Santa Rosa,Cooperativa Obrera Limitada de Consumo y Vivienda,13,76
+578.4547,578.45 kilómetros,1,-32.2190005,-58.1482778,1508 - COLON,15-1-1508,Autoservicio,AR-E,Av Pte.Peron 378,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1508
+578.5314,578.53 kilómetros,1,-36.627600,-64.281490,LURO,2-1-105,Supermercado,AR-L,Martin Fierro 1296,La Anonima,Santa Rosa,S.A. Importadora y Exportadora de la Patagonia,2,105
+578.6663,578.67 kilómetros,1,-32.2251728,-58.1469513,Colón,2005-1-56,Autoservicio,AR-E,Primera Junta 30,Naldo,Colon,Naldo Lombardi SA,2005,56
+578.8077,578.81 kilómetros,1,-32.2252713,-58.1454569,319 - COLON,15-1-319,Autoservicio,AR-E,Cl San Martin 680,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,319
+578.9709,578.97 kilómetros,1,-34.186540,-58.945418,Campana II,10-1-232,Hipermercado,AR-B,Colectora Norte 1647,Hipermercado Carrefour,Campana,INC S.A.,10,232
+579.0776,579.08 kilómetros,1,-36.632300,-64.296280,SANTA ROSA,2-1-090,Hipermercado,AR-L,Ameghino 1250,La Anonima,Santa Rosa,S.A. Importadora y Exportadora de la Patagonia,2,090
+579.1483,579.15 kilómetros,1,-36.6328,-64.3046,Santa Rosa,13-1-67,Supermercado,AR-L,Trenel 1735,Cooperativa Obrera Limitada de Consumo y Vivienda,Santa Rosa,Cooperativa Obrera Limitada de Consumo y Vivienda,13,67
+579.2576,579.26 kilómetros,1,-34.1913,-58.9452,La Carmela,23-1-6203,Autoservicio,AR-B,Ruta Nacional 9 Y Coronel Larrabure None,Axion Energy,Campana,Pan American Energy LLC Argentina,23,6203
+579.3841,579.38 kilómetros,1,-32.22274,-58.138926,ERIO-COLON-URQ-MU,2011-1-123,Autoservicio,AR-E,Gral Justo Jose De Urquiza 350,Musimundo,COLON,Electronica Megatone S.A,2011,123
+579.3923,579.39 kilómetros,2,-36.634811,-64.315208,Santa Rosa II,11-2-1100,Hipermercado,AR-L,Avenida Pte. Juan D. Perón Esq. Utracán None,Changomas,SANTA ROSA,Wal Mart Argentina S.R.L.,11,1100
+580.23,580.23 kilómetros,1,-34.19848,-58.93808,AUSOL KM 72 ASCENDENTE,19-1-03253,Autoservicio,AR-B,Col Norte Ruta Nac 9 Km 72 Asc 0,FULL,CAMPANA,Operadora de Estaciones de Servicios S.A.,19,03253
+580.2314,580.23 kilómetros,1,-34.19905,-58.93847,AUSOL KM.72 DESCENDENTE,19-1-03254,Autoservicio,AR-B,Ruta Nac.9 Colec.Sur Km.72 0,FULL,Campana,Operadora de Estaciones de Servicios S.A.,19,03254
+580.8239,580.82 kilómetros,3,-35.427702,-60.170437,SuperCLC.25deMayo,36-3-32,Autoservicio,AR-B,Calle 9 1338,SuperCLC,25 de Mayo,SUPERCLC S.A.,36,32
+580.9737,580.97 kilómetros,1,-35.4296470,-60.1706530,25 de Mayo,2005-1-13,Supermercado,AR-B,Calle 9 1134,Naldo,25 De Mayo,Naldo Lombardi SA,2005,13
+581.5294,581.53 kilómetros,1,-35.433295,-60.166461,226 - 25 DE MAYO,15-1-226,Autoservicio,AR-B,Cl Calle 9 Y Calle 32 1300,Supermercados DIA,BUENOS AIRES,DIA Argentina S.A,15,226
+585.8781,585.88 kilómetros,1,-31.384085,-58.024641,ERIO-CONCORDIA-TAVELLA-MU,2011-1-275,Supermercado,AR-E,Avenida San Lorenzo 341,Musimundo,CONCORDIA,Electronica Megatone S.A,2011,275
+585.8873,585.89 kilómetros,1,-31.3902116,-58.0243081,1045 - CONCORDIA,15-1-1045,Autoservicio,AR-E,Av Alvear 954,Supermercados DIA,ENTRE RIOS,DIA Argentina S.A,15,1045
+586.2049,586.20 kilómetros,1,-31.3844,-58.0212,Concordia,9-1-854,Supermercado,AR-E,Avenida San Lorenzo Oeste 233,Vea,CONCORDIA,Jumbo Retail Argentina S.A.,9,854
+586.2467,586.25 kilómetros,1,-31.394556,-58.020376,ERIO-CONCORDIA-ENTRE RIOS-ME,2011-1-290,Supermercado,AR-E,Entre Rios 771,Musimundo,CONCORDIA,Electronica Megatone S.A,2011,290
+586.3703,586.37 kilómetros,1,-31.3941351,-58.0190949,Concordia,2005-1-46,Supermercado,AR-E,Urquiza 815,Naldo,Concordia,Naldo Lombardi SA,2005,46
+586.4076,586.41 kilómetros,2,-31.396866,-58.018603,Concordia II,10-2-138,Supermercado,AR-E,Entre Ríos 635,Market,Concordia,INC S.A.,10,138
+586.4585,586.46 kilómetros,1,-31.39599,-58.018101,ERIO-CONCORDIA-ALBERDI PEAT-MU,2011-1-58,Supermercado,AR-E,Alberdi 17,Musimundo,CONCORDIA,Electronica Megatone S.A,2011,58

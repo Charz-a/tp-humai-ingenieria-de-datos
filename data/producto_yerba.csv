@@ -1,0 +1,79 @@
+cantSucursalesDisponible,id,marca,nombre,precioMax,precioMin,precio_bulto_max_con_iva,precio_bulto_max_sin_iva,precio_bulto_min_con_iva,precio_bulto_min_sin_iva,precio_unitario_bulto_max_con_iva,precio_unitario_bulto_max_sin_iva,precio_unitario_bulto_min_con_iva,precio_unitario_bulto_min_sin_iva,presentacion
+25,7790387013627,TARAGUI,Yerba Mate con Palo 4Flex Taragui 500 Gr,500.5,329.7,,,,,,,,,500.0 gr
+21,7790387015607,LA MERCED,Yerba Mate Campo Origen Controlado La Merced 500 Gr,750.5,588.0,,,,,,,,,500.0 gr
+16,7790387013504,TARAGUÍ,Yerba 4 Flex Sin Palo Taragui 500 Gr,452.0,422.0,,,,,,,,,500.0 gr
+16,7793704000911,PLAYADITO,Yerba Mate Suave con Palo Playadito 500 Gr,398.75,398.7,,,,,,,,,500.0 gr
+15,7790387014624,SUAVE UNION,Yerba Mate con Palo 4Flex Suave Union 500 Gr,362.0,338.32,,,,,,,,,500.0 gr
+14,7790387800050,TARAGUÍ,Yerba Mate en Saquitos Taragui 25 Un,126.5,118.24,,,,,,,,,25.0 un
+13,7790387013498,TARAGUÍ,Yerba Mate Sin Palo 4Flex Taragui 1 Kg,826.7,772.59,,,,,,,,,1.0 kg
+13,7790387015317,MAÑANITA,Yerba 4 Flex Mañanita 1 Kg,905.0,770.0,,,,,,,,,1.0 kg
+12,7792710006412,AMANDA,Yerba Mate con Palo Edicion 1950 Amanda 1 Kg,613.3,573.21,,,,,,,,,1.0 kg
+12,7790387015324,MAÑANITA,Yerba Mate Bajo Polvo 4 Flex Mañanita 500 Gr,452.0,452.0,,,,,,,,,500.0 gr
+12,7790070509109,MOLINOS RIO DE LA PLATA SA,Yerba Nobleza Gaucha Suave X 500 Gr - Nv,285.8,267.06,,,,,,,,,None none
+12,7791720026335,CARREFOUR,Yerba Mate con Palo Sin TACC Carrefour 250 Gr,162.0,162.0,,,,,,,,,250.0 gr
+12,7790070509123,MOLINOS RIO DE LA PLATA SA,Yerba Chamigo X 500 Gr Sin Tacc - Nvo,240.36,240.36,,,,,,,,,None none
+12,7791720024775,CARREFOUR,Yerba Mate con Palo sin TACC Carrefour 1 Kg,509.0,509.0,,,,,,,,,1.0 kg
+12,7791720024768,CARREFOUR,Yerba Mate con Palo sin TACC Carrefour 500 Gr,249.0,249.0,,,,,,,,,500.0 gr
+12,7792710006429,AMANDA,Yerba Mate con Palo Edicion 1950 Amanda 500 Gr,304.22,304.22,,,,,,,,,500.0 gr
+12,7790387014143,UNIÓN,Yerba Bajo Contenido en Polvo Suave Union 500 Gr,439.0,439.0,,,,,,,,,500.0 gr
+11,7790387014617,UNIÓN,Yerba Suave Union 1 Kg,718.46,718.46,,,,,,,,,1.0 kg
+10,7790802000164,ROMANCE,Yerba Mate Suave Romance 1 Kg,804.0,804.0,,,,,,,,,1.0 kg
+9,7790710334535,CBSÉ,Yerba Hierbas Serranas Cbse 500 Gr,454.0,454.0,,,,,,,,,500.0 gr
+9,7792710000182,AMANDA,Yerba Mate sin TACC Amanda 500 Gr,379.0,379.0,,,,,,,,,500.0 gr
+9,7790387013610,TARAGUI,Yerba Mate con Palo 4Flex Taragui 1 Kg,737.45,737.45,,,,,,,,,1.0 kg
+9,7792710000090,AMANDA,Yerba Mate Seleccion Especial Amanda 500 Gr,467.0,467.0,,,,,,,,,500.0 gr
+9,7790387014631,UNIÓN,Yerba Mate Suave 4 Flex Union 250 Gr,240.5,240.5,,,,,,,,,250.0 gr
+9,7792280005686,CACHAMAI,Yerba Mate Cachamai 500 Gr,473.0,473.0,,,,,,,,,500.0 gr
+9,7790070507389,CRUZ DE MALTA,Yerba Mate Hojas mas Grandes Cruz de Malta 500 Gr,472.0,472.0,,,,,,,,,500.0 gr
+9,7791720024799,CARREFOUR,Yerba Mate Selection sin TACC Caja Carrefour 500 Gr,469.0,469.0,,,,,,,,,500.0 gr
+9,7791720024782,CARREFOUR,Yerba Mate con Palo Sabor Menta sin TACC Carrefour 500 Gr,322.0,322.0,,,,,,,,,500.0 gr
+9,7790387800067,TARAGUÍ,Yerba Mate en Saquitos Taragui 50 Un,310.0,310.0,,,,,,,,,50.0 un
+9,7791720024751,CARREFOUR,Yerba Mate con Palo Sabor Naranja sin TACC Carrefour 500 Gr,322.0,322.0,,,,,,,,,500.0 gr
+9,7790710334641,CBSÉ,Yerba Silueta Naranja Dr Cormillot Cbse 500 Gr,454.0,454.0,,,,,,,,,500.0 gr
+8,7792280005709,CACHAMATE,Yerba Mate con Hierbas Compuesta Cachamate 1 Kg,559.0,559.0,,,,,,,,,1.0 kg
+8,7790387015638,LA MERCED,Yerba Mate La Merced 500 Gr,652.0,588.0,,,,,,,,,500.0 gr
+6,7790387013634,TARAGUÍ,Yerba Mate con Palo 4 Flex Taragui 250 Gr,240.5,240.5,,,,,,,,,250.0 gr
+5,7730241003661,CANARIAS,Yerba Mate Canarias 500 Gr,1023.5,1023.5,,,,,,,,,500.0 gr
+4,7792280000285,CACHAMATE,Yerba Mate Saborizada con Naranja Suave Cachamate 500 Gr,358.0,354.0,,,,,,,,,500.0 gr
+4,7793704000928,PLAYADITO,Yerba Suave Playadito 1 Kg,789.72,789.72,,,,,,,,,1.0 kg
+4,7790070509017,MOLINOS RIO DE LA PLATA SA,Yerba Chamigo X 1 Kg Sin Tacc - Nvo,533.5,533.5,,,,,,,,,None none
+4,7790070509116,MOLINOS RIO DE LA PLATA SA,Yerba Nobleza Gaucha Suave X 1 Kg Sin Ta,542.9,542.9,,,,,,,,,None none
+3,7790411001378,ROSAMONTE,Yerba Mate Elaborada con Palo Rosamonte Premium 500 Gr,415.0,415.0,,,,,,,,,500.0 gr
+3,7790411000500,ROSAMONTE,Yerba Mate Molida Suave Rosamonte 500 Gr,305.3,305.3,,,,,,,,,500.0 gr
+3,7790411000012,ROSAMONTE,Yerba Mate Seleccion Especial Rosamonte 1 Kg,712.0,712.0,,,,,,,,,1.0 kg
+3,7790070509055,Sin marca,Yerba Cruz Malta Eco 1pqx1k,883.0,883.0,,,,,,,,,None none
+2,7790387015621,LA MERCED,Yerba Mate Barbacua La Merced 500 Gr,588.0,588.0,,,,,,,,,500.0 gr
+2,7790387015645,LA MERCED,Yerba Mate Campo Sur La Merced 500 Gr,588.0,588.0,,,,,,,,,500.0 gr
+2,7790387015614,LA MERCED,Yerba Mate De Monte con Palo La Merced 500 Gr,588.0,588.0,,,,,,,,,500.0 gr
+1,7790387120349,YTACUA,Yerba Mate con Palo Ytacua 1 Kg,582.4,582.4,,,,,,,,,1.0 kg
+1,7790070508522,SALUS,Yerba Mate Cp Natural Salus 500 Gr,453.0,453.0,,,,,,,,,500.0 gr
+25,7790387013627,TARAGUI,Yerba Mate con Palo 4Flex Taragui 500 Gr,500.5,329.7,,,,,,,,,500.0 gr
+21,7790387015607,LA MERCED,Yerba Mate Campo Origen Controlado La Merced 500 Gr,750.5,588.0,,,,,,,,,500.0 gr
+16,7790387013504,TARAGUÍ,Yerba 4 Flex Sin Palo Taragui 500 Gr,452.0,422.0,,,,,,,,,500.0 gr
+16,7793704000911,PLAYADITO,Yerba Mate Suave con Palo Playadito 500 Gr,398.75,398.7,,,,,,,,,500.0 gr
+15,7790387014624,SUAVE UNION,Yerba Mate con Palo 4Flex Suave Union 500 Gr,362.0,338.32,,,,,,,,,500.0 gr
+14,7790387800050,TARAGUÍ,Yerba Mate en Saquitos Taragui 25 Un,126.5,118.24,,,,,,,,,25.0 un
+13,7790387013498,TARAGUÍ,Yerba Mate Sin Palo 4Flex Taragui 1 Kg,826.7,772.59,,,,,,,,,1.0 kg
+13,7790387015317,MAÑANITA,Yerba 4 Flex Mañanita 1 Kg,905.0,770.0,,,,,,,,,1.0 kg
+12,7792710006412,AMANDA,Yerba Mate con Palo Edicion 1950 Amanda 1 Kg,613.3,573.21,,,,,,,,,1.0 kg
+12,7790387015324,MAÑANITA,Yerba Mate Bajo Polvo 4 Flex Mañanita 500 Gr,452.0,452.0,,,,,,,,,500.0 gr
+12,7790070509109,MOLINOS RIO DE LA PLATA SA,Yerba Nobleza Gaucha Suave X 500 Gr - Nv,285.8,267.06,,,,,,,,,None none
+12,7791720026335,CARREFOUR,Yerba Mate con Palo Sin TACC Carrefour 250 Gr,162.0,162.0,,,,,,,,,250.0 gr
+12,7790070509123,MOLINOS RIO DE LA PLATA SA,Yerba Chamigo X 500 Gr Sin Tacc - Nvo,240.36,240.36,,,,,,,,,None none
+12,7791720024775,CARREFOUR,Yerba Mate con Palo sin TACC Carrefour 1 Kg,509.0,509.0,,,,,,,,,1.0 kg
+12,7791720024768,CARREFOUR,Yerba Mate con Palo sin TACC Carrefour 500 Gr,249.0,249.0,,,,,,,,,500.0 gr
+12,7792710006429,AMANDA,Yerba Mate con Palo Edicion 1950 Amanda 500 Gr,304.22,304.22,,,,,,,,,500.0 gr
+12,7790387014143,UNIÓN,Yerba Bajo Contenido en Polvo Suave Union 500 Gr,439.0,439.0,,,,,,,,,500.0 gr
+11,7790387014617,UNIÓN,Yerba Suave Union 1 Kg,718.46,718.46,,,,,,,,,1.0 kg
+10,7790802000164,ROMANCE,Yerba Mate Suave Romance 1 Kg,804.0,804.0,,,,,,,,,1.0 kg
+9,7790710334535,CBSÉ,Yerba Hierbas Serranas Cbse 500 Gr,454.0,454.0,,,,,,,,,500.0 gr
+9,7792710000182,AMANDA,Yerba Mate sin TACC Amanda 500 Gr,379.0,379.0,,,,,,,,,500.0 gr
+9,7790387013610,TARAGUI,Yerba Mate con Palo 4Flex Taragui 1 Kg,737.45,737.45,,,,,,,,,1.0 kg
+9,7792710000090,AMANDA,Yerba Mate Seleccion Especial Amanda 500 Gr,467.0,467.0,,,,,,,,,500.0 gr
+9,7790387014631,UNIÓN,Yerba Mate Suave 4 Flex Union 250 Gr,240.5,240.5,,,,,,,,,250.0 gr
+9,7792280005686,CACHAMAI,Yerba Mate Cachamai 500 Gr,473.0,473.0,,,,,,,,,500.0 gr
+9,7790070507389,CRUZ DE MALTA,Yerba Mate Hojas mas Grandes Cruz de Malta 500 Gr,472.0,472.0,,,,,,,,,500.0 gr
+9,7791720024799,CARREFOUR,Yerba Mate Selection sin TACC Caja Carrefour 500 Gr,469.0,469.0,,,,,,,,,500.0 gr
+9,7791720024782,CARREFOUR,Yerba Mate con Palo Sabor Menta sin TACC Carrefour 500 Gr,322.0,322.0,,,,,,,,,500.0 gr
+9,7790387800067,TARAGUÍ,Yerba Mate en Saquitos Taragui 50 Un,310.0,310.0,,,,,,,,,50.0 un
+9,7791720024751,CARREFOUR,Yerba Mate con Palo Sabor Naranja sin TACC Carrefour 500 Gr,322.0,322.0,,,,,,,,,500.0 gr
