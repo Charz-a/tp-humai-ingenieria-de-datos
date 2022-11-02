@@ -10,7 +10,9 @@ import unicodedata
 import pandas as pd
 import logging
 
-#import csv_test as manage_csv
+# TODO
+# from data.config.constants import PATH_CIUDADES, PATH_YERBA
+
 
 headers = {'Content-Type':'application/json',
         'sec-ch-ua':'".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"',
@@ -29,7 +31,13 @@ def strip_accents(texto):
 
 
 def get_productos():
+    """
+    Devuelve un csv con data de producto yerba a partir de los id de las sucursales 
+    """
     logging.info(f"## START {get_productos.__name__}")
+
+    # TODO: mejorar esto
+    # pasarle los id de sucursales
     url = 'https://d3e6htiiul5ek9.cloudfront.net/prod/productos?string=yerba&array_sucursales=2003-1-7670,10-3-785,24-2-157,24-2-59,10-3-768,9-2-444,10-3-720,24-2-83,10-3-648,24-2-314,10-3-770,24-2-74,10-3-765,24-2-300,24-2-266,9-1-440,10-3-769,9-2-435,24-2-79,2011-1-143,10-3-610,2009-1-78,10-3-772,10-3-793,2011-1-126,24-2-131,10-3-607,9-2-441,24-2-58,10-3-790&offset=0&limit=50&sort=-cant_sucursales_disponible' \
 
     response = get_json_page(url, headers)
@@ -60,20 +68,32 @@ def get_productos():
 def get_producto_data(product_id):
     logging.info(f"## START {get_producto_data.__name__} - {product_id}")
 
-    url = f"https://d3e6htiiul5ek9.cloudfront.net/prod/producto?limit=30&id_producto={product_id}&array_sucursales=2003-1-7670,10-3-785,24-2-157,24-2-59,10-3-768,9-2-444,10-3-720,24-2-83,10-3-648,24-2-314,10-3-770,24-2-74,10-3-765,24-2-300,24-2-266,9-1-440,10-3-769,9-2-435,24-2-79,2011-1-143,10-3-610,2009-1-78,10-3-772,10-3-793,2011-1-126,24-2-131,10-3-607,9-2-441,24-2-58,10-3-790"
+    # sucursales_id = get_id_sucursales()
+    # ciudad_sucursales_id = ','.join(sucursales_id['buenos_aires'])
+    # print(ciudad_sucursales_id)
+
+    # url = f"https://d3e6htiiul5ek9.cloudfront.net/prod/producto?limit=30&id_producto={product_id}&array_sucursales=2003-1-7670,10-3-785,24-2-157,24-2-59,10-3-768,9-2-444,10-3-720,24-2-83,10-3-648,24-2-314,10-3-770,24-2-74,10-3-765,24-2-300,24-2-266,9-1-440,10-3-769,9-2-435,24-2-79,2011-1-143,10-3-610,2009-1-78,10-3-772,10-3-793,2011-1-126,24-2-131,10-3-607,9-2-441,24-2-58,10-3-790"
+    url = f"https://d3e6htiiul5ek9.cloudfront.net/prod/producto?limit=30&id_producto={product_id}&array_sucursales=2003-1-7670,10-3-785"
+
+    # url = f"https://d3e6htiiul5ek9.cloudfront.net/prod/producto?limit=30&id_producto={product_id}&array_sucursales={ciudad_sucursales_id}"
 
     response = get_json_page(url, headers)
 
     try:
         if response['producto'] and response['total'] != 0:
-            df_producto = pd.DataFrame.from_records(response["producto"], index=[0])
+            # df_producto = pd.DataFrame.from_records(response["producto"], index=[0])
 
-            if not os.path.isfile('../data/producto_yerba.csv'):
-                df_producto.to_csv(f"../data/producto_yerba.csv", index=False)
-            else: 
-                df_producto.to_csv(f"../data/producto_yerba.csv", mode='a', index=False, header=False)
+            # if not os.path.isfile('../data/producto_yerba.csv'):
+            #     df_producto.to_csv(f"../data/producto_yerba.csv", index=False)
+            # else: 
+            #     df_producto.to_csv(f"../data/producto_yerba.csv", mode='a', index=False, header=False)
             
             ########
+
+            print(response)
+            # print(response['sucursales'])
+
+            aaa
             # cant_suc_con_producto = response['sucursalesConProducto']
 
             # total_pagina = response['totalPagina']
@@ -102,8 +122,7 @@ def get_producto_data(product_id):
 
 
 
-def get_sucursales_para_ciudad(ciudad,latitud,longitud):
-
+def get_sucursales_para_ciudad(ciudad, latitud, longitud):
     """A partir de la url base, la latitud y la longitud, devuelve todas las sucursales de una ciudad"""
     logging.info(f"## START {get_sucursales_para_ciudad.__name__}")
     logging.info(f"=> Obteniendo sucursales de {ciudad}")
@@ -115,8 +134,8 @@ def get_sucursales_para_ciudad(ciudad,latitud,longitud):
 
     if response["sucursales"]:
 
-        cant_pages = response["total"] // 30 #cantidad de paginas que dan resultados en la api
-        #cant_pages = response["totalPagina"]
+        # cant_pages = response["total"] // 30 #cantidad de paginas que dan resultados en la api
+        cant_pages = response["totalPagina"]
         
         df_sucursales = pd.DataFrame.from_records(response["sucursales"])
 
@@ -132,26 +151,62 @@ def get_sucursales_para_ciudad(ciudad,latitud,longitud):
 
 
     ciudad = ciudad.lower().replace(" ", "_")
-    df_sucursales.to_csv(f"../data/{ciudad}_sucursales.csv", index=False)
+    df_sucursales.to_csv(f"../data/sucursales/{ciudad}_sucursales.csv", index=False)
     logging.info(f"## END {get_sucursales_para_ciudad.__name__}")
 
     return df_sucursales
 
+def get_id_sucursales():
+
+    path_ciudades = '../data/ciudades.csv'
+    ciudades = []
+    with open(path_ciudades, 'r') as file:
+        csvreader = csv.reader(file)
+        for row in csvreader:
+            ciudades.append(row[0].lower().replace(" ","_"))
+
+    sucursales_ids = {} # {ciudad: [sucursales_id]}
+    for ciudad in ciudades:
+        path_sucursales = f"../data/sucursales/{ciudad}_sucursales.csv"
+        try:
+            with open(path_sucursales, 'r') as file:
+                csvreader = csv.reader(file)
+                next(csvreader) # para saltear el encabezado
+                for row in csvreader:
+                    # sucursales_ids.append(row[6])
+                    if ciudad not in sucursales_ids.keys():
+
+                        sucursales_ids[ciudad] = [row[6]]
+                    else:
+                        sucursales_ids[ciudad].append(row[6])
+
+
+        except:
+            logging.info(f"## No existe path {path_sucursales}")
+    
+    return sucursales_ids
+
 
 def leer_ciudades(path):
     """ Recibe el path de ciudades para leer el archivo y le pasa la ciudad, latitud y longitud a get_sucursales_para_ciudad"""
+    
+    df_ciudades = pd.read_csv(path, header=None)
+    
+    # TODO: que pasa si get_sucursales_para_ciudad falla?
+    # tener x cantidad de reintentos? notificar en logs?
+    for ind in df_ciudades.index:
+        # [0] ciudad - [1] latitud - [2] longitud
+        get_sucursales_para_ciudad(df_ciudades[0][ind], df_ciudades[1][ind], df_ciudades[2][ind])
 
-    with open(path, 'r') as file:
-        csvreader = csv.reader(file)
-        for row in csvreader:
-            get_sucursales_para_ciudad(row[0],row[1],row[2])
 
 def leer_producto_id(path):
-    with open(path, 'r') as file:
-        csvreader = csv.reader(file)
-        for row in csvreader:
-            get_producto_data(row[1])
-            
+    """
+    Recibe el path del producto yerba para obtener su id y pasarselo a get_producto_data
+    """
+    df_productos =  pd.read_csv(path, header=None)
+    for ind in df_productos.index:
+        get_producto_data(df_productos[1][ind])
+
 
 if __name__ == '__main__':
     
@@ -162,14 +217,19 @@ if __name__ == '__main__':
                         filename=f"../logs/{date.today()}_scraper.log",
                         filemode='a')
 
-    #TODO: tener un /constants
+    #TODO: tener un config/constants
     path_ciudades = '../data/ciudades.csv'
     path_yerba = '../data/yerba.csv'
 
     # testing
-    # leer_ciudades(path)
-    # con las ciudades obtengo la sucursal de cada ciudad y con el id de cada sucursal obtengo los prod
-    # print(get_productos()) 
-    # print(leer_producto_id(path_yerba))
-    #get_sucursales_para_ciudad("Buenos Aires",-34.61315,-58.37723)
 
+    # Con los datos de ciudades.csv obtengo las sucursales de esas 
+    # leer_ciudades(path_ciudades)
+    # get_sucursales_para_ciudad("Buenos Aires",-34.61315,-58.37723)
+    # get_sucursales_para_ciudad("La Plata",-34.92145,-57.95453)
+
+    # Con el id de cada sucursal obtengo los productos
+    # print(get_productos()) 
+    # print(leer_producto_id(path_yerba)) 
+
+    # print(get_id_sucursales())

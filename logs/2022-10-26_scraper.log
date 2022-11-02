@@ -14,3 +14,222 @@
 [2022-10-26 09:10:46 AM] INFO -- : => Pagina 110/122
 [2022-10-26 09:10:50 AM] INFO -- : => Pagina 120/122
 [2022-10-26 09:10:51 AM] INFO -- : ## END get_sucursales_para_ciudad
+[2022-10-26 11:22:12 PM] INFO -- : ## START get_producto_data - id
+[2022-10-26 11:22:12 PM] INFO -- : ## END get_producto_data - id
+[2022-10-26 11:22:12 PM] INFO -- : ## START get_producto_data - 7790387013627
+[2022-10-26 11:22:13 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:13 PM] INFO -- : ## END get_producto_data - 7790387013627
+[2022-10-26 11:22:13 PM] INFO -- : ## START get_producto_data - 7790387015607
+[2022-10-26 11:22:14 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:14 PM] INFO -- : ## END get_producto_data - 7790387015607
+[2022-10-26 11:22:14 PM] INFO -- : ## START get_producto_data - 7790387013504
+[2022-10-26 11:22:15 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:15 PM] INFO -- : ## END get_producto_data - 7790387013504
+[2022-10-26 11:22:15 PM] INFO -- : ## START get_producto_data - 7793704000911
+[2022-10-26 11:22:16 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:16 PM] INFO -- : ## END get_producto_data - 7793704000911
+[2022-10-26 11:22:16 PM] INFO -- : ## START get_producto_data - 7790387014624
+[2022-10-26 11:22:17 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:17 PM] INFO -- : ## END get_producto_data - 7790387014624
+[2022-10-26 11:22:17 PM] INFO -- : ## START get_producto_data - 7790387800050
+[2022-10-26 11:22:18 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:18 PM] INFO -- : ## END get_producto_data - 7790387800050
+[2022-10-26 11:22:18 PM] INFO -- : ## START get_producto_data - 7790387013498
+[2022-10-26 11:22:19 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:19 PM] INFO -- : ## END get_producto_data - 7790387013498
+[2022-10-26 11:22:19 PM] INFO -- : ## START get_producto_data - 7790387015317
+[2022-10-26 11:22:20 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:20 PM] INFO -- : ## END get_producto_data - 7790387015317
+[2022-10-26 11:22:20 PM] INFO -- : ## START get_producto_data - 7792710006412
+[2022-10-26 11:22:20 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:20 PM] INFO -- : ## END get_producto_data - 7792710006412
+[2022-10-26 11:22:20 PM] INFO -- : ## START get_producto_data - 7790387015324
+[2022-10-26 11:22:21 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:21 PM] INFO -- : ## END get_producto_data - 7790387015324
+[2022-10-26 11:22:21 PM] INFO -- : ## START get_producto_data - 7790070509109
+[2022-10-26 11:22:22 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:22 PM] INFO -- : ## END get_producto_data - 7790070509109
+[2022-10-26 11:22:22 PM] INFO -- : ## START get_producto_data - 7791720026335
+[2022-10-26 11:22:23 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:23 PM] INFO -- : ## END get_producto_data - 7791720026335
+[2022-10-26 11:22:23 PM] INFO -- : ## START get_producto_data - 7790070509123
+[2022-10-26 11:22:24 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:24 PM] INFO -- : ## END get_producto_data - 7790070509123
+[2022-10-26 11:22:24 PM] INFO -- : ## START get_producto_data - 7791720024775
+[2022-10-26 11:22:24 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:24 PM] INFO -- : ## END get_producto_data - 7791720024775
+[2022-10-26 11:22:24 PM] INFO -- : ## START get_producto_data - 7791720024768
+[2022-10-26 11:22:25 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:25 PM] INFO -- : ## END get_producto_data - 7791720024768
+[2022-10-26 11:22:25 PM] INFO -- : ## START get_producto_data - 7792710006429
+[2022-10-26 11:22:25 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:25 PM] INFO -- : ## END get_producto_data - 7792710006429
+[2022-10-26 11:22:25 PM] INFO -- : ## START get_producto_data - 7790387014143
+[2022-10-26 11:22:26 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:26 PM] INFO -- : ## END get_producto_data - 7790387014143
+[2022-10-26 11:22:26 PM] INFO -- : ## START get_producto_data - 7790387014617
+[2022-10-26 11:22:27 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:27 PM] INFO -- : ## END get_producto_data - 7790387014617
+[2022-10-26 11:22:27 PM] INFO -- : ## START get_producto_data - 7790802000164
+[2022-10-26 11:22:28 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:28 PM] INFO -- : ## END get_producto_data - 7790802000164
+[2022-10-26 11:22:28 PM] INFO -- : ## START get_producto_data - 7790710334535
+[2022-10-26 11:22:29 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:29 PM] INFO -- : ## END get_producto_data - 7790710334535
+[2022-10-26 11:22:29 PM] INFO -- : ## START get_producto_data - 7792710000182
+[2022-10-26 11:22:30 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:30 PM] INFO -- : ## END get_producto_data - 7792710000182
+[2022-10-26 11:22:30 PM] INFO -- : ## START get_producto_data - 7790387013610
+[2022-10-26 11:22:31 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:31 PM] INFO -- : ## END get_producto_data - 7790387013610
+[2022-10-26 11:22:31 PM] INFO -- : ## START get_producto_data - 7792710000090
+[2022-10-26 11:22:32 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:32 PM] INFO -- : ## END get_producto_data - 7792710000090
+[2022-10-26 11:22:32 PM] INFO -- : ## START get_producto_data - 7790387014631
+[2022-10-26 11:22:32 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:32 PM] INFO -- : ## END get_producto_data - 7790387014631
+[2022-10-26 11:22:32 PM] INFO -- : ## START get_producto_data - 7792280005686
+[2022-10-26 11:22:33 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:33 PM] INFO -- : ## END get_producto_data - 7792280005686
+[2022-10-26 11:22:33 PM] INFO -- : ## START get_producto_data - 7790070507389
+[2022-10-26 11:22:33 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:33 PM] INFO -- : ## END get_producto_data - 7790070507389
+[2022-10-26 11:22:33 PM] INFO -- : ## START get_producto_data - 7791720024799
+[2022-10-26 11:22:34 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:34 PM] INFO -- : ## END get_producto_data - 7791720024799
+[2022-10-26 11:22:34 PM] INFO -- : ## START get_producto_data - 7791720024782
+[2022-10-26 11:22:35 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:35 PM] INFO -- : ## END get_producto_data - 7791720024782
+[2022-10-26 11:22:35 PM] INFO -- : ## START get_producto_data - 7790387800067
+[2022-10-26 11:22:36 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:36 PM] INFO -- : ## END get_producto_data - 7790387800067
+[2022-10-26 11:22:36 PM] INFO -- : ## START get_producto_data - 7791720024751
+[2022-10-26 11:22:36 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:36 PM] INFO -- : ## END get_producto_data - 7791720024751
+[2022-10-26 11:22:36 PM] INFO -- : ## START get_producto_data - 7790710334641
+[2022-10-26 11:22:37 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:37 PM] INFO -- : ## END get_producto_data - 7790710334641
+[2022-10-26 11:22:37 PM] INFO -- : ## START get_producto_data - 7792280005709
+[2022-10-26 11:22:38 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:38 PM] INFO -- : ## END get_producto_data - 7792280005709
+[2022-10-26 11:22:38 PM] INFO -- : ## START get_producto_data - 7790387015638
+[2022-10-26 11:22:38 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:38 PM] INFO -- : ## END get_producto_data - 7790387015638
+[2022-10-26 11:22:38 PM] INFO -- : ## START get_producto_data - 7790387013634
+[2022-10-26 11:22:39 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:39 PM] INFO -- : ## END get_producto_data - 7790387013634
+[2022-10-26 11:22:39 PM] INFO -- : ## START get_producto_data - 7730241003661
+[2022-10-26 11:22:39 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:39 PM] INFO -- : ## END get_producto_data - 7730241003661
+[2022-10-26 11:22:39 PM] INFO -- : ## START get_producto_data - 7792280000285
+[2022-10-26 11:22:40 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:40 PM] INFO -- : ## END get_producto_data - 7792280000285
+[2022-10-26 11:22:40 PM] INFO -- : ## START get_producto_data - 7793704000928
+[2022-10-26 11:22:41 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:41 PM] INFO -- : ## END get_producto_data - 7793704000928
+[2022-10-26 11:22:41 PM] INFO -- : ## START get_producto_data - 7790070509017
+[2022-10-26 11:22:41 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:41 PM] INFO -- : ## END get_producto_data - 7790070509017
+[2022-10-26 11:22:41 PM] INFO -- : ## START get_producto_data - 7790070509116
+[2022-10-26 11:22:42 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:42 PM] INFO -- : ## END get_producto_data - 7790070509116
+[2022-10-26 11:22:42 PM] INFO -- : ## START get_producto_data - 7790411001378
+[2022-10-26 11:22:42 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:42 PM] INFO -- : ## END get_producto_data - 7790411001378
+[2022-10-26 11:22:42 PM] INFO -- : ## START get_producto_data - 7790411000500
+[2022-10-26 11:22:43 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:43 PM] INFO -- : ## END get_producto_data - 7790411000500
+[2022-10-26 11:22:43 PM] INFO -- : ## START get_producto_data - 7790411000012
+[2022-10-26 11:22:44 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:44 PM] INFO -- : ## END get_producto_data - 7790411000012
+[2022-10-26 11:22:44 PM] INFO -- : ## START get_producto_data - 7790070509055
+[2022-10-26 11:22:44 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:44 PM] INFO -- : ## END get_producto_data - 7790070509055
+[2022-10-26 11:22:44 PM] INFO -- : ## START get_producto_data - 7790387015621
+[2022-10-26 11:22:45 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:45 PM] INFO -- : ## END get_producto_data - 7790387015621
+[2022-10-26 11:22:45 PM] INFO -- : ## START get_producto_data - 7790387015645
+[2022-10-26 11:22:46 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:46 PM] INFO -- : ## END get_producto_data - 7790387015645
+[2022-10-26 11:22:46 PM] INFO -- : ## START get_producto_data - 7790387015614
+[2022-10-26 11:22:47 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:47 PM] INFO -- : ## END get_producto_data - 7790387015614
+[2022-10-26 11:22:47 PM] INFO -- : ## START get_producto_data - 7790387120349
+[2022-10-26 11:22:47 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:47 PM] INFO -- : ## END get_producto_data - 7790387120349
+[2022-10-26 11:22:47 PM] INFO -- : ## START get_producto_data - 7790070508522
+[2022-10-26 11:22:48 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:48 PM] INFO -- : ## END get_producto_data - 7790070508522
+[2022-10-26 11:22:48 PM] INFO -- : ## START get_producto_data - 7790387013627
+[2022-10-26 11:22:49 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:49 PM] INFO -- : ## END get_producto_data - 7790387013627
+[2022-10-26 11:22:49 PM] INFO -- : ## START get_producto_data - 7790387015607
+[2022-10-26 11:22:50 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:50 PM] INFO -- : ## END get_producto_data - 7790387015607
+[2022-10-26 11:22:50 PM] INFO -- : ## START get_producto_data - 7790387013504
+[2022-10-26 11:22:51 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:51 PM] INFO -- : ## END get_producto_data - 7790387013504
+[2022-10-26 11:22:51 PM] INFO -- : ## START get_producto_data - 7793704000911
+[2022-10-26 11:22:51 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:51 PM] INFO -- : ## END get_producto_data - 7793704000911
+[2022-10-26 11:22:51 PM] INFO -- : ## START get_producto_data - 7790387014624
+[2022-10-26 11:22:53 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:53 PM] INFO -- : ## END get_producto_data - 7790387014624
+[2022-10-26 11:22:53 PM] INFO -- : ## START get_producto_data - 7790387800050
+[2022-10-26 11:22:54 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:54 PM] INFO -- : ## END get_producto_data - 7790387800050
+[2022-10-26 11:22:54 PM] INFO -- : ## START get_producto_data - 7790387013498
+[2022-10-26 11:22:54 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:54 PM] INFO -- : ## END get_producto_data - 7790387013498
+[2022-10-26 11:22:54 PM] INFO -- : ## START get_producto_data - 7790387015317
+[2022-10-26 11:22:55 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:55 PM] INFO -- : ## END get_producto_data - 7790387015317
+[2022-10-26 11:22:55 PM] INFO -- : ## START get_producto_data - 7792710006412
+[2022-10-26 11:22:56 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:56 PM] INFO -- : ## END get_producto_data - 7792710006412
+[2022-10-26 11:22:56 PM] INFO -- : ## START get_producto_data - 7790387015324
+[2022-10-26 11:22:57 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:57 PM] INFO -- : ## END get_producto_data - 7790387015324
+[2022-10-26 11:22:57 PM] INFO -- : ## START get_producto_data - 7790070509109
+[2022-10-26 11:22:58 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:58 PM] INFO -- : ## END get_producto_data - 7790070509109
+[2022-10-26 11:22:58 PM] INFO -- : ## START get_producto_data - 7791720026335
+[2022-10-26 11:22:58 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:58 PM] INFO -- : ## END get_producto_data - 7791720026335
+[2022-10-26 11:22:58 PM] INFO -- : ## START get_producto_data - 7790070509123
+[2022-10-26 11:22:59 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:22:59 PM] INFO -- : ## END get_producto_data - 7790070509123
+[2022-10-26 11:22:59 PM] INFO -- : ## START get_producto_data - 7791720024775
+[2022-10-26 11:23:00 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:23:00 PM] INFO -- : ## END get_producto_data - 7791720024775
+[2022-10-26 11:23:00 PM] INFO -- : ## START get_producto_data - 7791720024768
+[2022-10-26 11:23:00 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:23:00 PM] INFO -- : ## END get_producto_data - 7791720024768
+[2022-10-26 11:23:00 PM] INFO -- : ## START get_producto_data - 7792710006429
+[2022-10-26 11:23:56 PM] INFO -- : ## START get_producto_data - id
+[2022-10-26 11:23:59 PM] INFO -- : ## END get_producto_data - id
+[2022-10-26 11:23:59 PM] INFO -- : ## START get_producto_data - 7790387013627
+[2022-10-26 11:24:01 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:24:01 PM] INFO -- : ## END get_producto_data - 7790387013627
+[2022-10-26 11:24:01 PM] INFO -- : ## START get_producto_data - 7790387015607
+[2022-10-26 11:24:02 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:24:02 PM] INFO -- : ## END get_producto_data - 7790387015607
+[2022-10-26 11:24:02 PM] INFO -- : ## START get_producto_data - 7790387013504
+[2022-10-26 11:24:03 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:24:03 PM] INFO -- : ## END get_producto_data - 7790387013504
+[2022-10-26 11:24:03 PM] INFO -- : ## START get_producto_data - 7793704000911
+[2022-10-26 11:24:04 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:24:04 PM] INFO -- : ## END get_producto_data - 7793704000911
+[2022-10-26 11:24:04 PM] INFO -- : ## START get_producto_data - 7790387014624
+[2022-10-26 11:24:04 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:24:04 PM] INFO -- : ## END get_producto_data - 7790387014624
+[2022-10-26 11:24:04 PM] INFO -- : ## START get_producto_data - 7790387800050
+[2022-10-26 11:24:12 PM] INFO -- : ## START get_producto_data - id
+[2022-10-26 11:24:13 PM] INFO -- : ## END get_producto_data - id
+[2022-10-26 11:24:13 PM] INFO -- : ## START get_producto_data - 7790387013627
+[2022-10-26 11:24:14 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:24:14 PM] INFO -- : ## END get_producto_data - 7790387013627
+[2022-10-26 11:24:14 PM] INFO -- : ## START get_producto_data - 7790387015607
+[2022-10-26 11:24:15 PM] INFO -- : ## Producto no encontrado
+[2022-10-26 11:24:15 PM] INFO -- : ## END get_producto_data - 7790387015607
+[2022-10-26 11:24:15 PM] INFO -- : ## START get_producto_data - 7790387013504
