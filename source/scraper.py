@@ -30,7 +30,7 @@ def strip_accents(texto):
                   if unicodedata.category(c) != 'Mn')
 
 
-def get_productos():
+def get_productos(id_sucursal,ciudad):
     """
     Devuelve un csv con data de producto yerba a partir de los id de las sucursales 
     """
@@ -38,31 +38,45 @@ def get_productos():
 
     # TODO: mejorar esto
     # pasarle los id de sucursales
-    url = 'https://d3e6htiiul5ek9.cloudfront.net/prod/productos?string=yerba&array_sucursales=2003-1-7670,10-3-785,24-2-157,24-2-59,10-3-768,9-2-444,10-3-720,24-2-83,10-3-648,24-2-314,10-3-770,24-2-74,10-3-765,24-2-300,24-2-266,9-1-440,10-3-769,9-2-435,24-2-79,2011-1-143,10-3-610,2009-1-78,10-3-772,10-3-793,2011-1-126,24-2-131,10-3-607,9-2-441,24-2-58,10-3-790&offset=0&limit=50&sort=-cant_sucursales_disponible' \
+    #url = 'https://d3e6htiiul5ek9.cloudfront.net/prod/productos?string=yerba&array_sucursales=2003-1-7670,10-3-785,24-2-157,24-2-59,10-3-768,9-2-444,10-3-720,24-2-83,10-3-648,24-2-314,10-3-770,24-2-74,10-3-765,24-2-300,24-2-266,9-1-440,10-3-769,9-2-435,24-2-79,2011-1-143,10-3-610,2009-1-78,10-3-772,10-3-793,2011-1-126,24-2-131,10-3-607,9-2-441,24-2-58,10-3-790&offset=0&limit=50&sort=-cant_sucursales_disponible' \
+
+    url = f'https://d3e6htiiul5ek9.cloudfront.net/prod/productos?string=yerba&array_sucursales={id_sucursal}&offset=0&limit=50&sort=-cant_sucursales_disponible' 
 
     response = get_json_page(url, headers)
+    
 
     if response["productos"]:
+
+        print(url)
 
         cant_productos = response["total"]
         cant_pages = cant_productos // 30
 
         df_productos = pd.DataFrame.from_records(response["productos"])
 
+        offset = 0
+
         for i in range(cant_pages): #itera para obtener todos los resultados
             #if i%10 == 0:
             logging.info(f"=> Pagina {i}/{cant_pages}") 
 
-            # offset+=30
-            url = f"https://d3e6htiiul5ek9.cloudfront.net/prod/productos?string=yerba&array_sucursales=2003-1-7670,10-3-785,24-2-157,24-2-59,10-3-768,9-2-444,10-3-720,24-2-83,10-3-648,24-2-314,10-3-770,24-2-74,10-3-765,24-2-300,24-2-266,9-1-440,10-3-769,9-2-435,24-2-79,2011-1-143,10-3-610,2009-1-78,10-3-772,10-3-793,2011-1-126,24-2-131,10-3-607,9-2-441,24-2-58,10-3-790&offset={i}&limit=30&sort=-cant_sucursales_disponible"
+            offset+=30
+            url = f"https://d3e6htiiul5ek9.cloudfront.net/prod/productos?string=yerba&array_sucursales={id_sucursal}&offset={offset}&limit=30&sort=-cant_sucursales_disponible"
             response = requests.request("GET",url,headers=headers).json()
 
             df_productos_new_row = (pd.DataFrame.from_records(response["productos"]))
             df_productos = pd.concat([df_productos, df_productos_new_row]) #va sumando al dataframe
 
 
-    df_productos.to_csv(f"../data/yerba.csv", index=False)
-    logging.info(f"## END {get_productos.__name__}")
+        df_productos.to_csv(f"./data/yerba_{ciudad}_{id_sucursal}.csv", index=False)
+        logging.info(f"## END {get_productos.__name__}")
+
+def procesar_yerba_sucursales(sucursales_id,ciudad):
+
+    for id in sucursales_id:
+
+        get_productos(id,ciudad)
+
 
 
 def get_producto_data(product_id):
@@ -93,7 +107,6 @@ def get_producto_data(product_id):
             print(response)
             # print(response['sucursales'])
 
-            aaa
             # cant_suc_con_producto = response['sucursalesConProducto']
 
             # total_pagina = response['totalPagina']
@@ -151,14 +164,16 @@ def get_sucursales_para_ciudad(ciudad, latitud, longitud):
 
 
     ciudad = ciudad.lower().replace(" ", "_")
-    df_sucursales.to_csv(f"../data/sucursales/{ciudad}_sucursales.csv", index=False)
+    df_sucursales.to_csv(f"./data/sucursales/{ciudad}_sucursales.csv", index=False)
     logging.info(f"## END {get_sucursales_para_ciudad.__name__}")
 
     return df_sucursales
 
 def get_id_sucursales():
 
-    path_ciudades = '../data/ciudades.csv'
+    """"Obtiene los ids de las sucursales de los csv ciudad_sucursales"""
+
+    path_ciudades = './data/ciudades.csv'
     ciudades = []
     with open(path_ciudades, 'r') as file:
         csvreader = csv.reader(file)
@@ -167,7 +182,7 @@ def get_id_sucursales():
 
     sucursales_ids = {} # {ciudad: [sucursales_id]}
     for ciudad in ciudades:
-        path_sucursales = f"../data/sucursales/{ciudad}_sucursales.csv"
+        path_sucursales = f"./data/sucursales/{ciudad}_sucursales.csv"
         try:
             with open(path_sucursales, 'r') as file:
                 csvreader = csv.reader(file)
@@ -211,11 +226,11 @@ def leer_producto_id(path):
 if __name__ == '__main__':
     
     #TODO: hacerlo en /config
-    logging.basicConfig(level=logging.INFO,
-                        format='[%(asctime)s] %(levelname)s -- : %(message)s',
-                        datefmt='%Y-%m-%d %I:%M:%S %p',
-                        filename=f"../logs/{date.today()}_scraper.log",
-                        filemode='a')
+    #logging.basicConfig(level=logging.INFO,
+    #                    format='[%(asctime)s] %(levelname)s -- : %(message)s',
+    #                    datefmt='%Y-%m-%d %I:%M:%S %p',
+    #                    filename=f"../logs/{date.today()}_scraper.log",
+    #                    filemode='a')
 
     #TODO: tener un config/constants
     path_ciudades = '../data/ciudades.csv'
@@ -225,11 +240,18 @@ if __name__ == '__main__':
 
     # Con los datos de ciudades.csv obtengo las sucursales de esas 
     # leer_ciudades(path_ciudades)
-    # get_sucursales_para_ciudad("Buenos Aires",-34.61315,-58.37723)
+    
+
     # get_sucursales_para_ciudad("La Plata",-34.92145,-57.95453)
 
     # Con el id de cada sucursal obtengo los productos
     # print(get_productos()) 
     # print(leer_producto_id(path_yerba)) 
 
-    # print(get_id_sucursales())
+    #list_id_sucursales = get_id_sucursales()["salta"][0:25] #pruebo solo con 25
+    #procesar_yerba_sucursales(list_id_sucursales, "salta")
+
+    sucursales_dic = get_id_sucursales()
+
+    for key in sucursales_dic.keys():
+        procesar_yerba_sucursales(sucursales_dic[key], key)
