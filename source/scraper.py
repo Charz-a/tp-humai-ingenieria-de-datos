@@ -9,10 +9,14 @@ import unicodedata
 import pandas as pd
 import logging
 import os
+import pandas_gbq as bq
+from google.oauth2 import service_account
 
 # TODO
 # from data.config.constants import PATH_CIUDADES, PATH_YERBA
 
+
+credentials = service_account.Credentials.from_service_account_file("./source/key.json")
 
 headers = {'Content-Type':'application/json',
         'sec-ch-ua':'".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"',
@@ -42,9 +46,7 @@ def get_productos(id_sucursal,ciudad):
     response = get_json_page(url, headers)
     
     try:
-        if response["productos"]:
-
-            print(url)
+        if len(response["productos"]) > 0:
 
             cant_productos = response["total"]
             cant_pages = cant_productos // 30
@@ -78,13 +80,18 @@ def get_productos(id_sucursal,ciudad):
 def procesar_yerba_sucursales(sucursales_id,ciudad):
 
     df_total = pd.DataFrame()
+    i=0
 
     for id in sucursales_id:
-
+        i+=1
         df_productos = get_productos(id,ciudad)
-        df_total = pd.concat([df_total, df_productos])
-        print(df_total)
-    
+        #print(df_productos)
+        try:
+            df_productos.to_gbq('alumnos-sandbox.precios_productos.yerba_precios', 'alumnos-sandbox', credentials = credentials, if_exists="append")
+            df_total = pd.concat([df_total, df_productos])
+        except:
+            pass
+  
     return df_total
 
 
@@ -92,14 +99,8 @@ def procesar_yerba_sucursales(sucursales_id,ciudad):
 def get_producto_data(product_id):
     logging.info(f"## START {get_producto_data.__name__} - {product_id}")
 
-    # sucursales_id = get_id_sucursales()
-    # ciudad_sucursales_id = ','.join(sucursales_id['buenos_aires'])
-    # print(ciudad_sucursales_id)
-
     # url = f"https://d3e6htiiul5ek9.cloudfront.net/prod/producto?limit=30&id_producto={product_id}&array_sucursales=2003-1-7670,10-3-785,24-2-157,24-2-59,10-3-768,9-2-444,10-3-720,24-2-83,10-3-648,24-2-314,10-3-770,24-2-74,10-3-765,24-2-300,24-2-266,9-1-440,10-3-769,9-2-435,24-2-79,2011-1-143,10-3-610,2009-1-78,10-3-772,10-3-793,2011-1-126,24-2-131,10-3-607,9-2-441,24-2-58,10-3-790"
     url = f"https://d3e6htiiul5ek9.cloudfront.net/prod/producto?limit=30&id_producto={product_id}&array_sucursales=2003-1-7670,10-3-785"
-
-    # url = f"https://d3e6htiiul5ek9.cloudfront.net/prod/producto?limit=30&id_producto={product_id}&array_sucursales={ciudad_sucursales_id}"
 
     response = get_json_page(url, headers)
 
@@ -198,14 +199,10 @@ def get_id_sucursales():
                 csvreader = csv.reader(file)
                 next(csvreader) # para saltear el encabezado
                 for row in csvreader:
-                    # sucursales_ids.append(row[6])
                     if ciudad not in sucursales_ids.keys():
-
                         sucursales_ids[ciudad] = [row[6]]
                     else:
                         sucursales_ids[ciudad].append(row[6])
-
-
         except:
             logging.info(f"## No existe path {path_sucursales}")
     
@@ -246,21 +243,19 @@ if __name__ == '__main__':
     path_ciudades = '../data/ciudades.csv'
     path_yerba = '../data/yerba.csv'
 
-
-    #list_id_sucursales = get_id_sucursales()["salta"][0:25] #pruebo solo con 25
-    #procesar_yerba_sucursales(list_id_sucursales, "salta")
-
     sucursales_dic = get_id_sucursales()
 
-    salta = {"salta": sucursales_dic["salta"][0:25]}
-    rosario = {"rosario": sucursales_dic["rosario"][0:25]}
-    buenos_aires = {"buenos_aires": sucursales_dic["buenos_aires"][0:25]}
+    #salta = {"salta": sucursales_dic["salta"][0:25]}
+    rosario = {"rosario": sucursales_dic["rosario"][0:50]}
+    buenos_aires = {"buenos_aires": sucursales_dic["buenos_aires"][0:50]}
 
-    salta.update(rosario)
-    salta.update(buenos_aires)
-    test_sucursales = salta
+    #buenos_aires.update(rosario)
+    #salta.update(buenos_aires)
+    rosario.update(buenos_aires)
+    test_sucursales = rosario
 
     for key in test_sucursales.keys():
+        print(test_sucursales)
         df_total = procesar_yerba_sucursales(sucursales_dic[key], key)
 
     df_total.to_csv('../data/precios_yerba_por_sucursal.csv', index = False)
